@@ -1,2 +1,2 @@
 # US-Stocks-Ticker-List
-Generating every us stocks ticker using 
+Using FMP as the API provider for stock lists. 
