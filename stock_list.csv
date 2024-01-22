@@ -1,0 +1,4337 @@
+symbol,name
+NTEST,Tick Pilot Test Sym-Control
+CVX,Chevron Corporation
+RBLX,Roblox Corporation
+DIS,The Walt Disney Company
+T,AT&T Inc.
+XOM,Exxon Mobil Corporation
+VEL,"Velocity Financial, Inc."
+DSL,DoubleLine Income Solutions Fund
+PHK,PIMCO High Income Fund
+BTZ,BlackRock Credit Allocation Income Trust
+DOUG,Douglas Elliman Inc.
+BRK-A,Berkshire Hathaway Inc.
+BSBR,Banco Santander (Brasil) S.A.
+WTM,"White Mountains Insurance Group, Ltd."
+CURO,CURO Group Holdings Corp.
+CTV,Innovid Corp.
+BUXX,Strive Enhanced Income Short Maturity ETF
+SQ,"Block, Inc."
+ANF,Abercrombie & Fitch Co.
+LANV,Lanvin Group Holdings Limited
+NVR,"NVR, Inc."
+ICL,ICL Group Ltd
+RA,Brookfield Real Assets Income Fund Inc.
+QBTS,D-Wave Quantum Inc.
+GOLD,Barrick Gold Corporation
+ROG,Rogers Corporation
+BABA,Alibaba Group Holding Limited
+PFN,PIMCO Income Strategy Fund II
+PPG,"PPG Industries, Inc."
+EMR,Emerson Electric Co.
+UPS,"United Parcel Service, Inc."
+F,Ford Motor Company
+PINS,"Pinterest, Inc."
+FCX,Freeport-McMoRan Inc.
+MKFG-WT,
+CTVA,"Corteva, Inc."
+BRK-B,Berkshire Hathaway Inc.
+PG,The Procter & Gamble Company
+STZ,"Constellation Brands, Inc."
+PCN,PIMCO Corporate & Income Strategy Fund
+PFE,Pfizer Inc.
+WFC,Wells Fargo & Company
+BBAI-WT,
+NMG,Nouveau Monde Graphite Inc.
+CMG,"Chipotle Mexican Grill, Inc."
+BRC,Brady Corporation
+PRGO,Perrigo Company plc
+TGH,Textainer Group Holdings Limited
+MAV,"Pioneer Municipal High Income Advantage Fund, Inc."
+LAW,"CS Disco, Inc."
+ELF,"e.l.f. Beauty, Inc."
+F-PD,Ford Motor Company 6.500% Notes
+AOMR,"Angel Oak Mortgage, Inc."
+IBM,International Business Machines Corporation
+BIPI,BIP Bermuda Holdings I Limited 
+AG,First Majestic Silver Corp.
+CAAP,Corporación América Airports S.A.
+NRGV,"Energy Vault Holdings, Inc."
+CLDT-PA,Chatham Lodging Trust
+EGO,Eldorado Gold Corporation
+AMCR,Amcor plc
+GB,Global Blue Group Holding AG
+BE,Bloom Energy Corporation
+PBH,Prestige Consumer Healthcare Inc.
+DDS,"Dillard's, Inc."
+CDAY,Ceridian HCM Holding Inc.
+BFZ,BlackRock California Municipal Income Trust
+HPE,Hewlett Packard Enterprise Company
+HVT,"Haverty Furniture Companies, Inc."
+CAVA,"CAVA Group, Inc."
+WFC-PD,Wells Fargo & Company
+GDV,The Gabelli Dividend & Income Trust
+CNP,"CenterPoint Energy, Inc."
+MEGI,MainStay CBRE Global Infrastructure Megatrends Fund
+NVG,Nuveen AMT-Free Municipal Credit Income Fund
+MX,Magnachip Semiconductor Corporation
+BW-PA,"Babcock & Wilcox Enterprises, Inc."
+FOUR,"Shift4 Payments, Inc."
+FRGE,"Forge Global Holdings, Inc."
+DHR,Danaher Corporation
+IBP,"Installed Building Products, Inc."
+KT,KT Corporation
+NWG,NatWest Group plc
+OEC,Orion Engineered Carbons S.A.
+OSG,"Overseas Shipholding Group, Inc."
+BF-A,Brown-Forman Corporation
+EIX,Edison International
+SBOW,"SilverBow Resources, Inc."
+DAC,Danaos Corporation
+MIY,"BlackRock MuniYield Michigan Quality Fund, Inc."
+WLY,"John Wiley & Sons, Inc."
+MC,Moelis & Company
+MFC,Manulife Financial Corporation
+MG,"Mistras Group, Inc."
+IHTA,Invesco High Income 2024 Target Term Fund
+JHI,John Hancock Investors Trust
+VLTO,Veralto Corporation
+WS,"Worthington Steel, Inc."
+YOU,"Clear Secure, Inc."
+CEIX,CONSOL Energy Inc.
+CPA,"Copa Holdings, S.A."
+JHG,Janus Henderson Group plc
+TPH,"Tri Pointe Homes, Inc."
+DEA,"Easterly Government Properties, Inc."
+EFR,Eaton Vance Senior Floating-Rate Trust
+LAAC,Lithium Americas (Argentina) Corp.
+NOW,"ServiceNow, Inc."
+RH,RH
+AJX,Great Ajax Corp.
+AVTR,"Avantor, Inc."
+C-PN,Citigroup Capital XIII TR PFD SECS
+LXP,LXP Industrial Trust
+FBRT,"Franklin BSP Realty Trust, Inc."
+NGL,NGL Energy Partners LP
+KEY,KeyCorp
+MEC,"Mayville Engineering Company, Inc."
+SOJE,Southern Company (The) Series 2
+WDI,Western Asset Diversified Income Fund
+ZUO,"Zuora, Inc."
+AGR,"Avangrid, Inc."
+BGS,"B&G Foods, Inc."
+BGT,BlackRock Floating Rate Income Trust
+BIO,"Bio-Rad Laboratories, Inc."
+DB,Deutsche Bank Aktiengesellschaft
+ONON,On Holding AG
+PRT,PermRock Royalty Trust
+TCN,Tricon Residential Inc.
+DK,"Delek US Holdings, Inc."
+FE,FirstEnergy Corp.
+PATH,UiPath Inc.
+RSI,"Rush Street Interactive, Inc."
+PDT,John Hancock Premium Dividend Fund
+DXC,DXC Technology Company
+AN,"AutoNation, Inc."
+EOT,Eaton Vance National Municipal Opportunities Trust
+FSLY,"Fastly, Inc."
+BROS,Dutch Bros Inc.
+FLS,Flowserve Corporation
+KNX,Knight-Swift Transportation Holdings Inc.
+GSK,GSK plc
+LTC,"LTC Properties, Inc."
+FDP,Fresh Del Monte Produce Inc.
+GOL,Gol Linhas Aéreas Inteligentes S.A.
+J,Jacobs Engineering Group Inc.
+AB,AllianceBernstein Holding L.P.
+NEE,"NextEra Energy, Inc."
+FMX,"Fomento Económico Mexicano, S.A.B. de C.V."
+DY,"Dycom Industries, Inc."
+AME,"AMETEK, Inc."
+WNC,Wabash National Corporation
+CMC,Commercial Metals Company
+CUBE,CubeSmart
+NEA,Nuveen AMT-Free Quality Municipal Income Fund
+OVV,Ovintiv Inc.
+ATO,Atmos Energy Corporation
+STWD,"Starwood Property Trust, Inc."
+MS-PP,Morgan Stanley
+QUAD,"Quad/Graphics, Inc."
+KLG,WK Kellogg Co
+CODI,Compass Diversified
+EHC,Encompass Health Corporation
+CR,Crane Company
+SDHY,PGIM Short Duration High Yield Opportunities Fund
+BAC-PO,Bank of America Corporation
+HPQ,HP Inc.
+LHX,"L3Harris Technologies, Inc."
+AXS-PE,AXIS Capital Holdings Limited
+HIG,"The Hartford Financial Services Group, Inc."
+PMT,PennyMac Mortgage Investment Trust
+GMS,GMS Inc.
+PDO,Pimco Dynamic Income Opportunities Fund
+YUM,"Yum! Brands, Inc."
+BLW,BlackRock Limited Duration Income Trust
+BKKT,"Bakkt Holdings, Inc."
+GDL,The GDL Fund
+BRO,"Brown & Brown, Inc."
+AMX,"América Móvil, S.A.B. de C.V."
+ASB,Associated Banc-Corp
+IAE,Voya Asia Pacific High Dividend Equity Income Fund
+DECK,Deckers Outdoor Corporation
+MYE,"Myers Industries, Inc."
+AAT,"American Assets Trust, Inc."
+BEN,"Franklin Resources, Inc."
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A."
+CFR-PB,"Cullen/Frost Bankers, Inc."
+DAVA,Endava plc
+AGCO,AGCO Corporation
+DLR-PK,"Digital Realty Trust, Inc."
+FENG,Phoenix New Media Limited
+GETR,"Getaround, Inc."
+GRND,Grindr Inc.
+NTST,NETSTREIT Corp.
+LOW,"Lowe's Companies, Inc."
+RYI,Ryerson Holding Corporation
+RYN,Rayonier Inc.
+SHOP,Shopify Inc.
+SST,"System1, Inc."
+WKC,World Kinect Corporation
+AWI,"Armstrong World Industries, Inc."
+BKH,Black Hills Corporation
+BCO,The Brink's Company
+BXP,"Boston Properties, Inc."
+CARS,Cars.com Inc.
+CLW,Clearwater Paper Corporation
+CMSD,CMS Energy Corporation 5.875% J
+EHI,Western Asset Global High Income Fund Inc.
+MMS,"Maximus, Inc."
+PEN,"Penumbra, Inc."
+PEO,"Adams Natural Resources Fund, Inc."
+PLYM,"Plymouth Industrial REIT, Inc."
+ODC,Oil-Dri Corporation of America
+TGNA,TEGNA Inc.
+UAN,"CVR Partners, LP"
+CMP,"Compass Minerals International, Inc."
+CCO,"Clear Channel Outdoor Holdings, Inc."
+CURV,Torrid Holdings Inc.
+CSL,Carlisle Companies Incorporated
+DNMR,"Danimer Scientific, Inc."
+EFC,Ellington Financial Inc.
+ESAB,ESAB Corporation
+LGF-A,Lions Gate Entertainment Corp.
+OBK,"Origin Bancorp, Inc."
+SHEL,Shell plc
+TPR,"Tapestry, Inc."
+VAL,Valaris Limited
+WPC,W. P. Carey Inc.
+EPR,EPR Properties
+AMP,"Ameriprise Financial, Inc."
+BAC-PN,Bank of America Corporation
+COF-PJ,Capital One Financial Corporation
+FC,Franklin Covey Co.
+IEX,IDEX Corporation
+MDU,"MDU Resources Group, Inc."
+MET,"MetLife, Inc."
+MHI,"Pioneer Municipal High Income Fund, Inc."
+MTDR,Matador Resources Company
+NET,"Cloudflare, Inc."
+NVST,Envista Holdings Corporation
+TWO-PB,Two Harbors Investment Corp.
+ALEX,"Alexander & Baldwin, Inc."
+BMEZ,BlackRock Health Sciences Trust II
+BHVN,Biohaven Pharmaceutical Holding Company Ltd.
+MS-PE,Morgan Stanley
+CVS,CVS Health Corporation
+MSM,"MSC Industrial Direct Co., Inc."
+MTZ,"MasTec, Inc."
+HGLB,Highland Global Allocation Fund
+HMC,"Honda Motor Co., Ltd."
+ERJ,Embraer S.A.
+MWA,"Mueller Water Products, Inc."
+AMRC,"Ameresco, Inc."
+BML-PH,Bank of America Corporation
+BMO,Bank of Montreal
+BDC,Belden Inc.
+CRT,Cross Timbers Royalty Trust
+FTHY,First Trust High Yield Opportunities 2027 Term Fund
+INFY,Infosys Limited
+GSBD,"Goldman Sachs BDC, Inc."
+HR,Healthcare Realty Trust Incorporated
+CTRE,"CareTrust REIT, Inc."
+SLGN,Silgan Holdings Inc.
+TRNO,Terreno Realty Corporation
+BAX,Baxter International Inc.
+FLNG,FLEX LNG Ltd.
+FPF,First Trust Intermediate Duration Preferred & Income Fund
+FTK,"Flotek Industries, Inc."
+NGS,"Natural Gas Services Group, Inc."
+SN,"SharkNinja, Inc."
+CZOO,Cazoo Group Ltd
+CVEO,Civeo Corporation
+FTV,Fortive Corporation
+LDOS,"Leidos Holdings, Inc."
+LU,Lufax Holding Ltd
+SLVM,Sylvamo Corporation
+TBB,AT&T Inc. 5.35% GLB NTS 66
+TECK,Teck Resources Limited
+EBR,Centrais Elétricas Brasileiras S.A. - Eletrobrás
+BDX,"Becton, Dickinson and Company"
+FUBO,fuboTV Inc.
+FPI,Farmland Partners Inc.
+LPX,Louisiana-Pacific Corporation
+MFA-PB,"MFA Financial, Inc."
+EGY,"VAALCO Energy, Inc."
+KEX,Kirby Corporation
+PMM,Putnam Managed Municipal Income Trust
+PSTG,"Pure Storage, Inc."
+OC,Owens Corning
+OLO,Olo Inc.
+VST,Vistra Corp.
+ESMT,"EngageSmart, Inc."
+LBRT,Liberty Energy Inc.
+LGI,"Lazard Global Total Return and Income Fund, Inc."
+LUV,Southwest Airlines Co.
+MP,MP Materials Corp.
+STNG,Scorpio Tankers Inc.
+AESI,Atlas Energy Solutions Inc.
+EURN,Euronav NV
+ESRT,"Empire State Realty Trust, Inc."
+KRC,Kilroy Realty Corporation
+KVYO,"Klaviyo, Inc."
+EVRI,Everi Holdings Inc.
+MANU,Manchester United plc
+PSA-PF,Public Storage
+VLD,"Velo3D, Inc."
+NKE,"NIKE, Inc."
+CRI,"Carter's, Inc."
+F-PB,Ford Motor Company 6.20% Notes 
+HGV,Hilton Grand Vacations Inc.
+LVWR,"LiveWire Group, Inc."
+MBC,"MasterBrand, Inc."
+ARMK,Aramark
+MO,"Altria Group, Inc."
+PGRE,"Paramount Group, Inc."
+DOLE,Dole plc
+ONTF,"ON24, Inc."
+OGS,"ONE Gas, Inc."
+RITM,Rithm Capital Corp.
+AROC,"Archrock, Inc."
+EVH,"Evolent Health, Inc."
+GS-PA,"The Goldman Sachs Group, Inc."
+C,Citigroup Inc.
+CTR,ClearBridge MLP and Midstream Total Return Fund Inc.
+PB,"Prosperity Bancshares, Inc."
+SLCA,"U.S. Silica Holdings, Inc."
+EVTL,Vertical Aerospace Ltd.
+MTW,"The Manitowoc Company, Inc."
+TMHC,Taylor Morrison Home Corporation
+DEI,"Douglas Emmett, Inc."
+ADCT,ADC Therapeutics SA
+C-PJ,Citigroup Inc.
+MGY,Magnolia Oil & Gas Corporation
+DAR,Darling Ingredients Inc.
+LSPD,Lightspeed Commerce Inc.
+FL,"Foot Locker, Inc."
+MET-PA,"MetLife, Inc."
+NGVT,Ingevity Corporation
+IMAX,IMAX Corporation
+OOMA,"Ooma, Inc."
+NNN,"National Retail Properties, Inc."
+FFA,First Trust Enhanced Equity Income Fund
+SKLZ,Skillz Inc.
+VVV,Valvoline Inc.
+UBER,"Uber Technologies, Inc."
+CIM-PC,Chimera Investment Corporation
+WY,Weyerhaeuser Company
+CAH,"Cardinal Health, Inc."
+GLW,Corning Incorporated
+BFAM,Bright Horizons Family Solutions Inc.
+GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust
+AIT,"Applied Industrial Technologies, Inc."
+VIPS,Vipshop Holdings Limited
+HFRO,Highland Funds I - Highland Income Fund
+FDX,FedEx Corporation
+LYV,"Live Nation Entertainment, Inc."
+SAVE,"Spirit Airlines, Inc."
+LEVI,Levi Strauss & Co.
+GM,General Motors Company
+SBH,"Sally Beauty Holdings, Inc."
+HRB,"H&R Block, Inc."
+ETB,Eaton Vance Tax-Managed Buy-Write Income Fund
+BBY,"Best Buy Co., Inc."
+UAA,"Under Armour, Inc."
+BYM,BlackRock Municipal Income Quality Trust
+ATH-PC,Athene Holding Ltd.
+GNL,"Global Net Lease, Inc."
+STEM,"Stem, Inc."
+DQ,Daqo New Energy Corp.
+FLR,Fluor Corporation
+VOC,VOC Energy Trust
+SWX,"Southwest Gas Holdings, Inc."
+ACI,"Albertsons Companies, Inc."
+EXTO,Almacenes Éxito S.A.
+BGSF,"BGSF, Inc."
+TRU,TransUnion
+DNB,"Dun & Bradstreet Holdings, Inc."
+NUS,"Nu Skin Enterprises, Inc."
+CIM,Chimera Investment Corporation
+DMO,Western Asset Mortgage Opportunity Fund Inc.
+LADR,Ladder Capital Corp
+SOS,SOS Limited
+BLCO,Bausch + Lomb Corporation
+DLY,DoubleLine Yield Opportunities Fund
+NVRI,Enviri Corporation
+FINV,FinVolution Group
+BH,Biglari Holdings Inc.
+ACM,AECOM
+AM,Antero Midstream Corporation
+CSV,"Carriage Services, Inc."
+KO,The Coca-Cola Company
+TSLX,"Sixth Street Specialty Lending, Inc."
+CIVI,"Civitas Resources, Inc."
+MS-PA,Morgan Stanley
+HPP,"Hudson Pacific Properties, Inc."
+HYLN,Hyliion Holdings Corp.
+EQR,Equity Residential
+ALB,Albemarle Corporation
+CRM,"Salesforce, Inc."
+IP,International Paper Company
+WRB-PE,W. R. Berkley Corporation 5.70% SB DB 2058
+BCS,Barclays PLC
+ATI,ATI Inc.
+SPGI,S&P Global Inc.
+ETWO,"E2open Parent Holdings, Inc."
+FF,FutureFuel Corp.
+EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund
+HES,Hess Corporation
+MSCI,MSCI Inc.
+IIPR,"Innovative Industrial Properties, Inc."
+GPS,"The Gap, Inc."
+TGLS,Tecnoglass Inc.
+EIC,Eagle Point Income Company Inc.
+ED,"Consolidated Edison, Inc."
+TEL,TE Connectivity Ltd.
+ALL,The Allstate Corporation
+GFF,Griffon Corporation
+DHT,"DHT Holdings, Inc."
+MHD,"BlackRock MuniHoldings Fund, Inc."
+FRO,Frontline Ltd.
+BRT,BRT Apartments Corp.
+BLK,"BlackRock, Inc."
+CE,Celanese Corporation
+EVT,Eaton Vance Tax-Advantaged Dividend Income Fund
+INST,"Instructure Holdings, Inc."
+IIF,"Morgan Stanley India Investment Fund, Inc."
+M,"Macy's, Inc."
+PAC,"Grupo Aeroportuario del Pacífico, S.A.B. de C.V."
+MGR,"Affiliated Managers Group, Inc."
+BKD,Brookdale Senior Living Inc.
+BRFS,BRF S.A.
+BKT,"BlackRock Income Trust, Inc."
+IRM,Iron Mountain Incorporated
+NCZ,Virtus Convertible & Income Fund II
+GWRE,"Guidewire Software, Inc."
+HLI,"Houlihan Lokey, Inc."
+NOV,NOV Inc.
+PHR,"Phreesia, Inc."
+RMMZ,"RiverNorth Managed Duration Municipal Income Fund II, Inc."
+USPH,"U.S. Physical Therapy, Inc."
+BEPH,Brookfield BRP Holdings (Canada
+BLDR,"Builders FirstSource, Inc."
+CMRE,Costamare Inc.
+WT,"WisdomTree, Inc."
+ECL,Ecolab Inc.
+FHI,"Federated Hermes, Inc."
+JRI,Nuveen Real Asset Income and Growth Fund
+KD,"Kyndryl Holdings, Inc."
+NVT,nVent Electric plc
+CL,Colgate-Palmolive Company
+DRQ,"Dril-Quip, Inc."
+FUL,H.B. Fuller Company
+HLLY,Holley Inc.
+RYAN,"Ryan Specialty Holdings, Inc."
+AHL-PC,Aspen Insurance Holdings Limited
+HG,"Hamilton Insurance Group, Ltd."
+KIM-PL,Kimco Realty Corporation
+SITC,SITE Centers Corp.
+UNFI,"United Natural Foods, Inc."
+VLRS,"Controladora Vuela Compañía de Aviación, S.A.B. de C.V."
+VNCE,Vince Holding Corp.
+KB,KB Financial Group Inc.
+HMN,Horace Mann Educators Corporation
+PDI,PIMCO Dynamic Income Fund
+LAC,Lithium Americas Corp.
+GOOS,Canada Goose Holdings Inc.
+INN,"Summit Hotel Properties, Inc."
+PUK,Prudential plc
+RBOT,Vicarious Surgical Inc.
+SES,SES AI Corporation
+VRE,"Veris Residential, Inc."
+DRI,"Darden Restaurants, Inc."
+NTCO,Natura &Co Holding S.A.
+LVS,Las Vegas Sands Corp.
+QS,QuantumScape Corporation
+SMLP,"Summit Midstream Partners, LP"
+MFM,MFS Municipal Income Trust
+FCN,"FTI Consulting, Inc."
+MSI,"Motorola Solutions, Inc."
+NBHC,National Bank Holdings Corporation
+PK,Park Hotels & Resorts Inc.
+AX,"Axos Financial, Inc."
+ALUR,Allurion Technologies Inc.
+SONY,Sony Group Corporation
+FINS,Angel Oak Financial Strategies Income Term Trust
+YETI,"YETI Holdings, Inc."
+BAC-PP,Bank of America Corporation
+TFC-PR,Truist Financial Corporation
+PBI,Pitney Bowes Inc.
+VTMX,"Corporación Inmobiliaria Vesta, S.A.B. de C.V."
+ICD,"Independence Contract Drilling, Inc."
+ENR,"Energizer Holdings, Inc."
+BBUC,Brookfield Business Corporation
+JHS,John Hancock Income Securities Trust
+PDM,"Piedmont Office Realty Trust, Inc."
+TCS,"The Container Store Group, Inc."
+HUBB,Hubbell Incorporated
+EFT,Eaton Vance Floating-Rate Income Trust
+SA,Seabridge Gold Inc.
+JT,Jianpu Technology Inc.
+GROV,"Grove Collaborative Holdings, Inc."
+BGY,BlackRock Enhanced International Dividend Trust
+AIR,AAR Corp.
+FT,Franklin Universal Trust
+IGI,Western Asset Investment Grade Defined Opportunity Trust Inc.
+NKX,Nuveen California AMT-Free Quality Municipal Income Fund
+PSA-PG,Public Storage
+MRDB,MariaDB plc
+FET,"Forum Energy Technologies, Inc."
+MTH,Meritage Homes Corporation
+SREA,SEMPRA ENERGY
+SHCO,Soho House & Co Inc.
+GEF,"Greif, Inc."
+TIXT,TELUS International (Cda) Inc.
+MMT,MFS Multimarket Income Trust
+ARCO,Arcos Dorados Holdings Inc.
+MUA,"BlackRock MuniAssets Fund, Inc."
+RF-PC,Regions Financial Corporation
+AMPY,Amplify Energy Corp.
+FRA,"BlackRock Floating Rate Income Strategies Fund, Inc."
+GBTG,"Global Business Travel Group, Inc."
+HYI,Western Asset High Yield Defined Opportunity Fund Inc.
+BLE,BlackRock Municipal Income Trust II
+ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund
+ENS,EnerSys
+OUST,"Ouster, Inc."
+BOWL,Bowlero Corp.
+NOMD,Nomad Foods Limited
+IX,ORIX Corporation
+UI,Ubiquiti Inc.
+SPNT,SiriusPoint Ltd.
+BAC-PE,Bank of America Corporation
+HIO,Western Asset High Income Opportunity Fund Inc.
+JOF,"Japan Smaller Capitalization Fund, Inc."
+KSM,DWS Strategic Municipal Income Trust
+MCN,Madison Covered Call & Equity Strategy Fund
+NCV,Virtus Convertible & Income Fund
+TWO-PC,Two Harbors Investment Corp.
+MYD,"BlackRock MuniYield Fund, Inc."
+ACR,ACRES Commercial Realty Corp.
+DSU,"BlackRock Debt Strategies Fund, Inc."
+MCR,MFS Charter Income Trust
+CAF,"Morgan Stanley China A Share Fund, Inc."
+BJ,"BJ's Wholesale Club Holdings, Inc."
+ARW,"Arrow Electronics, Inc."
+AZEK,The AZEK Company Inc.
+VSTS,Vestis Corporation
+BAC-PK,Bank of America Corporation
+JLL,Jones Lang LaSalle Incorporated
+GFI,Gold Fields Limited
+TARO,Taro Pharmaceutical Industries Ltd.
+BYD,Boyd Gaming Corporation
+NMAI,Nuveen Multi-Asset Income Fund
+NMCO,Nuveen Municipal Credit Opportunities Fund
+AQNU,Algonquin Power & Utilities Corp.
+HHLA,HH&L Acquisition Co.
+WK,Workiva Inc.
+ABG,"Asbury Automotive Group, Inc."
+LAZ,Lazard Ltd
+ZWS,Zurn Elkay Water Solutions Corporation
+DAN,Dana Incorporated
+IVR,Invesco Mortgage Capital Inc.
+AWP,abrdn Global Premier Properties Fund
+BWA,BorgWarner Inc.
+USAC,"USA Compression Partners, LP"
+DT,"Dynatrace, Inc."
+UZD,United States Cellular Corporat
+BVN,Compañía de Minas Buenaventura S.A.A.
+CAPL,CrossAmerica Partners LP
+CPF,Central Pacific Financial Corp.
+PXD,Pioneer Natural Resources Company
+BX,Blackstone Inc.
+CDRE,"Cadre Holdings, Inc."
+LGF-B,Lions Gate Entertainment Corp.
+KORE,"KORE Group Holdings, Inc."
+STT-PD,State Street Corporation
+VTEX,VTEX
+ALE,"ALLETE, Inc."
+G,Genpact Limited
+IFN,"The India Fund, Inc."
+IQV,IQVIA Holdings Inc.
+KRP,"Kimbell Royalty Partners, LP"
+LTH,"Life Time Group Holdings, Inc."
+MHF,Western Asset Municipal High Income Fund Inc.
+AVB,"AvalonBay Communities, Inc."
+MFA,"MFA Financial, Inc."
+GEL,"Genesis Energy, L.P."
+AIZN,"Assurant, Inc. 5.25% Subordinat"
+CHD,"Church & Dwight Co., Inc."
+CHE,Chemed Corporation
+AL-PA,Air Lease Corporation
+AA,Alcoa Corporation
+ABM,ABM Industries Incorporated
+LXU,"LSB Industries, Inc."
+LXFR,Luxfer Holdings PLC
+CBRE,"CBRE Group, Inc."
+V,Visa Inc.
+MKL,Markel Corporation
+NSC,Norfolk Southern Corporation
+ALSN,"Allison Transmission Holdings, Inc."
+KGC,Kinross Gold Corporation
+AEVA,"Aeva Technologies, Inc."
+XHR,"Xenia Hotels & Resorts, Inc."
+ARL,"American Realty Investors, Inc."
+RSKD,Riskified Ltd.
+FSD,First Trust High Income Long/Short Fund
+LICY,Li-Cycle Holdings Corp.
+AGRO,Adecoagro S.A.
+T-PA,AT&T Inc.
+ALL-PJ,The Allstate Corporation
+ATH-PB,Athene Holding Ltd.
+MAS,Masco Corporation
+NMZ,Nuveen Municipal High Income Opportunity Fund
+EAT,"Brinker International, Inc."
+KVUE,Kenvue Inc.
+FCT,First Trust Senior Floating Rate Income Fund II
+GAM,"General American Investors Company, Inc."
+EVG,Eaton Vance Short Duration Diversified Income Fund
+ETD,Ethan Allen Interiors Inc.
+ARR,"ARMOUR Residential REIT, Inc."
+BHP,BHP Group Limited
+GE,General Electric Company
+HUN,Huntsman Corporation
+BBAI,"BigBear.ai Holdings, Inc."
+TLYS,"Tilly's, Inc."
+BCAT,BlackRock Capital Allocation Trust
+CXW,"CoreCivic, Inc."
+CPK,Chesapeake Utilities Corporation
+BORR,Borr Drilling Limited
+FSS,Federal Signal Corporation
+ASAN,"Asana, Inc."
+ARES,Ares Management Corporation
+UA,"Under Armour, Inc."
+AZUL,Azul S.A.
+AMT,American Tower Corporation
+ECVT,Ecovyst Inc.
+WEAV,"Weave Communications, Inc."
+QTWO,"Q2 Holdings, Inc."
+CUK,Carnival Corporation & plc
+KRG,Kite Realty Group Trust
+VRT,Vertiv Holdings Co
+CNQ,Canadian Natural Resources Limited
+KWR,Quaker Chemical Corporation
+SCHW,The Charles Schwab Corporation
+LC,LendingClub Corporation
+SPIR,"Spire Global, Inc."
+GETY,"Getty Images Holdings, Inc."
+CF,"CF Industries Holdings, Inc."
+TEVA,Teva Pharmaceutical Industries Limited
+CPT,Camden Property Trust
+THW,Tekla World Healthcare Fund
+REXR,"Rexford Industrial Realty, Inc."
+BY,"Byline Bancorp, Inc."
+JPM,JPMorgan Chase & Co.
+HBB,Hamilton Beach Brands Holding Company
+ALLE,Allegion plc
+CGA,"China Green Agriculture, Inc."
+DM,"Desktop Metal, Inc."
+BBN,BlackRock Taxable Municipal Bond Trust
+BC,Brunswick Corporation
+BAC-PM,Bank of America Corporation
+SNV-PE,Synovus Financial Corp.
+BARK,"BARK, Inc."
+AGS,"PlayAGS, Inc."
+AGX,"Argan, Inc."
+BRX,Brixmor Property Group Inc.
+BBWI,"Bath & Body Works, Inc."
+CGAU,Centerra Gold Inc.
+CLF,Cleveland-Cliffs Inc.
+DKS,"DICK'S Sporting Goods, Inc."
+DLB,"Dolby Laboratories, Inc."
+GUT,The Gabelli Utility Trust
+H,Hyatt Hotels Corporation
+SAFE,Safehold Inc.
+SBS,Companhia de Saneamento Básico do Estado de São Paulo - SABESP
+SEMR,"Semrush Holdings, Inc."
+SNOW,Snowflake Inc.
+TME,Tencent Music Entertainment Group
+ZTO,ZTO Express (Cayman) Inc.
+HYB,The New America High Income Fund Inc.
+BSL,Blackstone / GSO Senior Floating Rate Term Fund
+BIGZ,Blackrock Innovation & Growth Trust
+CBT,Cabot Corporation
+CCI,Crown Castle Inc.
+CCL,Carnival Corporation & plc
+CLPR,Clipper Realty Inc.
+CLX,The Clorox Company
+INSP,"Inspire Medical Systems, Inc."
+MLI,"Mueller Industries, Inc."
+NX,Quanex Building Products Corporation
+PJT,PJT Partners Inc.
+PRO,"PROS Holdings, Inc."
+SBXC,SilverBox Corp III
+SII,Sprott Inc.
+SWI,SolarWinds Corporation
+SYF-PA,Synchrony Financial
+TAK,Takeda Pharmaceutical Company Limited
+VICI,VICI Properties Inc.
+ALCC,AltC Acquisition Corp.
+BOX,"Box, Inc."
+CCS,"Century Communities, Inc."
+CRD-B,Crawford & Company
+CPG,Crescent Point Energy Corp.
+DD,"DuPont de Nemours, Inc."
+DELL,Dell Technologies Inc.
+ICE,"Intercontinental Exchange, Inc."
+ORAN,Orange S.A.
+PII,Polaris Inc.
+ROL,"Rollins, Inc."
+S,"SentinelOne, Inc."
+SOI,"Solaris Oilfield Infrastructure, Inc."
+SOL,ReneSola Ltd
+TRGP,Targa Resources Corp.
+VOYA,"Voya Financial, Inc."
+VTLE,"Vital Energy, Inc."
+GPK,Graphic Packaging Holding Company
+CAT,Caterpillar Inc.
+CATO,The Cato Corporation
+CNDA,Concord Acquisition Corp II
+CNO,"CNO Financial Group, Inc."
+DVA,DaVita Inc.
+DOCS,"Doximity, Inc."
+ENIC,Enel Chile S.A.
+EQH-PA,"Equitable Holdings, Inc."
+HXL,Hexcel Corporation
+IFF,International Flavors & Fragrances Inc.
+IHG,InterContinental Hotels Group PLC
+TWLO,Twilio Inc.
+CPE,Callon Petroleum Company
+PM,Philip Morris International Inc.
+PNNT,PennantPark Investment Corporation
+ALV,"Autoliv, Inc."
+APTV,Aptiv PLC
+EAF,GrafTech International Ltd.
+EMD,Western Asset Emerging Markets Debt Fund Inc.
+EPC,Edgewell Personal Care Company
+EXR,Extra Space Storage Inc.
+GXO,"GXO Logistics, Inc."
+HGTY,"Hagerty, Inc."
+HMY,Harmony Gold Mining Company Limited
+MGA,Magna International Inc.
+SMRT,"SmartRent, Inc."
+CNC,Centene Corporation
+YSG,Yatsen Holding Limited
+YUMC,"Yum China Holdings, Inc."
+ATCO-PH,Atlas Corp.
+ASIX,AdvanSix Inc.
+BRBR,"BellRing Brands, Inc."
+JNPR,"Juniper Networks, Inc."
+NOVA,Sunnova Energy International Inc.
+PNM,"PNM Resources, Inc."
+REZI,"Resideo Technologies, Inc."
+SEAS,"SeaWorld Entertainment, Inc."
+UL,Unilever PLC
+USB-PR,U.S. Bancorp
+AQN,Algonquin Power & Utilities Corp.
+AMWL,American Well Corporation
+BGH,Barings Global Short Duration High Yield Fund
+EGP,"EastGroup Properties, Inc."
+DBRG,"DigitalBridge Group, Inc."
+CLVT,Clarivate Plc
+IVT,InvenTrust Properties Corp.
+JBGS,JBG SMITH Properties
+EXPD,"Expeditors International of Washington, Inc."
+GPC,Genuine Parts Company
+GPJA,Georgia Power Company 5% JR SUB NT 77
+HLN,Haleon plc
+DBL,DoubleLine Opportunistic Credit Fund
+NPWR,NET Power Inc.
+RYAM,Rayonier Advanced Materials Inc.
+CVNA,Carvana Co.
+EBF,"Ennis, Inc."
+MCO,Moody's Corporation
+MDC,"M.D.C. Holdings, Inc."
+MFD,Macquarie/First Trust Global Infrastructure/Utilities Dividend & Income Fund
+GTY,Getty Realty Corp.
+HASI,"Hannon Armstrong Sustainable Infrastructure Capital, Inc."
+HII,"Huntington Ingalls Industries, Inc."
+JELD,"JELD-WEN Holding, Inc."
+JXN,Jackson Financial Inc.
+K,Kellogg Company
+KAMN,Kaman Corporation
+KBR,"KBR, Inc."
+GRBK,"Green Brick Partners, Inc."
+MBI,MBIA Inc.
+NRUC,National Rural Utilities Cooper
+RAMP,"LiveRamp Holdings, Inc."
+RC,Ready Capital Corporation
+RERE,ATRenew Inc.
+RM,Regional Management Corp.
+SYK,Stryker Corporation
+DOW,Dow Inc.
+EVC,Entravision Communications Corporation
+FMS,Fresenius Medical Care AG & Co. KGaA
+LLAP,Terran Orbital Corporation
+R,"Ryder System, Inc."
+EQT,EQT Corporation
+EPAM,"EPAM Systems, Inc."
+KW,"Kennedy-Wilson Holdings, Inc."
+LMT,Lockheed Martin Corporation
+LOMA,Loma Negra Compañía Industrial Argentina Sociedad Anónima
+MET-PE,"MetLife, Inc."
+SB,"Safe Bulkers, Inc."
+ZIM,ZIM Integrated Shipping Services Ltd.
+FAF,First American Financial Corporation
+EXPR,"Express, Inc."
+SMHI,SEACOR Marine Holdings Inc.
+EVR,Evercore Inc.
+EFX,Equifax Inc.
+MAIN,Main Street Capital Corporation
+MPV,Barings Participation Investors
+MSGE,Madison Square Garden Entertainment Corp.
+NI,NiSource Inc.
+NI-PB,NiSource Inc.
+NOTE,"FiscalNote Holdings, Inc."
+RCUS,"Arcus Biosciences, Inc."
+WSO,"Watsco, Inc."
+MXF,"The Mexico Fund, Inc."
+ATH-PA,Athene Holding Ltd.
+APAM,Artisan Partners Asset Management Inc.
+HOG,"Harley-Davidson, Inc."
+PRLB,"Proto Labs, Inc."
+MUR,Murphy Oil Corporation
+KMX,"CarMax, Inc."
+GRX,The Gabelli Healthcare & Wellness Trust
+ETRN,Equitrans Midstream Corporation
+ASB-PE,Associated Banc-Corp
+MMD,MainStay MacKay DefinedTerm Municipal Opportunities Fund
+MMI,"Marcus & Millichap, Inc."
+THG,"The Hanover Insurance Group, Inc."
+YPF,YPF Sociedad Anónima
+DPZ,"Domino's Pizza, Inc."
+DO,"Diamond Offshore Drilling, Inc."
+BXSL,Blackstone Secured Lending Fund
+EVTC,"EVERTEC, Inc."
+SR,Spire Inc.
+PFH,CABCO Trust for JC Penney Debentures
+KOS,Kosmos Energy Ltd.
+FUN,"Cedar Fair, L.P."
+ESTC,Elastic N.V.
+VVX,"V2X, Inc."
+DINO,HF Sinclair Corporation
+ACRE,Ares Commercial Real Estate Corporation
+BAC-PB,Bank of America Corporation
+ALTG,Alta Equipment Group Inc.
+GOLF,Acushnet Holdings Corp.
+JBT,John Bean Technologies Corporation
+WBX,Wallbox N.V.
+BML-PJ,Bank of America Corporation
+BHG,"Bright Health Group, Inc."
+SCCO,Southern Copper Corporation
+TALO,Talos Energy Inc.
+CULP,"Culp, Inc."
+RKT,"Rocket Companies, Inc."
+MGRD,"Affiliated Managers Group, Inc."
+PLOW,"Douglas Dynamics, Inc."
+GGG,Graco Inc.
+LCII,LCI Industries
+XPRO,Expro Group Holdings N.V.
+PD,"PagerDuty, Inc."
+CEM,ClearBridge MLP and Midstream Fund Inc
+PHT,"Pioneer High Income Fund, Inc."
+COF-PN,Capital One Financial Corporation
+ALC,Alcon Inc.
+NU,Nu Holdings Ltd.
+CEE,"The Central and Eastern Europe Fund, Inc."
+MAA,"Mid-America Apartment Communities, Inc."
+PVL,Permianville Royalty Trust
+VIST,"Vista Energy, S.A.B. de C.V."
+DLR-PJ,"Digital Realty Trust, Inc."
+CNI,Canadian National Railway Company
+DE,Deere & Company
+AORT,"Artivion, Inc."
+MEG,"Montrose Environmental Group, Inc."
+ITW,Illinois Tool Works Inc.
+AMK,"AssetMark Financial Holdings, Inc."
+EMN,Eastman Chemical Company
+CNHI,CNH Industrial N.V.
+FPH,"Five Point Holdings, LLC"
+HIX,Western Asset High Income Fund II Inc.
+KMT,Kennametal Inc.
+KSS,Kohl's Corporation
+GIB,CGI Inc.
+KEYS,"Keysight Technologies, Inc."
+SE,Sea Limited
+AGD,Abrdn Global Dynamic Dividend Fund
+PFLT,PennantPark Floating Rate Capital Ltd.
+AOD,Abrdn Total Dynamic Dividend Fund
+SQSP,"Squarespace, Inc."
+DG,Dollar General Corporation
+EXP,Eagle Materials Inc.
+CLDT,Chatham Lodging Trust
+ATUS,"Altice USA, Inc."
+DDL,Dingdong (Cayman) Limited
+SCM,Stellus Capital Investment Corporation
+MTX,Minerals Technologies Inc.
+PNR,Pentair plc
+ASX,"ASE Technology Holding Co., Ltd."
+HY,"Hyster-Yale Materials Handling, Inc."
+HZO,"MarineMax, Inc."
+EQNR,Equinor ASA
+OMI,"Owens & Minor, Inc."
+BMY,Bristol-Myers Squibb Company
+EOI,Eaton Vance Enhanced Equity Income Fund
+CPNG,"Coupang, Inc."
+SBSW,Sibanye Stillwater Limited
+PSA-PJ,Public Storage
+CDE,"Coeur Mining, Inc."
+POR,Portland General Electric Company
+PSA-PR,Public Storage
+RLX,RLX Technology Inc.
+TDG,TransDigm Group Incorporated
+DFIN,"Donnelley Financial Solutions, Inc."
+BCSF,"Bain Capital Specialty Finance, Inc."
+RBT,"Rubicon Technologies, Inc."
+ASGI,Abrdn Global Infrastructure Income Fund
+NAD,Nuveen Quality Municipal Income Fund
+ACHR,Archer Aviation Inc.
+DHX,"DHI Group, Inc."
+ACCO,ACCO Brands Corporation
+SAND,Sandstorm Gold Ltd.
+CNK,"Cinemark Holdings, Inc."
+ACP,Abrdn Income Credit Strategies Fund
+CNS,"Cohen & Steers, Inc."
+ETR,Entergy Corporation
+FCPT,"Four Corners Property Trust, Inc."
+APO-PA,"Apollo Global Management, Inc."
+BNS,The Bank of Nova Scotia
+LDI,"loanDepot, Inc."
+JPM-PJ,JPMorgan Chase & Co.
+ARI,"Apollo Commercial Real Estate Finance, Inc."
+LZB,La-Z-Boy Incorporated
+OGN,Organon & Co.
+RZC,7.125% Fixed-Rate Reset Subordinated Debentures due 2052
+VALE,Vale S.A.
+ALL-PH,The Allstate Corporation
+MEI,"Methode Electronics, Inc."
+TROX,Tronox Holdings plc
+MHO,"M/I Homes, Inc."
+HLIO,"Helios Technologies, Inc."
+JEF,Jefferies Financial Group Inc.
+TDOC,"Teladoc Health, Inc."
+USB-PH,U.S. Bancorp
+BWG,Legg Mason BW Global Income Opportunities Fund Inc.
+COLD,"Americold Realty Trust, Inc."
+ISD,"PGIM High Yield Bond Fund, Inc."
+KNSL,"Kinsale Capital Group, Inc."
+USB-PQ,U.S. Bancorp
+WOLF,"Wolfspeed, Inc."
+ARCH,"Arch Resources, Inc."
+BCE,BCE Inc.
+CLB,Core Laboratories N.V.
+FERG,Ferguson plc
+NVTA,Invitae Corporation
+SPRU,Spruce Power Holding Corporation
+BMA,Banco Macro S.A.
+FHN,First Horizon Corporation
+HAYW,"Hayward Holdings, Inc."
+HEQ,John Hancock Hedged Equity & Income Fund
+EOS,Eaton Vance Enhanced Equity Income Fund II
+JMIA,Jumia Technologies AG
+IGR,CBRE Global Real Estate Income Fund
+VEEV,Veeva Systems Inc.
+WTRG,"Essential Utilities, Inc."
+AGI,Alamos Gold Inc.
+PAM,Pampa Energía S.A.
+KMI,"Kinder Morgan, Inc."
+PSA-PN,Public Storage
+WWW,"Wolverine World Wide, Inc."
+GCI,"Gannett Co., Inc."
+DRH,DiamondRock Hospitality Company
+TOST,"Toast, Inc."
+LYB,LyondellBasell Industries N.V.
+MCW,"Mister Car Wash, Inc."
+MCY,Mercury General Corporation
+MLM,"Martin Marietta Materials, Inc."
+SFB,Stifel Financial Corporation 5.20% Senior Notes due 2047
+WELL,Welltower Inc.
+AMBP,Ardagh Metal Packaging S.A.
+DFS,Discover Financial Services
+NNI,"Nelnet, Inc."
+ELP,Companhia Paranaense de Energia - COPEL
+ELS,"Equity LifeStyle Properties, Inc."
+MT,ArcelorMittal S.A.
+AYX,"Alteryx, Inc."
+LH,Laboratory Corporation of America Holdings
+NRP,Natural Resource Partners L.P.
+TNK,Teekay Tankers Ltd.
+SUN,Sunoco LP
+GMED,"Globus Medical, Inc."
+RMAX,"RE/MAX Holdings, Inc."
+PMO,Putnam Municipal Opportunities Trust
+MVT,"BlackRock MuniVest Fund II, Inc."
+ONTO,Onto Innovation Inc.
+UVE,"Universal Insurance Holdings, Inc."
+UZE,United States Cellular Corporat
+IRRX,Integrated Rail and Resources Acquisition Corp.
+BEP,Brookfield Renewable Partners L.P.
+NXDT,NexPoint Diversified Real Estate Trust
+RF-PB,Regions Financial Corporation
+KOP,Koppers Holdings Inc.
+MNR,Mach Natural Resources LP
+LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc."
+AIG-PA,"American International Group, Inc."
+IIM,Invesco Value Municipal Income Trust
+CVII,Churchill Capital Corp VII
+MET-PF,"MetLife, Inc."
+JPM-PM,JPMorgan Chase & Co.
+MQT,"BlackRock MuniYield Quality Fund II, Inc."
+AVD,American Vanguard Corporation
+HPS,John Hancock Preferred Income Fund III
+JPM-PC,JPMorgan Chase & Co.
+ASB-PF,Associated Banc-Corp
+NLY-PF,"Annaly Capital Management, Inc."
+ATS,ATS Corporation
+PH,Parker-Hannifin Corporation
+ENV,"Envestnet, Inc."
+RNR-PG,RenaissanceRe Holdings Ltd.
+KF,"The Korea Fund, Inc."
+VTS,"Vitesse Energy, Inc."
+MUI,"BlackRock Municipal Income Fund, Inc."
+AEL-PA,American Equity Investment Life Holding Company
+BTO,John Hancock Financial Opportunities Fund
+CLCO,Cool Company Ltd.
+EE,"Excelerate Energy, Inc."
+WOR,"Worthington Industries, Inc."
+GRBK-PA,"Green Brick Partners, Inc."
+GLP,Global Partners LP
+ESE,ESCO Technologies Inc.
+UZF,United States Cellular Corporat
+BGX,Blackstone / GSO Long-Short Credit Income Fund
+MUE,"BlackRock MuniHoldings Quality Fund II, Inc."
+FATH,Fathom Digital Manufacturing Corporation
+IDA,"IDACORP, Inc."
+ATH-PE,Athene Holding Ltd.
+CIG-C,Companhia Energética de Minas Gerais
+KFS,Kingsway Financial Services Inc.
+MIXT,MiX Telematics Limited
+BFK,BlackRock Municipal Income Trust
+DHF,BNY Mellon High Yield Strategies Fund
+PML,PIMCO Municipal Income Fund II
+THQ,Tekla Healthcare Opportunities Fund
+BIT,BlackRock Multi-Sector Income Trust
+FLC,Flaherty & Crumrine Total Return Fund Inc.
+PORT,Southport Acquisition Corporation
+IVZ,Invesco Ltd.
+WCC-PA,"WESCO International, Inc."
+PSFE,Paysafe Limited
+RVLV,"Revolve Group, Inc."
+FLT,"FLEETCOR Technologies, Inc."
+MRC,MRC Global Inc.
+IBN,ICICI Bank Limited
+COR,Cencora
+GS-PD,"The Goldman Sachs Group, Inc."
+GVA,Granite Construction Incorporated
+KTB,"Kontoor Brands, Inc."
+GDOT,Green Dot Corporation
+BEPC,Brookfield Renewable Corporation
+LEV,The Lion Electric Company
+HNI,HNI Corporation
+CWEN-A,"Clearway Energy, Inc."
+BHIL,"Benson Hill, Inc."
+MUX,McEwen Mining Inc.
+YMM,Full Truck Alliance Co. Ltd.
+RPM,RPM International Inc.
+TAL,TAL Education Group
+CWEN,"Clearway Energy, Inc."
+EBS,Emergent BioSolutions Inc.
+VLN,Valens Semiconductor Ltd.
+TRAK,"ReposiTrak, Inc."
+ETV,Eaton Vance Tax-Managed Buy-Write Opportunities Fund
+EQH,"Equitable Holdings, Inc."
+LOCL,Local Bounti Corporation
+BALY,Bally's Corporation
+ENFN,"Enfusion, Inc."
+AMH,American Homes 4 Rent
+GGB,Gerdau S.A.
+AAN,"The Aaron's Company, Inc."
+BK,The Bank of New York Mellon Corporation
+BW,"Babcock & Wilcox Enterprises, Inc."
+CPB,Campbell Soup Company
+BTE,Baytex Energy Corp.
+CNX,CNX Resources Corporation
+HL,Hecla Mining Company
+HUYA,HUYA Inc.
+T-PC,AT&T Inc.
+HI,"Hillenbrand, Inc."
+IR,Ingersoll Rand Inc.
+MAN,ManpowerGroup Inc.
+MS-PO,Morgan Stanley
+GEF-B,"Greif, Inc."
+MCK,McKesson Corporation
+BIG,"Big Lots, Inc."
+MKC,"McCormick & Company, Incorporated"
+WLKP,Westlake Chemical Partners LP
+DGX,Quest Diagnostics Incorporated
+FN,Fabrinet
+JHX,James Hardie Industries plc
+SLG,SL Green Realty Corp.
+NBB,Nuveen Taxable Municipal Income Fund
+CWK,Cushman & Wakefield plc
+CCK,"Crown Holdings, Inc."
+FBIN,"Fortune Brands Innovations, Inc."
+SNAP,Snap Inc.
+FBRT-PE,"Franklin BSP Realty Trust, Inc."
+GMRE,Global Medical REIT Inc.
+NLOP,Net Lease Office Properties
+ECAT,BlackRock ESG Capital Allocation Trust
+ORCL,Oracle Corporation
+KEY-PK,KeyCorp
+RLJ,RLJ Lodging Trust
+USNA,"USANA Health Sciences, Inc."
+BKSY,BlackSky Technology Inc.
+SCHW-PD,The Charles Schwab Corporation
+ORN,"Orion Group Holdings, Inc."
+LLY,Eli Lilly and Company
+BTU,Peabody Energy Corporation
+FBK,FB Financial Corporation
+HTY,John Hancock Investments - John Hancock Tax-Advantaged Global Shareholder Yield Fund
+LNC,Lincoln National Corporation
+EVF,Eaton Vance Senior Income Trust
+FCF,First Commonwealth Financial Corporation
+ATGE,Adtalem Global Education Inc.
+FRT,Federal Realty Investment Trust
+BHR,Braemar Hotels & Resorts Inc.
+GKOS,Glaukos Corporation
+NEE-PN,"NextEra Energy, Inc. Series N J"
+XPOF,"Xponential Fitness, Inc."
+AZO,"AutoZone, Inc."
+NRG,"NRG Energy, Inc."
+UWMC,UWM Holdings Corporation
+DPG,Duff & Phelps Utility and Infrastructure Fund Inc.
+WU,The Western Union Company
+PAY,"Paymentus Holdings, Inc."
+OMC,Omnicom Group Inc.
+ASC,Ardmore Shipping Corporation
+TFC-PO,Truist Financial Corporation
+TSE,Trinseo PLC
+CCRD,CoreCard Corporation
+CCIF,Carlyle Credit Income Fund
+NOAH,Noah Holdings Limited
+PAYC,"Paycom Software, Inc."
+SRI,"Stoneridge, Inc."
+GOTU,Gaotu Techedu Inc.
+ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund
+BAH,Booz Allen Hamilton Holding Corporation
+WH,"Wyndham Hotels & Resorts, Inc."
+COP,ConocoPhillips
+MPLX,MPLX LP
+HIW,"Highwoods Properties, Inc."
+PUMP,ProPetro Holding Corp.
+ZEPP,Zepp Health Corporation
+IOT,Samsara Inc.
+JOE,The St. Joe Company
+WFG,West Fraser Timber Co. Ltd.
+WRBY,Warby Parker Inc.
+CNMD,CONMED Corporation
+GCO,Genesco Inc.
+WES,"Western Midstream Partners, LP"
+ENZ,"Enzo Biochem, Inc."
+CHPT,"ChargePoint Holdings, Inc."
+CHMI,Cherry Hill Mortgage Investment Corporation
+NOK,Nokia Oyj
+SMR,NuScale Power Corporation
+ZTS,Zoetis Inc.
+COF-PI,Capital One Financial Corporation
+CSAN,Cosan S.A.
+CRC,California Resources Corporation
+FG,"F&G Annuities & Life, Inc."
+AGTI,"Agiliti, Inc."
+BRW,Saba Capital Income & Opportunities Fund
+BLND,"Blend Labs, Inc."
+ANVS,"Annovis Bio, Inc."
+DKL,"Delek Logistics Partners, LP"
+FR,"First Industrial Realty Trust, Inc."
+HSBC,HSBC Holdings plc
+NNY,Nuveen New York Municipal Value Fund
+NUE,Nucor Corporation
+CX,"CEMEX, S.A.B. de C.V."
+SRFM,Surf Air Mobility Inc.
+TBI,"TrueBlue, Inc."
+TDW,Tidewater Inc.
+MA,Mastercard Incorporated
+AI,"C3.ai, Inc."
+CACI,CACI International Inc
+FRT-PC,Federal Realty Investment Trust
+CLVT-PA,Clarivate Plc
+GENI,Genius Sports Limited
+GIS,"General Mills, Inc."
+NXE,NexGen Energy Ltd.
+PCOR,"Procore Technologies, Inc."
+SDRL,Seadrill Limited
+STAG,"STAG Industrial, Inc."
+SPR,"Spirit AeroSystems Holdings, Inc."
+VIV,Telefônica Brasil S.A.
+AER,AerCap Holdings N.V.
+BOH,Bank of Hawaii Corporation
+BOH-PA,Bank of Hawaii Corporation
+BME,BlackRock Health Sciences Trust
+FMC,FMC Corporation
+BIPC,Brookfield Infrastructure Corporation
+BHE,"Benchmark Electronics, Inc."
+CRD-A,Crawford & Company
+DNOW,NOW Inc.
+DDD,3D Systems Corporation
+ES,Eversource Energy
+OWL,Blue Owl Capital Inc.
+PPL,PPL Corporation
+SITE,"SiteOne Landscape Supply, Inc."
+SMAR,Smartsheet Inc.
+SPHR,Sphere Entertainment Co.
+TPVG,TriplePoint Venture Growth BDC Corp.
+UHAL,U-Haul Holding Company
+VPG,"Vishay Precision Group, Inc."
+WOW,"WideOpenWest, Inc."
+BFH,"Bread Financial Holdings, Inc."
+BYON,"Beyond, Inc."
+CTO,"CTO Realty Growth, Inc."
+DOCN,"DigitalOcean Holdings, Inc."
+GWH,"ESS Tech, Inc."
+MDV,Modiv Inc.
+NVS,Novartis AG
+RFL,"Rafael Holdings, Inc."
+RFMZ,"RiverNorth Flexible Municipal Income Fund II, Inc."
+RGT,"Royce Global Value Trust, Inc."
+RNP,"Cohen & Steers REIT and Preferred Income Fund, Inc."
+TDC,Teradata Corporation
+TFII,TFI International Inc.
+TFPM,Triple Flag Precious Metals Corp.
+VPV,Invesco Pennsylvania Value Municipal Income Trust
+ZVIA,Zevia PBC
+NOG,"Northern Oil and Gas, Inc."
+CION,CION Investment Corporation
+CAL,"Caleres, Inc."
+BFS,"Saul Centers, Inc."
+DHI,"D.R. Horton, Inc."
+CBZ,"CBIZ, Inc."
+EPD,Enterprise Products Partners L.P.
+MRO,Marathon Oil Corporation
+MS-PI,Morgan Stanley
+LZM,Lifezone Metals Limited
+PNST,Pinstripes Holdings Inc.
+HKD,AMTD Digital Inc.
+BAM,Brookfield Asset Management Inc.
+BR,"Broadridge Financial Solutions, Inc."
+DAL,"Delta Air Lines, Inc."
+DLX,Deluxe Corporation
+DX,"Dynex Capital, Inc."
+DOV,Dover Corporation
+GTES,Gates Industrial Corporation plc
+HBM,Hudbay Minerals Inc.
+HCI,"HCI Group, Inc."
+HE,"Hawaiian Electric Industries, Inc."
+HLT,Hilton Worldwide Holdings Inc.
+HPI,John Hancock Preferred Income Fund
+KBH,KB Home
+HOMB,"Home Bancshares, Inc. (Conway, AR)"
+ABR,"Arbor Realty Trust, Inc."
+BRCC,BRC Inc.
+COUR,"Coursera, Inc."
+DAO,"Youdao, Inc."
+FLO,"Flowers Foods, Inc."
+FOA,Finance Of America Companies Inc.
+HRL,Hormel Foods Corporation
+TNET,"TriNet Group, Inc."
+EDU,New Oriental Education & Technology Group Inc.
+BAC-PQ,Bank of America Corporation
+CMI,Cummins Inc.
+JBI,"Janus International Group, Inc."
+WST,"West Pharmaceutical Services, Inc."
+GOF,Guggenheim Strategic Opportunities Fund
+LRN,"Stride, Inc."
+DTW,DTE Energy Company JR SUB DB 2017 E
+INSW,"International Seaways, Inc."
+LPG,Dorian LPG Ltd.
+AIV,Apartment Investment and Management Company
+CYD,China Yuchai International Limited
+ERF,Enerplus Corporation
+EG,"Everest Group, Ltd."
+DOOR,Masonite International Corporation
+FFC,Flaherty & Crumrine Preferred Securities Income Fund Inc.
+NVGS,Navigator Holdings Ltd.
+PBF,PBF Energy Inc.
+PSQH,"PSQ Holdings, Inc."
+DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc.
+PAR,PAR Technology Corporation
+PSX,Phillips 66
+EME,"EMCOR Group, Inc."
+ETN,Eaton Corporation plc
+LEO,"BNY Mellon Strategic Municipals, Inc."
+ARLO,"Arlo Technologies, Inc."
+ESS,"Essex Property Trust, Inc."
+EVN,Eaton Vance Municipal Income Trust
+LMND,"Lemonade, Inc."
+LPL,"LG Display Co., Ltd."
+NCLH,Norwegian Cruise Line Holdings Ltd.
+MER-PK,Merrill Lynch Capital Trust I GTD CAP 6.45%
+FAM,First Trust/Abrdn Global Opportunity Income Fund
+F-PC,Ford Motor Company 6% Notes due
+SPOT,Spotify Technology S.A.
+MCD,McDonald's Corporation
+NC,"NACCO Industries, Inc."
+PGTI,"PGT Innovations, Inc."
+CMA,Comerica Incorporated
+WRB-PG,W.R. Berkley Corporation 4.25% 
+MOS,The Mosaic Company
+MUSA,Murphy USA Inc.
+MYTE,MYT Netherlands Parent B.V.
+NDMO,Nuveen Dynamic Municipal Opportunities Fund
+NEP,"NextEra Energy Partners, LP"
+AU,AngloGold Ashanti Limited
+NAC,Nuveen California Quality Municipal Income Fund
+PRM,"Perimeter Solutions, SA"
+OII,"Oceaneering International, Inc."
+UTZ,"Utz Brands, Inc."
+FOR,Forestar Group Inc.
+BG,Bunge Limited
+CANO,"Cano Health, Inc."
+FI,"Fiserv, Inc."
+AMR,"Alpha Metallurgical Resources, Inc."
+GPI,"Group 1 Automotive, Inc."
+BEKE,KE Holdings Inc.
+BXMX,Nuveen S&P 500 Buy-Write Income Fund
+ONL,Orion Office REIT Inc.
+CXT,"Crane NXT, Co."
+KKR,KKR & Co. Inc.
+LEA,Lear Corporation
+NFJ,"Virtus Dividend, Interest & Premium Strategy Fund"
+MS-PL,Morgan Stanley
+EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc."
+CCU,Compañía Cervecerías Unidas S.A.
+CIEN,Ciena Corporation
+BML-PL,Bank of America Corporation
+CADE,Cadence Bank
+GPMT,Granite Point Mortgage Trust Inc.
+MED,"Medifast, Inc."
+IPG,"The Interpublic Group of Companies, Inc."
+PR,Permian Resources Corporation
+CAG,"Conagra Brands, Inc."
+BSTZ,BlackRock Science and Technology Trust II
+FTS,Fortis Inc.
+RNG,"RingCentral, Inc."
+CRL,"Charles River Laboratories International, Inc."
+BANC,"Banc of California, Inc."
+EW,Edwards Lifesciences Corporation
+MS-PK,Morgan Stanley
+SPCE,"Virgin Galactic Holdings, Inc."
+DLR,"Digital Realty Trust, Inc."
+MPC,Marathon Petroleum Corporation
+JBL,Jabil Inc.
+MTD,Mettler-Toledo International Inc.
+ET-PD,Energy Transfer LP
+AON,Aon plc
+BKN,BlackRock Investment Quality Municipal Trust Inc.
+CUBI,"Customers Bancorp, Inc."
+GNL-PA,"Global Net Lease, Inc."
+HPF,John Hancock Preferred Income Fund II
+PSF,"Cohen & Steers Select Preferred and Income Fund, Inc."
+WNS,WNS (Holdings) Limited
+HOUS,Anywhere Real Estate Inc.
+BILL,"Bill.com Holdings, Inc."
+SMFG,"Sumitomo Mitsui Financial Group, Inc."
+CRBG,"Corebridge Financial, Inc."
+HIG-PG,"The Hartford Financial Services Group, Inc."
+HCA,"HCA Healthcare, Inc."
+IHD,Voya Emerging Markets High Dividend Equity Fund
+CNM,"Core & Main, Inc."
+HESM,Hess Midstream LP
+CMS,CMS Energy Corporation
+CHH,"Choice Hotels International, Inc."
+AOS,A. O. Smith Corporation
+PSA-PL,Public Storage
+KAR,"KAR Auction Services, Inc."
+FSM,Fortuna Silver Mines Inc.
+RNGR,"Ranger Energy Services, Inc."
+BA,The Boeing Company
+EB,"Eventbrite, Inc."
+MPLN,MultiPlan Corporation
+CBL,"CBL & Associates Properties, Inc."
+IGA,Voya Global Advantage and Premium Opportunity Fund
+MSD,"Morgan Stanley Emerging Markets Debt Fund, Inc."
+ORC,"Orchid Island Capital, Inc."
+BNL,"Broadstone Net Lease, Inc."
+SKIL,Skillsoft Corp.
+BAK,Braskem S.A.
+ZBH,"Zimmer Biomet Holdings, Inc."
+ACA,"Arcosa, Inc."
+HP,"Helmerich & Payne, Inc."
+LFT,"Lument Finance Trust, Inc."
+MVF,"BlackRock MuniVest Fund, Inc."
+KNF,Knife River Corporation
+NTR,Nutrien Ltd.
+KN,Knowles Corporation
+RNR-PF,RenaissanceRe Holdings Ltd.
+BB,BlackBerry Limited
+SHAK,Shake Shack Inc.
+ETJ,Eaton Vance Risk-Managed Diversified Equity Income Fund
+CI,Cigna Corporation
+NOA,North American Construction Group Ltd.
+INGR,Ingredion Incorporated
+ODV,Osisko Development Corp.
+FNV,Franco-Nevada Corporation
+CHGG,"Chegg, Inc."
+CIO,"City Office REIT, Inc."
+FIHL,Fidelis Insurance Holdings Limited
+BP,BP p.l.c.
+AFGB,"American Financial Group, Inc. "
+AIG,"American International Group, Inc."
+BRSP,"BrightSpire Capital, Inc."
+BURL,"Burlington Stores, Inc."
+SSTK,"Shutterstock, Inc."
+RGR,"Sturm, Ruger & Company, Inc."
+XYF,X Financial
+CSTM,Constellium SE
+IGD,Voya Global Equity Dividend and Premium Opportunity Fund
+KREF,KKR Real Estate Finance Trust Inc.
+NTG,"Tortoise Midstream Energy Fund, Inc."
+SGHC,Super Group (SGHC) Limited
+AMPX,"Amprius Technologies, Inc."
+CMS-PC,CMS Energy Corporation
+DUK-PA,Duke Energy Corporation
+GBX,"The Greenbrier Companies, Inc."
+LEN-B,Lennar Corporation
+MLP,"Maui Land & Pineapple Company, Inc."
+SLQT,"SelectQuote, Inc."
+RTO,Rentokil Initial plc
+AIO,Virtus Artificial Intelligence & Technology Opportunities Fund
+YEXT,"Yext, Inc."
+ENVA,"Enova International, Inc."
+IGT,International Game Technology PLC
+MCS,The Marcus Corporation
+PSTL,"Postal Realty Trust, Inc."
+RLTY,Cohen & Steers Real Estate Opportunities Income Fund
+RMT,"Royce Micro-Cap Trust, Inc."
+ATKR,Atkore Inc.
+IONQ,"IonQ, Inc."
+HYT,"BlackRock Corporate High Yield Fund, Inc."
+PEAK,"Healthpeak Properties, Inc."
+AMPS,"Altus Power, Inc."
+DOC,Physicians Realty Trust
+EAI,"Entergy Arkansas, Inc. 1M BD 4.875%66"
+KMB,Kimberly-Clark Corporation
+OSCR,"Oscar Health, Inc."
+MD,"Pediatrix Medical Group, Inc."
+PHI,PLDT Inc.
+SF-PC,Stifel Financial Corp.
+LEN,Lennar Corporation
+MRK,"Merck & Co., Inc."
+MUFG,"Mitsubishi UFJ Financial Group, Inc."
+NXC,Nuveen California Select Tax-Free Income Portfolio
+MSB,Mesabi Trust
+NREF,"NexPoint Real Estate Finance, Inc."
+ST,Sensata Technologies Holding plc
+LII,Lennox International Inc.
+NAPA,"The Duckhorn Portfolio, Inc."
+CRK,"Comstock Resources, Inc."
+AWR,American States Water Company
+CII,"BlackRock Enhanced Capital and Income Fund, Inc."
+UP,Wheels Up Experience Inc.
+IAG,IAMGOLD Corporation
+TIMB,TIM S.A.
+WD,"Walker & Dunlop, Inc."
+PINE,"Alpine Income Property Trust, Inc."
+FEI,First Trust MLP and Energy Income Fund
+TRTN-PD,Triton International Limited
+ORA,"Ormat Technologies, Inc."
+PSA-PI,Public Storage
+PWSC,"PowerSchool Holdings, Inc."
+JRS,Nuveen Real Estate Income Fund
+NZF,Nuveen Municipal Credit Income Fund
+PSN,Parsons Corporation
+REX,REX American Resources Corporation
+HEI-A,HEICO Corporation
+OIS,"Oil States International, Inc."
+IQI,Invesco Quality Municipal Income Trust
+KTF,DWS Municipal Income Trust
+TPB,"Turning Point Brands, Inc."
+VET,Vermilion Energy Inc.
+RBC,RBC Bearings Incorporated
+KAI,Kadant Inc.
+MPX,Marine Products Corporation
+PSA-PP,Public Storage
+INSI,Insight Select Income Fund
+MLNK,"MeridianLink, Inc."
+MGRB,"Affiliated Managers Group, Inc."
+CTOS,"Custom Truck One Source, Inc."
+GS-PK,"The Goldman Sachs Group, Inc."
+CBD,Companhia Brasileira de Distribuição
+REVG,"REV Group, Inc."
+MUC,"BlackRock MuniHoldings California Quality Fund, Inc."
+MAX,"MediaAlpha, Inc."
+THR,"Thermon Group Holdings, Inc."
+MOH,"Molina Healthcare, Inc."
+GSL,"Global Ship Lease, Inc."
+SNV-PD,Synovus Financial Corp.
+JILL,"J.Jill, Inc."
+GGT,The Gabelli Multimedia Trust Inc.
+EOD,Wells Fargo Advantage Funds - Allspring Global Dividend Opportunity Fund
+ZGN,Ermenegildo Zegna N.V.
+HRT,HireRight Holdings Corporation
+EXK,Endeavour Silver Corp.
+GBCI,"Glacier Bancorp, Inc."
+ADT,ADT Inc.
+WNNR,Andretti Acquisition Corp.
+DUKB,Duke Energy Corporation 5.625% 
+GUG,Guggenheim Active Allocation Fund
+JQC,Nuveen Credit Strategies Income Fund
+PSA-PH,Public Storage
+TPTA,"Terra Property Trust, Inc. 6.00"
+ARIS,"Aris Water Solutions, Inc."
+RMM,Rivernorth Managed Duration Municipal Income Fund Inc.
+CIB,Bancolombia S.A.
+WSR,Whitestone REIT
+OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc."
+BC-PA,Brunswick Corporation 6.500% Se
+VSCO,Victoria's Secret & Co.
+WTS,"Watts Water Technologies, Inc."
+EBR-B,Centrais Elétricas Brasileiras S.A. - Eletrobrás
+BFLY,"Butterfly Network, Inc."
+CBU,"Community Bank System, Inc."
+DTE,DTE Energy Company
+ESI,Element Solutions Inc
+COTY,Coty Inc.
+DSM,"BNY Mellon Strategic Municipal Bond Fund, Inc."
+INVH,Invitation Homes Inc.
+JOBY,"Joby Aviation, Inc."
+AEE,Ameren Corporation
+PPT,Putnam Premier Income Trust
+HUM,Humana Inc.
+GRC,The Gorman-Rupp Company
+HSY,The Hershey Company
+VGI,Virtus Global Multi-Sector Income Fund
+IDE,"Voya Infrastructure, Industrials and Materials Fund"
+OSK,Oshkosh Corporation
+MATX,"Matson, Inc."
+GIL,Gildan Activewear Inc.
+KRO,"Kronos Worldwide, Inc."
+MIR,"Mirion Technologies, Inc."
+UBS,UBS Group AG
+EL,The Estée Lauder Companies Inc.
+FBP,First BanCorp.
+MKFG,Markforged Holding Corporation
+WSM,"Williams-Sonoma, Inc."
+FNA,"Paragon 28, Inc."
+FND,"Floor & Decor Holdings, Inc."
+EIG,"Employers Holdings, Inc."
+CWH,"Camping World Holdings, Inc."
+MODG,Topgolf Callaway Brands Corp.
+AHH,"Armada Hoffler Properties, Inc."
+DDT,Dillards Capital Trust I CAP SECS 7.5%
+DRD,DRDGOLD Limited
+MPW,"Medical Properties Trust, Inc."
+BMI,"Badger Meter, Inc."
+DTM,"DT Midstream, Inc."
+OLP,"One Liberty Properties, Inc."
+USFD,US Foods Holding Corp.
+VYX,NCR Voyix Corporation
+EC,Ecopetrol S.A.
+EDN,Empresa Distribuidora y Comercializadora Norte Sociedad Anónima
+KFY,Korn Ferry
+DTG,DTE Energy Company 2021 Series 
+MMU,Western Asset Managed Municipals Fund Inc.
+EQC,Equity Commonwealth
+PARR,"Par Pacific Holdings, Inc."
+BKU,"BankUnited, Inc."
+TBC,AT&T Inc. 5.625% Global Notes d
+FIS,"Fidelity National Information Services, Inc."
+STVN,Stevanato Group S.p.A.
+IRS,IRSA Inversiones y Representaciones Sociedad Anónima
+FVRR,Fiverr International Ltd.
+GES,"Guess', Inc."
+EPRT,"Essential Properties Realty Trust, Inc."
+SCE-PG,SCE Trust II TR PFD SECS 5.1%
+MFG,"Mizuho Financial Group, Inc."
+BIRK,Birkenstock Holding plc
+LL,"LL Flooring Holdings, Inc."
+HAE,Haemonetics Corporation
+GAB,The Gabelli Equity Trust Inc.
+ITGR,Integer Holdings Corporation
+DBI,Designer Brands Inc.
+BCC,Boise Cascade Company
+DCI,"Donaldson Company, Inc."
+KGS,"Kodiak Gas Services, Inc."
+GNRC,Generac Holdings Inc.
+OWLT,"Owlet, Inc."
+BERY,"Berry Global Group, Inc."
+KOF,"Coca-Cola FEMSA, S.A.B. de C.V."
+WPP,WPP plc
+CUZ,Cousins Properties Incorporated
+NIC,"Nicolet Bankshares, Inc."
+DNA,"Ginkgo Bioworks Holdings, Inc."
+GHY,"PGIM Global High Yield Fund, Inc"
+WEX,WEX Inc.
+DVN,Devon Energy Corporation
+PNC,"The PNC Financial Services Group, Inc."
+PFSI,"PennyMac Financial Services, Inc."
+SAR,Saratoga Investment Corp.
+PX,"P10, Inc."
+VZIO,VIZIO Holding Corp.
+HIMS,"Hims & Hers Health, Inc."
+ZETA,Zeta Global Holdings Corp.
+HLX,"Helix Energy Solutions Group, Inc."
+CP,Canadian Pacific Railway Limited
+WRK,WestRock Company
+HDB,HDFC Bank Limited
+WDS,Woodside Energy Group Ltd
+WFC-PY,Wells Fargo & Company
+CWT,California Water Service Group
+DV,"DoubleVerify Holdings, Inc."
+ELME,Elme Communities
+CPRI,Capri Holdings Limited
+CVE,Cenovus Energy Inc.
+SKE,Skeena Resources Limited
+ALL-PB,The Allstate Corporation
+EOG,"EOG Resources, Inc."
+CEPU,Central Puerto S.A.
+PEB,Pebblebrook Hotel Trust
+NEXA,Nexa Resources S.A.
+TRTL,TortoiseEcofin Acquisition Corp. III
+XYL,Xylem Inc.
+SEM,Select Medical Holdings Corporation
+ZH,Zhihu Inc.
+E,Eni S.p.A.
+IIIN,"Insteel Industries, Inc."
+AMBC,"Ambac Financial Group, Inc."
+GTN,"Gray Television, Inc."
+WHD,"Cactus, Inc."
+ACEL,"Accel Entertainment, Inc."
+ALIT,"Alight, Inc."
+CRGY,Crescent Energy Company
+BV,"BrightView Holdings, Inc."
+NPCT,Nuveen Core Plus Impact Fund
+OTIS,Otis Worldwide Corporation
+PFGC,Performance Food Group Company
+PHIN,PHINIA Inc.
+PIPR,Piper Sandler Companies
+POST,"Post Holdings, Inc."
+TRTX,"TPG RE Finance Trust, Inc."
+UMH-PD,"UMH Properties, Inc."
+BUD,Anheuser-Busch InBev SA/NV
+BXMT,"Blackstone Mortgage Trust, Inc."
+CCJ,Cameco Corporation
+CIG,Companhia Energética de Minas Gerais
+CLS,Celestica Inc.
+CMTG,"Claros Mortgage Trust, Inc."
+EEX,"Emerald Holding, Inc."
+IHS,IHS Holding Limited
+FICO,Fair Isaac Corporation
+FSR,Fisker Inc.
+GLOB,Globant S.A.
+HTH,Hilltop Holdings Inc.
+PCK,PIMCO California Municipal Income Fund II
+PKST,Peakstone Realty Trust
+PLTR,Palantir Technologies Inc.
+PRMW,Primo Water Corporation
+QGEN,Qiagen N.V.
+SNDR,"Schneider National, Inc."
+SUM,"Summit Materials, Inc."
+TUYA,Tuya Inc.
+VNO-PN,Vornado Realty Trust
+YRD,Yiren Digital Ltd.
+ABBV,AbbVie Inc.
+ALLY,Ally Financial Inc.
+AWF,AllianceBernstein Global High Income Fund
+AXS,AXIS Capital Holdings Limited
+BOC,Boston Omaha Corporation
+EQH-PC,"Equitable Holdings, Inc."
+FNB,F.N.B. Corporation
+NEU,NewMarket Corporation
+NGVC,"Natural Grocers by Vitamin Cottage, Inc."
+NUVB,Nuvation Bio Inc.
+SUZ,Suzano S.A.
+VTOL,Bristow Group Inc.
+AGL,"agilon health, inc."
+BAP,Credicorp Ltd.
+BUR,Burford Capital Limited
+BSX,Boston Scientific Corporation
+CNNE,"Cannae Holdings, Inc."
+CHT,"Chunghwa Telecom Co., Ltd."
+COF,Capital One Financial Corporation
+CRS,Carpenter Technology Corporation
+GD,General Dynamics Corporation
+GEO,"The GEO Group, Inc."
+GS,"The Goldman Sachs Group, Inc."
+MITT,"AG Mortgage Investment Trust, Inc."
+NAT,Nordic American Tankers Limited
+VAC,Marriott Vacations Worldwide Corporation
+VNO-PM,Vornado Realty Trust
+BPT,BP Prudhoe Bay Royalty Trust
+CALX,"Calix, Inc."
+BGB,Blackstone/GSO Strategic Credit Fund
+CC,The Chemours Company
+BML-PG,Bank of America Corporation
+MOD,Modine Manufacturing Company
+EMO,ClearBridge Energy Midstream Opportunity Fund Inc
+MSC,Studio City International Holdings Limited
+FIX,"Comfort Systems USA, Inc."
+L,Loews Corporation
+LW,"Lamb Weston Holdings, Inc."
+AIRC,Apartment Income REIT Corp.
+CARR,Carrier Global Corporation
+BCX,Blackrock Resources & Commodities Strategy Trust
+DMA,Destra Multi-Alternative Fund
+DMB,"BNY Mellon Municipal Bond Infrastructure Fund, Inc."
+ENLC,"EnLink Midstream, LLC"
+FIGS,"FIGS, Inc."
+FTI,TechnipFMC plc
+INFA,Informatica Inc.
+ING,ING Groep N.V.
+FREY,FREYR Battery
+GWW,"W.W. Grainger, Inc."
+HAL,Halliburton Company
+HBI,Hanesbrands Inc.
+NINE,"Nine Energy Service, Inc."
+PRG,"PROG Holdings, Inc."
+SXC,"SunCoke Energy, Inc."
+XPEV,XPeng Inc.
+BOE,BlackRock Enhanced Global Dividend Trust
+CHN,"The China Fund, Inc."
+BBD,Banco Bradesco S.A.
+BDN,Brandywine Realty Trust
+IT,"Gartner, Inc."
+JNJ,Johnson & Johnson
+RHP,"Ryman Hospitality Properties, Inc."
+SMWB,Similarweb Ltd.
+USB-PS,"U.S. Bancorp Depositary Shares,"
+EDR,"Endeavor Group Holdings, Inc."
+ENOV,Enovis Corporation
+DBRG-PH,"DigitalBridge Group, Inc."
+DSX,Diana Shipping Inc.
+DTC,"Solo Brands, Inc."
+ET,Energy Transfer LP
+DFH,"Dream Finders Homes, Inc."
+EMP,"Entergy Mississippi, Inc. 1M BD 66"
+ETW,Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund
+JPC,Nuveen Preferred & Income Opportunities Fund
+GPOR,Gulfport Energy Corporation
+GTLS,"Chart Industries, Inc."
+KR,The Kroger Co.
+TNL,Travel + Leisure Co.
+BNH,Brookfield Finance Inc. 4.625% 
+GATO,"Gatos Silver, Inc."
+DOMA,Doma Holdings Inc.
+BBAR,Banco BBVA Argentina S.A.
+DUK,Duke Energy Corporation
+CWAN,"Clearwater Analytics Holdings, Inc."
+JPM-PD,JPMorgan Chase & Co.
+JWN,"Nordstrom, Inc."
+NRT,North European Oil Royalty Trust
+NYT,The New York Times Company
+KEP,Korea Electric Power Corporation
+KODK,Eastman Kodak Company
+GLT,Glatfelter Corporation
+PBR,Petróleo Brasileiro S.A. - Petrobras
+GHM,Graham Corporation
+EVEX,"Eve Holding, Inc."
+U,Unity Software Inc.
+AEO,"American Eagle Outfitters, Inc."
+AES,The AES Corporation
+KYN,"Kayne Anderson Energy Infrastructure Fund, Inc."
+GNW,"Genworth Financial, Inc."
+NCV-PA,Virtus Convertible & Income Fund
+OPAD,Offerpad Solutions Inc.
+SCHW-PJ,The Charles Schwab Corporation
+OPFI,OppFi Inc.
+ML,MoneyLion Inc.
+NBXG,Neuberger Berman Next Generation Connectivity Fund Inc.
+NOC,Northrop Grumman Corporation
+ATHM,Autohome Inc.
+ASAI,Sendas Distribuidora S.A.
+X,United States Steel Corporation
+NGG,National Grid plc
+NABL,"N-able, Inc."
+MOV,"Movado Group, Inc."
+WAL-PA,Western Alliance Bancorporation
+XPO,"XPO Logistics, Inc."
+CIA,"Citizens, Inc."
+EARN,Ellington Residential Mortgage REIT
+OKE,"ONEOK, Inc."
+NAN,Nuveen New York Quality Municipal Income Fund
+KEY-PL,KeyCorp
+AVA,Avista Corporation
+GPRK,GeoPark Limited
+KIM,Kimco Realty Corporation
+CINT,CI&T Inc
+RDW,Redwire Corporation
+OFG,OFG Bancorp
+NTB,The Bank of N.T. Butterfield & Son Limited
+EDF,Virtus Stone Harbor Emerging Markets Income Fund
+TT,Trane Technologies plc
+GATX,GATX Corporation
+SG,"Sweetgreen, Inc."
+VNT,Vontier Corporation
+DCO,Ducommun Incorporated
+BBDC,"Barings BDC, Inc."
+AWK,"American Water Works Company, Inc."
+CTS,CTS Corporation
+CYH,"Community Health Systems, Inc."
+RDN,Radian Group Inc.
+KIND,"Nextdoor Holdings, Inc."
+BZH,"Beazer Homes USA, Inc."
+HEI,HEICO Corporation
+NMM,Navios Maritime Partners L.P.
+PRI,"Primerica, Inc."
+MDT,Medtronic plc
+ADNT,Adient plc
+DNP,DNP Select Income Fund Inc.
+CXM,"Sprinklr, Inc."
+APG,APi Group Corporation
+NIO,NIO Inc.
+PAXS,PIMCO Access Income Fund
+D,"Dominion Energy, Inc."
+GDDY,GoDaddy Inc.
+KEY-PI,KeyCorp
+PAGS,PagSeguro Digital Ltd.
+BTT,Blackrock Municipal 2030 Target Term Trust
+DIN,"Dine Brands Global, Inc."
+BEPI,Brookfield BRP Holdings (Canada
+OXM,"Oxford Industries, Inc."
+SHO,"Sunstone Hotel Investors, Inc."
+STK,Columbia Seligman Premium Technology Growth Fund
+HQH,Tekla Healthcare Investors
+CSR,Centerspace
+JKS,"JinkoSolar Holding Co., Ltd."
+EHAB,"Enhabit, Inc."
+CAE,CAE Inc.
+CHWY,"Chewy, Inc."
+CVI,"CVR Energy, Inc."
+RACE,Ferrari N.V.
+IFS,Intercorp Financial Services Inc.
+BIP,Brookfield Infrastructure Partners L.P.
+MGM,MGM Resorts International
+GRMN,Garmin Ltd.
+BAC-PS,Bank of America Corporation
+LEG,"Leggett & Platt, Incorporated"
+DESP,"Despegar.com, Corp."
+ENB,Enbridge Inc.
+PSA-PS,Public Storage
+PACK,Ranpak Holdings Corp.
+CTRA,Coterra Energy Inc.
+NUW,Nuveen AMT-Free Municipal Value Fund
+PL,Planet Labs PBC
+SRC,"Spirit Realty Capital, Inc."
+PSA-PO,Public Storage
+ALLG,Allego N.V.
+WFC-PZ,Wells Fargo & Company
+SUPV,Grupo Supervielle S.A.
+BHLB,"Berkshire Hills Bancorp, Inc."
+STR,Sitio Royalties Corp.
+ETX,Eaton Vance Municipal Income 2028 Term Trust
+FNF,"Fidelity National Financial, Inc."
+GDO,Western Asset Global Corporate Defined Opportunity Fund Inc.
+HCC,"Warrior Met Coal, Inc."
+CANG,Cango Inc.
+FSCO,FS Credit Opportunities Corp.
+ITUB,Itaú Unibanco Holding S.A.
+AIF,Apollo Tactical Income Fund Inc.
+IPI,"Intrepid Potash, Inc."
+OR,Osisko Gold Royalties Ltd
+BKE,"The Buckle, Inc."
+OBDC,Blue Owl Capital Corporation
+HD,"The Home Depot, Inc."
+HLF,Herbalife Nutrition Ltd.
+SKX,"Skechers U.S.A., Inc."
+USB-PP,U.S. Bancorp
+AEFC,Aegon Funding Company LLC
+LUMN,"Lumen Technologies, Inc."
+GNE,Genie Energy Ltd.
+LYG,Lloyds Banking Group plc
+TDCX,TDCX Inc.
+WFC-PA,Wells Fargo & Company
+BODY,"The Beachbody Company, Inc."
+BXC,BlueLinx Holdings Inc.
+IRT,"Independence Realty Trust, Inc."
+ITT,ITT Inc.
+SLG-PI,SL Green Realty Corp.
+COOK,"Traeger, Inc."
+ELAN,Elanco Animal Health Incorporated
+EPAC,Enerpac Tool Group Corp.
+CFR,"Cullen/Frost Bankers, Inc."
+DBD,"Diebold Nixdorf, Incorporated"
+HOV,"Hovnanian Enterprises, Inc."
+SD,"SandRidge Energy, Inc."
+TKO,"TKO Group Holdings, Inc."
+ARDC,"Ares Dynamic Credit Allocation Fund, Inc."
+GPN,Global Payments Inc.
+DEO,Diageo plc
+TX,Ternium S.A.
+SF-PD,Stifel Financial Corp.
+SFBS,"ServisFirst Bancshares, Inc."
+MCI,Barings Corporate Investors
+MNSO,MINISO Group Holding Limited
+MQY,"BlackRock MuniYield Quality Fund, Inc."
+QSR,Restaurant Brands International Inc.
+MYI,"BlackRock MuniYield Quality Fund III, Inc."
+MPA,BlackRock MuniYield Pennsylvania Quality Fund
+NL,"NL Industries, Inc."
+NIE,Virtus Equity & Convertible Income Fund
+OMF,"OneMain Holdings, Inc."
+CNA,CNA Financial Corporation
+SRG,Seritage Growth Properties
+ATMU,Atmus Filtration Technologies Inc.
+COMP,"Compass, Inc."
+HTGC,"Hercules Capital, Inc."
+CDP,COPT Defense Properties
+ZIP,"ZipRecruiter, Inc."
+GFL,GFL Environmental Inc.
+GME,GameStop Corp.
+UNH,UnitedHealth Group Incorporated
+RITM-PB,Rithm Capital Corp.
+FDS,FactSet Research Systems Inc.
+WTTR,"Select Energy Services, Inc."
+YELP,Yelp Inc.
+BRDG,Bridge Investment Group Holdings Inc.
+HRI,Herc Holdings Inc.
+JPI,Nuveen Preferred and Income Term Fund
+ERO,Ero Copper Corp.
+MSA,MSA Safety Incorporated
+MODN,"Model N, Inc."
+BLX,"Banco Latinoamericano de Comercio Exterior, S. A."
+KNOP,KNOT Offshore Partners LP
+SQNS,Sequans Communications S.A.
+SPXX,Nuveen S&P 500 Dynamic Overwrite Fund
+BTCM,BIT Mining Limited
+VATE,INNOVATE Corp.
+BWXT,"BWX Technologies, Inc."
+MCB,Metropolitan Bank Holding Corp.
+NYCB-PA,"New York Community Bancorp, Inc."
+HIPO,Hippo Holdings Inc.
+MUJ,"BlackRock MuniHoldings New Jersey Quality Fund, Inc."
+IDT,IDT Corporation
+GF,"The New Germany Fund, Inc."
+JFR,Nuveen Floating Rate Income Fund
+NE,Noble Corporation
+YALA,Yalla Group Limited
+NPFD,Nuveen Variable Rate Preferred & Income Fund
+AVY,Avery Dennison Corporation
+NRDY,"Nerdy, Inc."
+AESC,The AES Corporation
+PTA,Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund
+TWO,Two Harbors Investment Corp.
+BUI,"BlackRock Utilities, Infrastructure & Power Opportunities Trust"
+PRH,"Prudential Financial, Inc. 5.95"
+ARC,"ARC Document Solutions, Inc."
+STT-PG,State Street Corporation
+AHL-PD,Aspen Insurance Holdings Limited
+QD,Qudian Inc.
+MTRN,Materion Corporation
+TEAF,Ecofin Sustainable and Social Impact Term Fund
+LAD,"Lithia Motors, Inc."
+ASGN,ASGN Incorporated
+HTD,John Hancock Tax-Advantaged Dividend Income Fund
+CW,Curtiss-Wright Corporation
+WFC-PC,Wells Fargo & Company
+LNN,Lindsay Corporation
+KIM-PM,Kimco Realty Corporation
+JPM-PL,JPMorgan Chase & Co.
+ELC,"Entergy Louisiana, LLC COLLATERAL TR MT"
+JPM-PK,JPMorgan Chase & Co.
+MIO,"Pioneer Municipal High Income Opportunities Fund, Inc."
+WRB-PF,W.R. Berkley Corporation 5.10% 
+VCV,Invesco California Value Municipal Income Trust
+BETR,Better Home & Finance Holding Company
+SQM,Sociedad Química y Minera de Chile S.A.
+VMI,"Valmont Industries, Inc."
+WEC,"WEC Energy Group, Inc."
+SSL,Sasol Limited
+GNK,Genco Shipping & Trading Limited
+VKQ,Invesco Municipal Trust
+SXI,Standex International Corporation
+TG,Tredegar Corporation
+MYN,"BlackRock MuniYield New York Quality Fund, Inc."
+NPV,Nuveen Virginia Quality Municipal Income Fund
+MS,Morgan Stanley
+SPXC,"SPX Technologies, Inc."
+AVAL,Grupo Aval Acciones y Valores S.A.
+CTLT,"Catalent, Inc."
+SHG,"Shinhan Financial Group Co., Ltd."
+APO,"Apollo Global Management, Inc."
+AR,Antero Resources Corporation
+SPE,"Special Opportunities Fund, Inc."
+HRTG,"Heritage Insurance Holdings, Inc."
+VZ,Verizon Communications Inc.
+RL,Ralph Lauren Corporation
+PFS,"Provident Financial Services, Inc."
+PMF,PIMCO Municipal Income Fund
+SJT,San Juan Basin Royalty Trust
+PCQ,PIMCO California Municipal Income Fund
+PVH,PVH Corp.
+MHK,"Mohawk Industries, Inc."
+AXL,"American Axle & Manufacturing Holdings, Inc."
+AMC,"AMC Entertainment Holdings, Inc."
+RBA,Ritchie Bros. Auctioneers Incorporated
+WMB,"The Williams Companies, Inc."
+BSAC,Banco Santander-Chile
+PCF,High Income Securities Fund
+STT,State Street Corporation
+TTI,"TETRA Technologies, Inc."
+PKE,Park Aerospace Corp.
+AXP,American Express Company
+NVRO,Nevro Corp.
+RVT,Royce Value Trust Inc.
+RVTY,"Revvity, Inc."
+SFL,SFL Corporation Ltd.
+WAL,Western Alliance Bancorporation
+CRH,CRH plc
+PSO,Pearson plc
+ALG,Alamo Group Inc.
+THS,"TreeHouse Foods, Inc."
+TY,Tri-Continental Corporation
+NSA,National Storage Affiliates Trust
+AL,Air Lease Corporation
+RIO,Rio Tinto Group
+UHT,Universal Health Realty Income Trust
+NFG,National Fuel Gas Company
+MTN,"Vail Resorts, Inc."
+AAP,"Advance Auto Parts, Inc."
+TCI,"Transcontinental Realty Investors, Inc."
+NXRT,"NexPoint Residential Trust, Inc."
+WHG,"Westwood Holdings Group, Inc."
+MTB,M&T Bank Corporation
+STN,Stantec Inc.
+BTI,British American Tobacco p.l.c.
+MTG,MGIC Investment Corporation
+SKM,"SK Telecom Co.,Ltd"
+SHW,The Sherwin-Williams Company
+TDS,"Telephone and Data Systems, Inc."
+ATEN,"A10 Networks, Inc."
+SRE,Sempra
+CFG,"Citizens Financial Group, Inc."
+SSD,"Simpson Manufacturing Co., Inc."
+NYCB,"New York Community Bancorp, Inc."
+AMN,"AMN Healthcare Services, Inc."
+AVNT,Avient Corporation
+BNED,"Barnes & Noble Education, Inc."
+SMG,The Scotts Miracle-Gro Company
+GL,Globe Life Inc.
+SPG,"Simon Property Group, Inc."
+CB,Chubb Limited
+WLK,Westlake Corporation
+RQI,"Cohen & Steers Quality Income Realty Fund, Inc."
+MIN,MFS Intermediate Income Trust
+NR,"Newpark Resources, Inc."
+PCG,PG&E Corporation
+TNP,Tsakos Energy Navigation Limited
+ADX,"Adams Diversified Equity Fund, Inc."
+WM,"Waste Management, Inc."
+UNF,UniFirst Corporation
+NS,NuStar Energy L.P.
+VVR,Invesco Senior Income Trust
+PFL,PIMCO Income Strategy Fund
+WIW,Western Asset Inflation-Linked Opportunities & Income Fund
+RGA,"Reinsurance Group of America, Incorporated"
+BSM,"Black Stone Minerals, L.P."
+NSP,"Insperity, Inc."
+BHK,BlackRock Core Bond Trust
+KMPR,Kemper Corporation
+PEG,Public Service Enterprise Group Incorporated
+TXT,Textron Inc.
+ABEV,Ambev S.A.
+SAN,"Banco Santander, S.A."
+TSQ,"Townsquare Media, Inc."
+SBR,Sabine Royalty Trust
+TSN,"Tyson Foods, Inc."
+ALX,"Alexander's, Inc."
+ASG,"Liberty All-Star Growth Fund, Inc."
+WPM,Wheaton Precious Metals Corp.
+WTI,"W&T Offshore, Inc."
+TGS,Transportadora de Gas del Sur S.A.
+AEM,Agnico Eagle Mines Limited
+TRV,"The Travelers Companies, Inc."
+TWI,"Titan International, Inc."
+UTL,Unitil Corporation
+WBS,Webster Financial Corporation
+SPB,"Spectrum Brands Holdings, Inc."
+SO,The Southern Company
+PWR,"Quanta Services, Inc."
+WRB,W. R. Berkley Corporation
+SCD,LMP Capital and Income Fund Inc.
+ACN,Accenture plc
+AMAM,Ambrx Biopharma Inc.
+AIZ,"Assurant, Inc."
+APLE,"Apple Hospitality REIT, Inc."
+AMRX,"Amneal Pharmaceuticals, Inc."
+BAC,Bank of America Corporation
+BBW,"Build-A-Bear Workshop, Inc."
+RES,"RPC, Inc."
+SU,Suncor Energy Inc.
+TUP,Tupperware Brands Corporation
+UNP,Union Pacific Corporation
+RNR,RenaissanceRe Holdings Ltd.
+SCL,Stepan Company
+SNX,TD SYNNEX Corporation
+TMO,Thermo Fisher Scientific Inc.
+AHT,"Ashford Hospitality Trust, Inc."
+DIAX,Nuveen Dow 30 Dynamic Overwrite Fund
+TFC,Truist Financial Corporation
+TPX,"Tempur Sealy International, Inc."
+TEF,"Telefónica, S.A."
+TDY,Teledyne Technologies Incorporated
+ADM,Archer-Daniels-Midland Company
+TRP,TC Energy Corporation
+VBF,Invesco Bond Fund
+CPS,Cooper-Standard Holdings Inc.
+CHCT,Community Healthcare Trust Incorporated
+TEI,Templeton Emerging Markets Income Fund
+TJX,"The TJX Companies, Inc."
+TKC,Turkcell Iletisim Hizmetleri A.S.
+AZZ,AZZ Inc.
+SCX,The L.S. Starrett Company
+TRC,Tejon Ranch Co.
+RY,Royal Bank of Canada
+STM,STMicroelectronics N.V.
+BALL,Ball Corporation
+STE,STERIS plc
+SCI,Service Corporation International
+MLR,"Miller Industries, Inc."
+NLY,"Annaly Capital Management, Inc."
+HWM,Howmet Aerospace Inc.
+NRK,Nuveen New York AMT-Free Quality Municipal Income Fund
+PCM,PCM Fund Inc.
+ATR,"AptarGroup, Inc."
+BHC,Bausch Health Companies Inc.
+ECC,Eagle Point Credit Company Inc.
+RCL,Royal Caribbean Cruises Ltd.
+WMT,Walmart Inc.
+AVK,Advent Convertible and Income Fund
+RXO,"RXO, Inc."
+RRC,Range Resources Corporation
+SAH,"Sonic Automotive, Inc."
+CABO,"Cable One, Inc."
+TRN,"Trinity Industries, Inc."
+SYF,Synchrony Financial
+UGP,Ultrapar Participações S.A.
+OCN,Ocwen Financial Corporation
+AMG,"Affiliated Managers Group, Inc."
+NQP,Nuveen Pennsylvania Quality Municipal Income Fund
+BLD,TopBuild Corp.
+RELX,RELX PLC
+AFB,"AllianceBernstein National Municipal Income Fund, Inc."
+SGU,"Star Group, L.P."
+SKY,Skyline Champion Corporation
+BGR,BlackRock Energy and Resources Trust
+SLB,Schlumberger Limited
+VHI,"Valhi, Inc."
+RCI,Rogers Communications Inc.
+ROK,"Rockwell Automation, Inc."
+PLD,"Prologis, Inc."
+AP,Ampco-Pittsburgh Corporation
+PLNT,"Planet Fitness, Inc."
+STLA,Stellantis N.V.
+NXJ,Nuveen New Jersey Quality Municipal Income Fund
+PHG,Koninklijke Philips N.V.
+TYL,"Tyler Technologies, Inc."
+UFI,"Unifi, Inc."
+EFXT,Enerflex Ltd.
+PRA,ProAssurance Corporation
+WFC-PR,Wells Fargo & Company
+AFL,Aflac Incorporated
+SIG,Signet Jewelers Limited
+TRI,Thomson Reuters Corporation
+VLT,Invesco High Income Trust II
+NJR,New Jersey Resources Corporation
+WIT,Wipro Limited
+WMS,"Advanced Drainage Systems, Inc."
+SF,Stifel Financial Corp.
+SAP,SAP SE
+CM,Canadian Imperial Bank of Commerce
+SUP,"Superior Industries International, Inc."
+JCI,Johnson Controls International plc
+MS-PF,Morgan Stanley
+NEM,Newmont Corporation
+VNO,Vornado Realty Trust
+BCH,Banco de Chile
+GIC,Global Industrial Company
+MMM,3M Company
+UVV,Universal Corporation
+TNC,Tennant Company
+RSG,"Republic Services, Inc."
+ORI,Old Republic International Corporation
+ASH,Ashland Inc.
+SDHC,Smith Douglas Homes Corp.
+ARE,"Alexandria Real Estate Equities, Inc."
+VTR,"Ventas, Inc."
+WAT,Waters Corporation
+SAIC,Science Applications International Corporation
+AYI,"Acuity Brands, Inc."
+ADC,Agree Realty Corporation
+BGC,"BGC Group, Inc"
+CLH,"Clean Harbors, Inc."
+NWN,Northwest Natural Holding Company
+PBT,Permian Basin Royalty Trust
+SMP,"Standard Motor Products, Inc."
+SUI,"Sun Communities, Inc."
+TM,Toyota Motor Corporation
+AEL,American Equity Investment Life Holding Company
+GRNT,"Granite Ridge Resources, Inc"
+OXY,Occidental Petroleum Corporation
+URI,"United Rentals, Inc."
+BSIG,BrightSphere Investment Group Inc.
+AXTA,Axalta Coating Systems Ltd.
+TS,Tenaris S.A.
+UGI,UGI Corporation
+RMD,ResMed Inc.
+UNM,Unum Group
+USB,U.S. Bancorp
+WHR,Whirlpool Corporation
+SLF,Sun Life Financial Inc.
+TR,"Tootsie Roll Industries, Inc."
+TK,Teekay Corporation
+EVA,Enviva Inc.
+PRU,"Prudential Financial, Inc."
+USM,United States Cellular Corporation
+NVO,Novo Nordisk A/S
+RLI,RLI Corp.
+UMC,United Microelectronics Corporation
+ASR,"Grupo Aeroportuario del Sureste, S. A. B. de C. V."
+NPO,"EnPro Industries, Inc."
+VMC,Vulcan Materials Company
+BDJ,BlackRock Enhanced Equity Dividend Trust
+APD,"Air Products and Chemicals, Inc."
+WCC,"WESCO International, Inc."
+WGO,"Winnebago Industries, Inc."
+TYG,Tortoise Energy Infrastructure Corporation
+UHS,"Universal Health Services, Inc."
+O,Realty Income Corporation
+TDF,"Templeton Dragon Fund, Inc."
+AKR,Acadia Realty Trust
+MHN,"BlackRock MuniHoldings New York Quality Fund, Inc."
+ABT,Abbott Laboratories
+JGH,Nuveen Global High Income Fund
+VLO,Valero Energy Corporation
+SID,Companhia Siderúrgica Nacional
+CCCS,CCC Intelligent Solutions Holdings Inc.
+SIX,Six Flags Entertainment Corporation
+TKR,The Timken Company
+TREX,"Trex Company, Inc."
+MMC,"Marsh & McLennan Companies, Inc."
+MSGS,Madison Square Garden Sports Corp.
+RHI,Robert Half International Inc.
+B,Barnes Group Inc.
+BOOT,"Boot Barn Holdings, Inc."
+SVV,"Savers Value Village, Inc."
+VTN,Invesco Trust for Investment Grade New York Municipals
+THO,"Thor Industries, Inc."
+UTI,"Universal Technical Institute, Inc."
+HUBS,"HubSpot, Inc."
+AVNS,"Avanos Medical, Inc."
+PAG,"Penske Automotive Group, Inc."
+TPL,Texas Pacific Land Corporation
+PHX,PHX Minerals Inc.
+TPC,Tutor Perini Corporation
+AFT,Apollo Senior Floating Rate Fund Inc.
+PGZ,Principal Real Estate Income Fund
+TAC,TransAlta Corporation
+W,Wayfair Inc.
+RIG,Transocean Ltd.
+TD,The Toronto-Dominion Bank
+AEG,Aegon N.V.
+MAC,The Macerich Company
+TV,"Grupo Televisa, S.A.B."
+VGR,Vector Group Ltd.
+SYY,Sysco Corporation
+VVI,Viad Corp
+AGO,Assured Guaranty Ltd.
+MOG-A,Moog Inc.
+RTX,Raytheon Technologies Corporation
+VMO,Invesco Municipal Opportunity Trust
+UIS,Unisys Corporation
+RDY,Dr. Reddy's Laboratories Limited
+TGT,Target Corporation
+FSK,FS KKR Capital Corp.
+OLN,Olin Corporation
+SEE,Sealed Air Corporation
+DASH,"DoorDash, Inc."
+EU,enCore Energy Corp.
+TTC,The Toro Company
+A,"Agilent Technologies, Inc."
+TAP,Molson Coors Beverage Company
+WCN,"Waste Connections, Inc."
+BST,BlackRock Science and Technology Trust
+PKG,Packaging Corporation of America
+SWN,Southwestern Energy Company
+STC,Stewart Information Services Corporation
+AIN,Albany International Corp.
+ALK,"Alaska Air Group, Inc."
+NMR,"Nomura Holdings, Inc."
+PHM,"PulteGroup, Inc."
+RF,Regions Financial Corporation
+TOL,"Toll Brothers, Inc."
+TU,TELUS Corporation
+UMH,"UMH Properties, Inc."
+OHI,"Omega Healthcare Investors, Inc."
+OUT,Outfront Media Inc.
+TGI,"Triumph Group, Inc."
+TEO,Telecom Argentina S.A.
+PKX,POSCO Holdings Inc.
+NUV,"Nuveen Municipal Value Fund, Inc."
+SWK,"Stanley Black & Decker, Inc."
+AGM,Federal Agricultural Mortgage Corporation
+TEX,Terex Corporation
+USA,Liberty All-Star Equity Fund
+PTY,PIMCO Corporate & Income Opportunity Fund
+RRX,Regal Rexnord Corporation
+TTE,TotalEnergies SE
+MATV,"Mativ Holdings, Inc."
+SNN,Smith & Nephew plc
+THC,Tenet Healthcare Corporation
+AJG,Arthur J. Gallagher & Co.
+ELV,Elevance Health Inc.
+NHI,"National Health Investors, Inc."
+NPK,"National Presto Industries, Inc."
+PBR-A,Petróleo Brasileiro S.A. - Petrobras
+TISI,"Team, Inc."
+TLK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk
+ESNT,Essent Group Ltd.
+UDR,"UDR, Inc."
+UE,Urban Edge Properties
+ANET,"Arista Networks, Inc."
+SM,SM Energy Company
+ASPN,"Aspen Aerogels, Inc."
+PGR,The Progressive Corporation
+APH,Amphenol Corporation
+UTF,"Cohen & Steers Infrastructure Fund, Inc"
+SNA,Snap-on Incorporated
+SJM,The J. M. Smucker Company
+SJW,SJW Group
+DLNG,Dynagas LNG Partners LP
+SAM,"The Boston Beer Company, Inc."
+PBA,Pembina Pipeline Corporation
+PNW,Pinnacle West Capital Corporation
+NBR,Nabors Industries Ltd.
+TSM,Taiwan Semiconductor Manufacturing Company Limited
+VSH,"Vishay Intertechnology, Inc."
+OGE,OGE Energy Corp.
+BN,Brookfield Corporation
+PSA,Public Storage
+SNV,Synovus Financial Corp.
+STEW,"SRH Total Return Fund, Inc."
+RWT,"Redwood Trust, Inc."
+TFX,Teleflex Incorporated
+OI,"O-I Glass, Inc."
+SXT,Sensient Technologies Corporation
+SON,Sonoco Products Company
+WAB,Westinghouse Air Brake Technologies Corporation
+WF,Woori Financial Group Inc.
+RS,Reliance Steel & Aluminum Co.
+VFC,V.F. Corporation
+SKT,"Tanger Factory Outlet Centers, Inc."
+WMK,"Weis Markets, Inc."
+KIO,KKR Income Opportunities Fund
+PDS,Precision Drilling Corporation
+RJF,"Raymond James Financial, Inc."
+PZC,PIMCO California Municipal Income Fund III
+VSTO,Vista Outdoor Inc.
+BF-B,Brown-Forman Corporation
+AFG,"American Financial Group, Inc."
+VGM,Invesco Trust for Investment Grade Municipals
+TMST,TimkenSteel Corporation
+SPH,"Suburban Propane Partners, L.P."
+SCS,Steelcase Inc.
+GHC,Graham Holdings Company
+OPY,Oppenheimer Holdings Inc.
+PHD,"Pioneer Floating Rate Fund, Inc."
+KNW,"Know Labs, Inc."
+GLO,Clough Global Opportunities Fund
+EGHT,"8x8, Inc."
+BITX,Volatility Shares Trust - 2x Bitcoin Strategy ETF
+CRF,"Cornerstone Total Return Fund, Inc."
+SFE,"Safeguard Scientifics, Inc."
+CLM,"Cornerstone Strategic Value Fund, Inc."
+ATEK,Athena Technology Acquisition Corp. II
+RSPS,Invesco S&P 500® Equal Weight Consumer Staples ETF
+PSLV,Sprott Physical Silver Trust
+FCO,"abrdn Global Income Fund, Inc."
+GGN,"GAMCO Global Gold, Natural Resources & Income Trust"
+RSPM,Invesco S&P 500® Equal Weight Materials ETF
+ZYME,Zymeworks Inc.
+CATX,"Perspective Therapeutics, Inc."
+FEN,First Trust Energy Income and Growth Fund
+EAD,Wells Fargo Advantage Funds - Allspring Income Opportunities Fund
+DFGR,Dimensional Global Real Estate ETF
+EIM,Eaton Vance Municipal Bond Fund
+NRO,Neuberger Berman Real Estate Securities Income Fund Inc.
+HNW,"Pioneer Diversified High Income Fund, Inc."
+AEF,Abrdn Emerging Markets Equity Income Fund Inc
+RSPH,Invesco S&P 500® Equal Weight Health Care ETF
+RSPT,Invesco S&P 500® Equal Weight Technology ETF
+SLND,"Southland Holdings, Inc."
+SPDG,SPDR Series Trust
+EVV,Eaton Vance Limited Duration Income Fund
+FAX,Abrdn Asia-Pacific Income Fund Inc
+GLU,The Gabelli Global Utility & Income Trust
+CEF,Sprott Physical Gold and Silver Trust
+GNT,"GAMCO Natural Resources, Gold & Income Trust"
+IAF,Abrdn Australia Equity Fund Inc
+GLQ,Clough Global Equity Fund
+RGS,Regis Corporation
+VKI,Invesco Advantage Municipal Income Trust II
+EETH,ProShares Trust
+FGH,FG Group Holdings Inc.
+MTBA,Simplify MBS ETF
+ERC,Allspring Multi-Sector Income Fund
+CIK,"Credit Suisse Asset Management Income Fund, Inc."
+MPU,Mega Matrix Corp.
+NXU,"Nxu, Inc."
+PHYS,Sprott Physical Gold Trust
+VSHY,Virtus ETF Trust II - Virtus Newfleet Short Duration High Yield Bond ETF
+UTG,Reaves Utility Income Fund
+RSPN,Invesco S&P 500® Equal Weight Industrials ETF
+BNY,BlackRock New York Municipal Income Trust
+RSPD,Invesco S&P 500® Equal Weight Consumer Discretionary ETF
+PMX,PIMCO Municipal Income Fund III
+WRB-PH,W.R. Berkley Corporation 4.125%
+RFI,"Cohen & Steers Total Return Realty Fund, Inc."
+DMF,"BNY Mellon Municipal Income, Inc."
+WBS-PG,Webster Financial Corporation
+PERF,Perfect Corp.
+LXP-PC,LXP Industrial Trust
+BWNB,"Babcock & Wilcox Enterprises, I"
+EGF,"BlackRock Enhanced Government Fund, Inc."
+GNL-PD,"Global Net Lease, Inc."
+AMTD,AMTD IDEA Group
+VNO-PO,Vornado Realty Trust
+OXY-WT,Occidental Petroleum Corporatio
+KUKE,Kuke Music Holding Limited
+JMM,Nuveen Multi-Market Income Fund
+EVM,Eaton Vance California Municipal Bond Fund
+DFLV,Dimensional US Large Cap Value ETF
+CMU,MFS High Yield Municipal Trust
+ABR-PD,"Arbor Realty Trust, Inc."
+NXG,NXG NextGen Infrastructure Income Fund
+RITM-PD,Rithm Capital Corp.
+JOBY-WT,
+CXE,MFS High Income Municipal Trust
+ELIQ,"Electriq Power Holdings, Inc."
+WEA,Western Asset Premier Bond Fund
+WIA,Western Asset Inflation-Linked Income Fund
+VHC,VirnetX Holding Corp
+IONQ-WT,
+OIA,Invesco Municipal Income Opportunities Trust
+XFLT,XAI Octagon Floating Rate & Alternative Income Term Trust
+PNI,PIMCO New York Municipal Income Fund II
+NCA,Nuveen California Municipal Value Fund
+PNF,PIMCO New York Municipal Income Fund
+BTA,BlackRock Long-Term Municipal Advantage Trust
+FIF,First Trust Energy Infrastructure Fund
+ASA,ASA Gold and Precious Metals Limited
+ECF,Ellsworth Growth and Income Fund Ltd.
+BCV,Bancroft Fund Ltd.
+GHI,Greystone Housing Impact Investors LP
+EICB,Eagle Point Income Company Inc.
+AULT,"Ault Alliance, Inc."
+ZTR,Virtus Total Return Fund Inc.
+NGL-PB,NGL Energy Partners LP
+AKO-B,Embotelladora Andina S.A.
+RFM,"RiverNorth Flexible Municipal Income Fund, Inc."
+MIR-WT,
+NIM,Nuveen Select Maturities Municipal Fund
+TPZ,"Tortoise Power and Energy Infrastructure Fund, Inc."
+RSPR,Invesco S&P 500® Equal Weight Real Estate ETF
+BFLY-WT,"Butterfly Network, Inc."
+SMR-WT,NuScale Power Corporation
+FPL,First Trust New Opportunities MLP & Energy Fund
+RSPU,Invesco S&P 500® Equal Weight Utilities ETF
+RCS,"PIMCO Strategic Income Fund, Inc."
+GROY-WT,Gold Royalty Corp.
+BURU,"Nuburu, Inc."
+BBDO,Banco Bradesco S.A.
+ACV,Virtus Diversified Income & Convertible Fund
+GFR,Greenfire Resources Ltd
+PFO,Flaherty & Crumrine Preferred Income Opportunity Fund Inc.
+FMN,Federated Hermes Premier Municipal Income Fund
+MWG,35137
+HQL,Tekla Life Sciences Investors
+NXP,Nuveen Select Tax-Free Income Portfolio
+SOJC,The Southern Company JR 2017B NT 77
+FHN-PF,First Horizon Corporation
+CET,Central Securities Corp.
+CEV,Eaton Vance California Municipal Income Trust
+BMN,Blackrock 2037 Municipal Target Term Trust
+PGRU,PropertyGuru Limited
+CTDD,Qwest Corp. 6.75% NT 57
+VNO-PL,Vornado Realty Trust
+NLY-PG,"Annaly Capital Management, Inc."
+GLV,Clough Global Dividend and Income Fund
+OSI,Osiris Acquisition Corp.
+SCE-PL,SCE Trust VI 5% TR PREF SECS
+NBH,Neuberger Berman Municipal Fund Inc.
+SEDA,SDCL EDGE Acquisition Corporation
+EQC-PD,Equity Commonwealth
+TDS-PU,"Telephone and Data Systems, Inc."
+NAZ,Nuveen Arizona Quality Municipal Income Fund
+HIE,Miller/Howard High Income Equity Fund
+DCF,"BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund, Inc."
+AFGD,"American Financial Group, Inc."
+IIPR-PA,"Innovative Industrial Properties, Inc."
+NDP,"Tortoise Energy Independence Fund, Inc."
+SOJD,Southern Company (The) Series 2
+RSF,"RiverNorth Capital and Income Fund, Inc."
+WDH,Waterdrop Inc.
+CODI-PB,Compass Diversified
+COF-PL,Capital One Financial Corporation
+PYN,PIMCO New York Municipal Income Fund III
+AIYY,YieldMax AI Option Income Strategy ETF
+SCE-PK,SCE Trust V PFD SEC
+PSA-PQ,Public Storage
+UNMA,Unum Group 6.250% JR NT58
+SB-PC,"Safe Bulkers, Inc."
+CDR-PB,"Cedar Realty Trust, Inc."
+JCE,Nuveen Core Equity Alpha Fund
+PMTU,PennyMac Mortgage Investment Tr
+ARR-PC,"ARMOUR Residential REIT, Inc."
+PRE-PJ,PartnerRe Ltd.
+LITB,"LightInTheBox Holding Co., Ltd."
+CXH,MFS Investment Grade Municipal Trust
+RIV,"RiverNorth Opportunities Fund, Inc."
+PIM,Putnam Master Intermediate Income Trust
+MTBL,"Moatable, Inc."
+ATH-PD,Athene Holding Ltd.
+SOR,"Source Capital, Inc."
+MITT-PC,"AG Mortgage Investment Trust, Inc."
+SATX,Satixfy Communications Ltd.
+PSA-PK,Public Storage
+TSI,"TCW Strategic Income Fund, Inc."
+CMRE-PB,Costamare Inc.
+MXE,Mexico Equity & Income Fund Inc.
+PGP,PIMCO Global StocksPLUS & Income Fund
+XFLT-PA,XAI Octagon Floating Rate & Alternative Income Term Trust
+ARGO-PA,"Argo Group International Holdings, Ltd."
+TNP-PF,Tsakos Energy Navigation Limited
+AQNB,Algonquin Power & Utilities Cor
+ACHR-WT,
+PMT-PA,PennyMac Mortgage Investment Trust
+DTF,DTF Tax-Free Income 2028 Term Fund Inc.
+VFL,Delaware Investments National Municipal Income Fund
+CVII-UN,Churchill Capital Corp VII
+JXN-PA,Jackson Financial Inc.
+MTB-PH,M&T Bank Corporation
+AEVA-WT,"Aeva Technologies, Inc. Redeema"
+MVO,MV Oil Trust
+IFIN,InFinT Acquisition Corporation
+BIP-PB,Brookfield Infrastructure Partners L.P.
+PRS,"Prudential Financial, Inc. 5.62"
+RZB,"Reinsurance Group of America, Incorporated"
+BNRE,Brookfield Reinsurance Ltd.
+DBRG-PJ,"DigitalBridge Group, Inc."
+TVE,Tennessee Valley Authority PARRS A 2029
+SRV,The Cushing MLP & Infrastructure Total Return Fund
+GHLD,Guild Holdings Company
+GLOP-PA,GasLog Partners LP
+DSAQ,Direct Selling Acquisition Corp.
+BNJ,Brookfield Finance Inc. 4.50% P
+ACR-PC,ACRES Commercial Realty Corp.
+AHT-PD,"Ashford Hospitality Trust, Inc."
+AHT-PG,"Ashford Hospitality Trust, Inc."
+AFGE,"American Financial Group, Inc."
+PAI,Western Asset Investment Grade Income Fund Inc.
+CHMI-PB,Cherry Hill Mortgage Investment Corporation
+STXT,Strive Total Return Bond ETF
+FOF,"Cohen & Steers Closed-End Opportunity Fund, Inc."
+FLME,Flame Acquisition Corp.
+AGM-PC,Federal Agricultural Mortgage Corporation
+EQS,"Equus Total Return, Inc."
+KMPB,Kemper Corporation 5.875% Fixed
+VAL-WT,
+GCV,The Gabelli Convertible and Income Securities Fund Inc.
+AGM-PF,Federal Agricultural Mortgage Corporation
+NOTE-WT,"FiscalNote Holdings, Inc."
+OCFT,"OneConnect Financial Technology Co., Ltd."
+TVC,Tennessee Valley Authority PARRS D 2028
+TDS-PV,"Telephone and Data Systems, Inc."
+KREF-PA,KKR Real Estate Finance Trust Inc.
+CPAC,Cementos Pacasmayo S.A.A.
+KTH,Corts Trust Peco Energy Capital Trust III
+RF-PE,Regions Financial Corporation
+GJT,"Strats(SM) Trust For Allstate Corp Securities, Series 2006-3 06-3 ASSET BKD"
+FLME-WT,
+GMRE-PA,Global Medical REIT Inc.
+JLS,Nuveen Mortgage and Income Fund
+DUBS,Aptus Large Cap Enhanced Yield ETF
+MTR,Mesa Royalty Trust
+BC-PC,Brunswick Corporation 6.375% No
+ASBA,Associated Banc-Corp
+NXN,Nuveen New York Select Tax-Free Income Portfolio
+CBH,Virtus Convertible & Income 2024 Target Term Fund
+CTBB,Qwest Corp. NT
+BWSN,"Babcock & Wilcox Enterprises, I"
+SAZ,Saratoga Investment Corp 8.50% 
+HPP-PC,"Hudson Pacific Properties, Inc."
+KTN,Credit-Enhanced Corts Trust Aon
+TDI,"Telephone and Data Systems, Inc. SR NT 2045"
+GNL-PB,"Global Net Lease, Inc."
+DNA-WT,
+QVCD,"QVC, Inc. 6.375% Senior Secured"
+MGF,MFS Government Markets Income Trust
+MFV,MFS Special Value Trust
+CNO-PA,"CNO Financial Group, Inc. 5.125"
+ABR-PF,"Arbor Realty Trust, Inc."
+JEQ,Abrdn Japan Equity Fund Inc
+FGB,First Trust Specialty Finance and Financial Opportunities Fund
+FHN-PE,First Horizon Corporation
+ET-PC,Energy Transfer LP
+DLR-PL,"Digital Realty Trust, Inc."
+ET-PE,Energy Transfer LP
+FHN-PC,First Horizon Corporation
+BEDU,Bright Scholar Education Holdings Limited
+ACP-PA,Abrdn Income Credit Strategies Fund
+KCGI-WT,
+ETWO-WT,"E2open Parent Holdings, Inc."
+RLJ-PA,RLJ Lodging Trust
+SONX,"Sonendo, Inc."
+SHO-PH,"Sunstone Hotel Investors, Inc."
+SWZ,The Swiss Helvetia Fund Inc.
+TGH-PA,Textainer Group Holdings Limited
+IVR-PC,Invesco Mortgage Capital Inc.
+RJF-PB,"Raymond James Financial, Inc."
+SHPW,"Shapeways Holdings, Inc."
+MITT-PB,"AG Mortgage Investment Trust, Inc."
+KKRS,KKR Group Finance Co. IX LLC 4.
+SR-PA,Spire Inc.
+SBI,Western Asset Intermediate Muni Fund Inc.
+OPP-PA,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc."
+CNF,CNFinance Holdings Limited
+SAJ,Saratoga Investment Corp 8.00% 
+MITT-PA,"AG Mortgage Investment Trust, Inc."
+AHT-PI,"Ashford Hospitality Trust, Inc."
+WNNR-WT,
+GAB-PH,The Gabelli Equity Trust Inc.
+BLUA,BlueRiver Acquisition Corp.
+OAK-PB,"Oaktree Capital Group, LLC"
+BQ,Boqii Holding Limited
+KEY-PJ,KeyCorp
+CMCM,Cheetah Mobile Inc.
+UGIC,UGI Corporation
+RSPC,Invesco S&P 500® Equal Weight Communication Services ETF
+CCG,1120
+FNB-PE,F.N.B. Corporation
+PRIF-PK,"Priority Income Fund, Inc."
+HFRO-PA,Highland Funds I - Highland Income Fund
+OPFI-WT,
+ABR-PE,"Arbor Realty Trust, Inc."
+IVR-PB,Invesco Mortgage Capital Inc.
+ALTG-PA,Alta Equipment Group Inc.
+AC,"Associated Capital Group, Inc."
+TRTN-PA,Triton International Limited
+CMRE-PC,Costamare Inc.
+TRTN-PE,Triton International Limited
+PBI-PB,Pitney Bowes Inc. NT 43
+RITM-PA,Rithm Capital Corp.
+BHR-PD,Braemar Hotels & Resorts Inc.
+PMT-PB,PennyMac Mortgage Investment Trust
+FHN-PD,First Horizon Corporation
+GS-PC,"The Goldman Sachs Group, Inc. PFD 1/1000 C"
+AHH-PA,"Armada Hoffler Properties, Inc."
+MAA-PI,"Mid-America Apartment Communities, Inc."
+TFC-PI,Truist Financial Corporation
+LLAP-WT,Terran Orbital Corporation
+MTAL,Metals Acquisition Corp
+EMF,Templeton Emerging Markets Fund
+FFOG,Franklin Focused Growth ETF
+CPTK,Crown Proptech Acquisitions
+EPR-PC,EPR Properties
+DSX-PB,Diana Shipping Inc.
+PFD,Flaherty & Crumrine Preferred Income Fund Inc.
+QVCC,"QVC, Inc. 6.250% Senior Secured"
+KEN,Kenon Holdings Ltd.
+SCCF,Sachem Capital Corp. 7.125% Not
+PORT-UN,Southport Acquisition Corporation
+PHYT-WT,
+GSL-PB,"Global Ship Lease, Inc."
+GWH-WT,
+CIF,MFS Intermediate High Income Fund
+AEL-PB,American Equity Investment Life Holding Company
+LCW,Learn CW Investment Corporation
+CFG-PD,"Citizens Financial Group, Inc."
+AKA,a.k.a. Brands Holding Corp.
+BEP-PA,Brookfield Renewable Partners L.P.
+RMI,"RiverNorth Opportunistic Municipal Income Fund, Inc."
+PSA-PM,Public Storage
+WBS-PF,Webster Financial Corporation
+TOVX,"Theriva Biologics, Inc."
+PEB-PF,Pebblebrook Hotel Trust
+DTB,DTE Energy Company 2020 Series 
+ALL-PI,The Allstate Corporation
+MTAL-WT,
+SRL,Scully Royalty Ltd.
+VOYA-PB,"Voya Financial, Inc."
+COF-PK,Capital One Financial Corporation
+AMPX-WT,"Amprius Technologies, Inc."
+CDR-PC,"Cedar Realty Trust, Inc."
+CFG-PE,"Citizens Financial Group, Inc."
+SIF,"SIFCO Industries, Inc."
+NGL-PC,NGL Energy Partners LP
+FMY,First Trust Mortgage Income Fund
+CIM-PA,Chimera Investment Corporation
+TRTN-PC,Triton International Limited
+QVOY,Q3 All-Season Active Rotation ETF
+EPR-PE,EPR Properties
+CSR-PC,Centerspace
+CNDA-UN,Concord Acquisition Corp II
+FHN-PB,First Horizon Corporation
+GRP-UN,Granite Real Estate Investment Trust
+TGH-PB,Textainer Group Holdings Limited
+EP-PC,El Paso Energy Capital Trust I PFD CV TR SECS
+ADC-PA,Agree Realty Corporation
+ENO,"Entergy Utility Group, Inc. 1ST MTG BD 66"
+KCGI,Kensington Capital Acquisition Corp. V
+NLY-PI,"Annaly Capital Management, Inc."
+GL-PD,Globe Life Inc. 4.25% Junior Su
+AHL-PE,Aspen Insurance Holdings Limited
+EPR-PG,EPR Properties
+BKSY-WT,
+EMC,11847908
+SCCG,Sachem Capital Corp. 8.00% Note
+NS-PB,NuStar Energy L.P.
+NS-PC,NuStar Energy L.P. 9.00% CUM PFD C
+ETO,Eaton Vance Tax-Advantaged Global Dividend Opportunities Fund
+LND,BrasilAgro - Companhia Brasileira de Propriedades Agrícolas
+INN-PF,"Summit Hotel Properties, Inc."
+XIN,"Xinyuan Real Estate Co., Ltd."
+HLGN,"Heliogen, Inc."
+GUT-PC,The Gabelli Utility Trust
+NMS,Nuveen Minnesota Quality Municipal Income Fund
+NYCB-PU,New York Community Capital Trust V BONUSES UNIT
+SCE-PJ,SCE Trust IV
+PEB-PG,Pebblebrook Hotel Trust
+NMT,Nuveen Massachusetts Quality Municipal Income Fund
+DX-PC,"Dynex Capital, Inc."
+BEST,BEST Inc.
+CMRE-PE,Costamare Inc.
+COE,China Online Education Group
+SRG-PA,Seritage Growth Properties
+GAQ,Generation Asia I Acquisition Limited
+GAB-PG,The Gabelli Equity Trust Inc. PFD-G
+TRTN-PB,Triton International Limited
+RITM-PC,Rithm Capital Corp.
+NSA-PA,National Storage Affiliates Trust
+GDV-PH,The Gabelli Dividend & Income Trust
+PRIF-PL,"Priority Income Fund, Inc."
+GJO,Strats Trust Wal Mart Stores Inc. STRT CTF 05-4
+PMT-PC,PennyMac Mortgage Investment Trust
+GLP-PA,Global Partners LP
+ACR-PD,ACRES Commercial Realty Corp.
+BHM,"Bluerock Homes Trust, Inc."
+SITC-PA,SITE Centers Corp.
+VLD-WT,
+GGZ,The Gabelli Global Small and Mid Cap Value Trust
+TNP-PE,Tsakos Energy Navigation Limited
+PRIF-PI,"Priority Income Fund, Inc."
+TTP,"Tortoise Pipeline & Energy Fund, Inc."
+CHMI-PA,Cherry Hill Mortgage Investment Corporation
+SPLP,Steel Partners Holdings L.P.
+RWT-PA,"Redwood Trust, Inc."
+RIV-PA,"RiverNorth Opportunities Fund, Inc."
+PL-WT,
+BAC-PL,Bank of America Corporation
+CORR,"CorEnergy Infrastructure Trust, Inc."
+JWSM-UN,Jaws Mustang Acquisition Corporation
+ETI-P,"Entergy Texas, Inc."
+CMSA,CMS Energy Corporation 5.6% JRSUB NT 78
+NS-PA,NuStar Energy L.P.
+BIPH,Brookfield Infrastructure Corpo
+PSFE-WT,Paysafe Limited
+GPMT-PA,Granite Point Mortgage Trust Inc.
+RCB,Ready Capital Corporation
+FREY-WT,
+PRIF-PH,"Priority Income Fund, Inc."
+OAK-PA,"Oaktree Capital Group, LLC 6.625% PFD UT A"
+SCE-PH,SCE Trust III
+JWSM,Jaws Mustang Acquisition Corporation
+GBLI,"Global Indemnity Group, LLC"
+TXO,"MorningStar Partners, L.P."
+BC-PB,Brunswick Corporation 6.625% Se
+AMBI,Ambipar Emergency Response
+ATCO-PD,Atlas Corp.
+WFC-PL,Wells Fargo & Company
+EFC-PA,Ellington Financial Inc.
+SPG-PJ,"Simon Property Group, Inc."
+BFAC-WT,
+BIP-PA,Brookfield Infrastructure Partners L.P.
+TRTX-PC,"TPG RE Finance Trust, Inc."
+PEB-PH,Pebblebrook Hotel Trust
+AFGC,"American Financial Group, Inc."
+LFT-PA,"Lument Finance Trust, Inc."
+RC-PE,Ready Capital Corporation
+AIU,Meta Data Limited
+FCRX,"First Eagle Alternative Capital BDC, Inc."
+BHR-PB,Braemar Hotels & Resorts Inc.
+HCXY,"Hercules Capital, Inc."
+AMH-PG,American Homes 4 Rent
+NSS,"NuStar Logistics, L.P. SB NT FX/FL 43"
+REXR-PB,"Rexford Industrial Realty, Inc."
+DLNG-PB,Dynagas LNG Partners LP
+VIAO,VIA optronics AG
+SPNT-PB,SiriusPoint Ltd.
+CIM-PD,Chimera Investment Corporation
+USB-PA,U.S. Bancorp PERP PFD SER A
+CODI-PC,Compass Diversified
+SRC-PA,"Spirit Realty Capital, Inc."
+ENJ,"Entergy Utility Group, Inc. 1ST MTG 5% 52"
+CTOS-WT,"Custom Truck One Source, Inc."
+MFA-PC,"MFA Financial, Inc."
+IRS-WT,
+USDP,USD Partners LP
+CADE-PA,Cadence Bank
+RMPL-P,RiverNorth Specialty Finance Corporation
+GLP-PB,Global Partners LP
+DBRG-PI,"DigitalBridge Group, Inc."
+EFC-PB,Ellington Financial Inc.
+TBG,TBG Dividend Focus ETF
+MDV-PA,Modiv Inc.
+GLOP-PB,GasLog Partners LP
+NSTB,Northern Star Investment Corp. II
+SAT,Saratoga Investment Corp 6.00% 
+PEB-PE,Pebblebrook Hotel Trust
+REXR-PC,"Rexford Industrial Realty, Inc."
+CMS-PB,Consumers Energy Company
+AHT-PH,"Ashford Hospitality Trust, Inc."
+TWO-PA,Two Harbors Investment Corp.
+NREF-PA,"NexPoint Real Estate Finance, Inc."
+ROSS,Ross Acquisition Corp II
+CTA-PB,E. I. du Pont de Nemours and Company
+NTZ,Natuzzi S.p.A.
+CMSC,CMS Energy Corporation 5.875% J
+GJP,"STRATS Trust For Dominion Resources Inc. Securities, Series 2005-6"
+SF-PB,Stifel Financial Corp.
+PSEC-PA,Prospect Capital Corporation
+CMRE-PD,Costamare Inc.
+ROSS-WT,
+INN-PE,"Summit Hotel Properties, Inc."
+GLOG-PA,GasLog Ltd.
+FXLV,F45 Training Holdings Inc.
+ECCX,Eagle Point Credit Company Inc. 6.6875% NT 28
+GTLS-PB,"Chart Industries, Inc."
+BLUA-UN,BlueRiver Acquisition Corp.
+LRGC,"AB Active ETFs, Inc."
+BETH,ProShares Trust
+ECCW,Eagle Point Credit Company Inc.
+AJXA,Great Ajax Corp. 7.25 CV SR NT 24
+DRH-PA,DiamondRock Hospitality Company
+PRIF-PJ,"Priority Income Fund, Inc."
+SPLP-PA,Steel Partners Holdings L.P.
+BFS-PD,"Saul Centers, Inc."
+GLOP-PC,GasLog Partners LP
+AGM-PD,Federal Agricultural Mortgage Corporation
+CIM-PB,Chimera Investment Corporation
+CTO-PA,"CTO Realty Growth, Inc."
+RCC,Ready Capital Corporation 5.75%
+ECCC,Eagle Point Credit Company Inc.
+EEA,"The European Equity Fund, Inc."
+NXDT-PA,NexPoint Diversified Real Estate Trust
+CUBI-PF,"Customers Bancorp, Inc."
+SBBA,Scorpio Tankers Inc. 7.00% Seni
+SJIM,Northern Lights Fund Trust IV - Inverse Cramer Tracker ETF
+NYC,"New York City REIT, Inc."
+BCHP,Principal Focused Blue Chip ETF
+LEJU,Leju Holdings Limited
+QBTS-WT,D-Wave Quantum Inc.
+HHLA-UN,HH&L Acquisition Co.
+UWMC-WT,UWM Holdings Corporation
+OPP-PB,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc."
+GGT-PG,The Gabelli Multimedia Trust Inc.
+CUBI-PE,"Customers Bancorp, Inc."
+MOGU,MOGU Inc.
+AKO-A,Embotelladora Andina S.A.
+BHV,BlackRock Virginia Municipal Bond Trust
+NOM,Nuveen Missouri Quality Municipal Income Fund
+BKKT-WT,
+MKC-V,"McCormick & Company, Incorporated"
+HTFB,Horizon Technology Finance Corporation
+GNT-PA,"GAMCO Natural Resources, Gold & Income Trust"
+OUST-WT,"Ouster, Inc."
+PGSS-WT,
+PRIF-PD,"Priority Income Fund, Inc."
+PRIF-PG,"Priority Income Fund, Inc."
+CCM,Concord Medical Services Holdings Limited
+SPAQ,Spartan Acquisition Corp. III
+SNDA,"Sonida Senior Living, Inc."
+ICR-PA,"Inpoint Commercial Real Estate Income, Inc."
+SHO-PI,"Sunstone Hotel Investors, Inc."
+AHT-PF,"Ashford Hospitality Trust, Inc."
+BBU,Brookfield Business Partners L.P.
+BITE,Bite Acquisition Corp.
+BFS-PE,"Saul Centers, Inc."
+AMH-PH,American Homes 4 Rent
+NCZ-PA,Virtus Convertible & Income Fund II
+EVE,EVe Mobility Acquisition Corp
+FTCB,First Trust Exchange-Traded Fund IV - First Trust Core Investment Grade ETF
+WEL-WT,
+SHAP,Spree Acquisition Corp. 1 Limited
+EVEX-WT,"Eve Holding, Inc."
+SEAL-PA,Seapeak LLC
+BLUA-WT,BlueRiver Acquisition Corp.
+GDV-PK,The Gabelli Dividend & Income Trust
+TY-P,Tri-Continental Corporation PFD $2.50
+ECCV,Eagle Point Credit Company Inc.
+CODI-PA,Compass Diversified
+ECC-PD,Eagle Point Credit Company Inc.
+GHG,GreenTree Hospitality Group Ltd.
+CIO-PA,"City Office REIT, Inc."
+MHLA,"Maiden Holdings, Ltd. 6.625 NT 2046"
+PGSS-UN,Pegasus Digital Mobility Acquisition Corp.
+BETE,ProShares Trust
+GAB-PK,The Gabelli Equity Trust Inc.
+NM-PH,Navios Maritime Holdings Inc.
+GJS,"STRATS Trust for Goldman Sachs Group Securities, Series 2006-2"
+NMI,"Nuveen Municipal Income Fund, Inc."
+AGM-PG,Federal Agricultural Mortgage Corporation
+CTV-WT,
+ROSS-UN,Ross Acquisition Corp II
+ATIP,"ATI Physical Therapy, Inc."
+CELG-RI,Bristol-Myers Squibb Company Ce
+ML-WT,
+CUBB,"Customers Bancorp, Inc 5.375% S"
+CHAA,Catcha Investment Corp
+TWN,"The Taiwan Fund, Inc."
+AGM-PE,Federal Agricultural Mortgage Corporation
+MNTN,Everest Consolidator Acquisition Corporation
+CLBR-UN,Colombier Acquisition Corp.
+SB-PD,"Safe Bulkers, Inc."
+CTA-PA,E. I. du Pont de Nemours and Company
+APCA,AP Acquisition Corp.
+VLN-WT,
+AACT,Ares Acquisition Corporation II
+HTFC,Horizon Technology Finance Corp
+DC-WT,
+SST-WT,
+TRIS-WT,
+CNDB,Concord Acquisition Corp III
+JWSM-WT,Jaws Mustang Acquisition Corp. 
+GAM-PB,"General American Investors Company, Inc."
+TRIS,Tristar Acquisition I Corp.
+DLNG-PA,Dynagas LNG Partners LP
+SEAL-PB,Seapeak LLC
+TRIS-UN,Tristar Acquisition I Corp.
+IH,iHuman Inc.
+GGT-PE,The Gabelli Multimedia Trust Inc. 5.125% PFD SER E
+SAY,Saratoga Investment Corp 8.125%
+MHNC,"Maiden Holdings North America, Ltd."
+ZZZ,
+GTN-A,"Gray Television, Inc."
+MOG-B,Moog Inc.
+BFAC,Battery Future Acquisition Corp.
+NM-PG,Navios Maritime Holdings Inc.
+VAPO,"Vapotherm, Inc."
+PRIF-PF,"Priority Income Fund, Inc."
+CLBR,Colombier Acquisition Corp.
+CVII-WT,Churchill Capital Corp VII
+RRAC,Rigel Resource Acquisition Corp.
+AXR,AMREP Corporation
+OUST-WTA,"Ouster, Inc."
+CHRB,"Charah Solutions, Inc. 8.50% Se"
+GRND-WT,
+NFYS,Enphys Acquisition Corp.
+NTEST-I,
+NTEST-H,
+BKDT,Brookdale Senior Living Inc. 7.
+STG,Sunlands Technology Group
+GAQ-UN,Generation Asia I Acquisition Limited
+FOA-WT,Finance of America Companies In
+RCFA,RCF Acquisition Corp.
+RBOT-WT,
+TCOA,Trajectory Alpha Acquisition Corp.
+WEL,Integrated Wellness Acquisition Corp
+SEDA-UN,SDCL EDGE Acquisition Corporation
+MARW,AIM ETF Products Trust AllianzI
+LQAI,Exchange Listed Funds Trust - LG Qraft AI-Powered U.S. Large Cap Core ETF
+DIP,Btd Capital Fund
+NFYS-UN,Enphys Acquisition Corp.
+SES-WT,
+JULD,Innovator ETFs Trust - Innovator Premium Income 10 Barrier ETF - July
+IRRX-WT,
+RRAC-WT,
+PORT-WT,
+JULH,Innovator ETFs Trust - Innovator Premium Income 20 Barrier ETF - July
+GDL-PC,The GDL Fund
+APCA-WT,
+RCFA-UN,RCF Acquisition Corp.
+ARGD,"Argo Group US, Inc. 6.5% SR NTS 42"
+CNDB-WT,
+BH-A,Biglari Holdings Inc.
+HGTY-WT,
+EICA,Eagle Point Income Company Inc.
+TFSA,"Terra Income Fund 6, LLC 7.00% "
+RBCP,RBC Bearings Incorporated
+INAQ,Insight Acquisition Corp.
+ATEK-WT,
+CLBR-WT,
+SEDA-WT,
+NSTB-UN,Northern Star Investment Corp. II
+VCXB-WT,
+GAQ-WT,Generation Asia I Acquisition Limited
+RDW-WT,
+EVE-UN,EVe Mobility Acquisition Corp
+PHYT,Pyrophyte Acquisition Corp.
+DMYY,"dMY Squared Technology Group, Inc."
+NUVB-WT,Nuvation Bio Inc.
+HLLY-WT,
+ATEK-UN,Athena Technology Acquisition Corp. II
+GGM,Guggenheim Credit Allocation Fund
+NFYS-WT,
+PGSS,Pegasus Digital Mobility Acquisition Corp.
+GJR,Strats Trust For Procter & Gambel Security CTF 2006-1
+LCW-WT,
+MNTN-WT,
+TAP-A,Molson Coors Beverage Company
+RC-PC,Ready Capital Corporation
+QFTA,Quantum FinTech Acquisition Corporation
+TAFM,
+OPA,Magnum Opus Acquisition Limited
+DSAQ-UN,Direct Selling Acquisition Corp.
+TWOA,two
+GJH,"STRATS Trust for United States Cellular Corp. Securities, Series 2004-6 STRATS 6.375"
+PYT,PPLUS Trust Series GSC-2 GSC 2 CT FL RT
+HL-PB,Hecla Mining Company
+BVH,Bluegreen Vacations Holding Corporation
+BARK-WT,
+WLYB,"John Wiley & Sons, Inc."
+JBK,"Corporate Backed Trust Certificates, Goldman Sachs Capital I Securities-Backed Series 2004-6 04-6 A1 3.50"
+RRAC-UN,Rigel Resource Acquisition Corp.
+KCGI-UN,Kensington Capital Acquisition Corp. V
+AGM-A,Federal Agricultural Mortgage Corporation
+BACA,Berenson Acquisition Corp. I
+HIPO-WT,
+OSI-WT,
+OPA-WT,
+SLAC,Social Leverage Acquisition Corp I
+BITE-WT,Bite Acquisition Corp.
+CCZ,Comcast Holdings Corp.
+CSTA-UN,Constellation Acquisition Corp I
+CSTA,Constellation Acquisition Corp I
+PHYT-UN,Pyrophyte Acquisition Corp.
+HVT-A,"Haverty Furniture Companies, Inc."
+CSTA-WT,Constellation Acquisition Corp 
+SPE-PC,"Special Opportunities Fund, Inc."
+TRTL-WT,
+GIA,"GigCapital5, Inc."
+HHLA-WT,HH&L Acquisition Co. Redeemable
+NSTD,Northern Star Investment Corp. IV
+INAQU,Insight Acquisition Corp. /DE
+RCFA-WT,
+MART,AIM ETF Products Trust AllianzI
+BITE-UN,Bite Acquisition Corp.
+NSTC,Northern Star Investment Corp. III
+WEL-UN,Integrated Wellness Acquisition Corp
+EVE-WT,
+TCOA-WT,
+AAIN,Arlington Asset Investment Corp
+AIC,Arlington Asset Investment Corp. 6.75% SR NT 25
+BIO-B,"Bio-Rad Laboratories, Inc."
+CHS,"Chico's FAS, Inc."
+SRT,"Startek, Inc."
+TCOA-UN,Trajectory Alpha Acquisition Corp.
+LTHM,Livent Corporation
+WSO-B,"Watsco, Inc."
+IRRX-UN,Integrated Rail and Resources Acquisition Corp.
+WNNR-UN,Andretti Acquisition Corp.
+MPLN-WT,MultiPlan Corporation
+RPT,RPT Realty
+GIM,Templeton Global Income Fund
+ADEX-WT,Adit EdTech Acquisition Corp. R
+NMK-PB,Niagara Mohawk Power Corporation PFD 3.60%
+BYN,Banyan Acquisition Corporation
+PERF-WT,
+ADEX,Adit EdTech Acquisition Corp.
+BYN-WT,
+NMK-PC,Niagara Mohawk Power Corporation PFD 3.90%
+RPT-PD,RPT Realty
+ADEX-UN,Adit EdTech Acquisition Corp.
+CNDA-WT,
+BYN-UN,Banyan Acquisition Corporation
+SHAP-WT,
+NETI,Eneti Inc.
+WRAC,Williams Rowland Acquisition Corp.
+CPTK-UN,Crown Proptech Acquisitions
+EGGF,EG Acquisition Corp.
+EGGF-UN,EG Acquisition Corp.
+CTU,Qwest Corp. NT 7% 25
+KCG,"KCG Holdings, Inc. Class A"
+HW,Headwaters Incorporated
+KATE,Kate Spade & Company
+RMP,Rice Midstream Partners LP
+COL,"Rockwell Collins, Inc."
+HMA-WT,
+TSNU,204271
+AIII,"ACRE Realty Investors, Inc."
+XRM,"Xerium Technologies, Inc."
+NTI,1579
+PCGU,PG&E Corporation
+AF,411094
+ATW,258619
+SHI,Sinopec Shanghai Petrochemical Company Limited
+APN-WT,Apeiron Capital Investment Corp
+NFX,Newfield Exploration Company
+EVHC,Envision Healthcare Corporation
+SSNI,"Silver Spring Networks, Inc."
+BLT,169846
+ALJ,"Alon USA Energy, Inc. common st"
+MYCC,"ClubCorp Holdings, Inc."
+PCL,648505
+JNS,1682288
+FCH,262998
+SFN,309320
+INVN,"InvenSense, Inc."
+CVG,Convergys Corporation
+CNL,255843
+SEND,"SendGrid, Inc."
+AEH,Aegon N.V. PRP CP SEC 6.375
+ZOES,"Zoe's Kitchen, Inc."
+NKA,Niska Gas Storage Partners LLC 
+FUR,30795
+FRC-PJ,First Republic Bank
+NSTC-UN,Northern Star Investment Corp. III
+CST,"CST Brands, Inc."
+FPO,68049
+GLF,"Gulfmark Offshore, Inc."
+SAK,Saratoga Investment Corp 7.25%
+SNP,China Petroleum & Chemical Corporation
+OME,21780
+CSRA,CSRA Inc.
+PF,Pinnacle Foods Inc.
+ABE,Aberdeen Emerging Markets Compa
+PMC,Pharmerica Corporation
+WNRL,"Western Refining Logistics, LP "
+BBG,215105
+CVRR,"CVR Refining, LP"
+NTEST-Z,
+OWLT-WT,
+QCP,"Quality Care Properties, Inc."
+MWR,53962
+STET-UN,ST Energy Transition I Ltd.
+ENH,336774
+LOCL-WT,
+DTY,DTE Energy Company
+EGL,"Engility Holdings, Inc."
+SHPW-WT,
+GMTA,GATX Corporation SR NT 2066
+CUDA,"Barracuda Networks, Inc."
+FRC-PH,First Republic Bank
+ACC,"American Campus Communities, Inc."
+EEQ,"Enbridge Energy Management, L.L.C."
+LXK,1732416
+CPN,13310434
+LHO,LaSalle Hotel Properties
+KS,KapStone Paper and Packaging Corporation
+CRN,78150
+CBI,399641
+XTLY,Xactly Corporation
+AMPS-WT,
+FVIV-WT,Fortress Value Acquisition Corp
+SBII-WT,
+LFC,China Life Insurance Company Limited
+GOAC,GO Acquisition Corp.
+GOAC-UN,GO Acquisition Corp.
+ICNC-WT,
+HTA,"Healthcare Trust of America, Inc."
+GBL,"GAMCO Investors, Inc."
+RLGY,Realogy Holdings Corp.
+SLH,176800
+IHIT,Invesco High Income 2023 Target Term Fund
+MYOV,Myovant Sciences Ltd.
+DST,618500
+ENBA,Enbridge Inc. 6.375 SNT18 B 78
+NYRT,"New York REIT, Inc."
+WE,WeWork Inc.
+RBT-WT,"Rubicon Technologies, Inc."
+FATH-WT,
+TWNI-WT,Tailwind International Acquisit
+ELY,Callaway Golf Company
+VEC,"V2X, Inc."
+PRPC,CC Neuberger Principal Holdings III
+AUY,Yamana Gold Inc.
+HMLP,Höegh LNG Partners LP
+LOCC-WT,
+NTEST-O,
+GAPA,G&P Acquisition Corp.
+PRPB,CC Neuberger Principal Holdings II
+OSH,"Oak Street Health, Inc."
+FBHS,"Fortune Brands Home & Security, Inc."
+EQD-UN,Equity Distribution Acquisition Corp.
+NP,"Neenah, Inc."
+NPTN,NeoPhotonics Corporation
+DMS,"Digital Media Solutions, Inc."
+LFG,Archaea Energy Inc.
+TEN,Tenneco Inc.
+BOXD,"Boxed, Inc."
+AXAC-WT,
+AVAN,Avanti Acquisition Corp.
+PV-UN,Primavera Capital Acquisition Corporation
+MDH,MDH Acquisition Corp.
+WBT,"Welbilt, Inc."
+CTT,"CatchMark Timber Trust, Inc."
+APN-UN,Apeiron Capital Investment Corp.
+WLL,Oasis Petroleum Inc
+EQD,Equity Distribution Acquisition Corp.
+STAR,iStar Inc.
+LUB,"Luby's, Inc."
+PRPB-UN,CC Neuberger Principal Holdings II
+ATMR,Altimar Acquisition Corp. II
+ARCX,Arc Logistic Partners LP Common
+BBL,BHP Group Limited
+CNR,"Cornerstone Building Brands, Inc."
+DNZ-UN,D and Z Media Acquisition Corp.
+BSN,Broadstone Acquisition Corp.
+DFPHW,DFP Healthcare Acquisitions Corp.
+CNP-PB,"CenterPoint Energy, Inc."
+HUGS,USHG Acquisition Corp.
+FAII,Fortress Value Acquisition Corp. II
+FAII-UN,Fortress Value Acquisition Corp. II
+FCRW,First Eagle Alternative Capital
+TRR,31568
+GLEO,Galileo Acquisition Corp.
+GNPK-UN,Genesis Park Acquisition Corp.
+RTP,Reinvent Technology Partners
+KAHC,KKR Acquisition Holdings I Corp.
+PSTH,"Pershing Square Tontine Holdings, Ltd."
+RRD,R. R. Donnelley & Sons Company
+TUFN,Tufin Software Technologies Ltd.
+JW-B,"John Wiley & Sons, Inc."
+JDD,Nuveen Diversified Dividend and Income Fund
+JW-A,"John Wiley & Sons, Inc."
+SFTW,Osprey Technology Acquisition Corp.
+SC,Santander Consumer USA Holdings Inc.
+SCPE,SC Health Corporation
+SCVX-UN,SCVX Corp.
+LOKM-UN,Live Oak Mobility Acquisition Corp.
+SFUN,Fang Holdings Limited
+QTS,"QTS Realty Trust, Inc."
+QTS-PA,"QTS Realty Trust, Inc."
+SOAC,Sustainable Opportunities Acquisition Corp.
+QTS-PB,"QTS Realty Trust, Inc."
+SOAC-UN,Sustainable Opportunities Acquisition Corp.
+SPAQ-UN,Spartan Acquisition Corp. III
+STL-PA,Sterling Bancorp
+TREB,Trebia Acquisition Corp.
+TREC,Trecora Resources
+UMH-PC,"UMH Properties, Inc."
+UZA,United States Cellular Corporation CALL SR NT 60
+UZC,United States Cellular Corporation SR NT 64
+VNE,"Veoneer, Inc."
+VER,"VEREIT, Inc."
+VER-PF,"VEREIT, Inc."
+WBK,Westpac Banking Corporation
+VTA,Invesco Dynamic Credit Opportunities Fund
+XPOA-UN,"DPCM Capital, Inc."
+NTEST-J,
+DDF,"Delaware Investments Dividend and Income Fund, Inc."
+RJAC-UN,Jackson Acquisition Company
+SCUA-WT,
+HZON,Horizon Acquisition Corporation II
+MH-PC,"Maiden Holdings, Ltd."
+SAIL,"SailPoint Technologies Holdings, Inc."
+CCVI-WT,Churchill Capital Corp VI
+NSTD-WT,
+ESM-UN,ESM Acquisition Corporation
+AVTR-PA,"Avantor, Inc."
+DNZ-WT,D and Z Media Acquisition Corp.
+CELP,"Cypress Environmental Partners, L.P."
+CCAC,CITIC Capital Acquisition Corp.
+CCIV,"Lucid Group, Inc."
+CLII,Climate Change Crisis Real Impact I Acquisition Corporation
+BSN-UN,Broadstone Acquisition Corp.
+CCAC-UN,CITIC Capital Acquisition Corp.
+CLNC,"Colony Credit Real Estate, Inc."
+CFX,Colfax Corporation
+BXS,BancorpSouth Bank
+CINR,Sisecam Resources LP
+DFPH,DFP Healthcare Acquisitions Corp.
+DFNS,LGL Systems Acquisition Corp.
+CPSR,Capstar Special Purpose Acquisition Corp.
+DIDI,DiDi Global Inc.
+FIV,First Trust Senior Floating Rate 2022 Target Term Fund
+FUSE,Fusion Acquisition Corp.
+PTR,PetroChina Company Limited
+FCRZ,First Eagle Alternative Capital
+FSKR,FS KKR Capital Corp. II
+GWB,"Great Western Bancorp, Inc."
+SCUA-UN,Sculptor Acquisition Corp I
+FOE,Ferro Corporation
+HKIB,AMTD International Inc.
+GPM,Guggenheim Enhanced Equity Income Fund
+GPX,GP Strategies Corporation
+HZAC,Horizon Acquisition Corporation
+IVR-PA,Invesco Mortgage Capital Inc.
+IFFT,International Flavors & Fragrances Inc.
+IVAN,Ivanhoe Capital Acquisition Corp.
+HRC,"Hill-Rom Holdings, Inc."
+STR-WT,Sitio Royalties Corp.
+LEAP,"Ribbit LEAP, Ltd."
+LEAP-UN,"Ribbit LEAP, Ltd."
+IHC,Independence Holding Company
+KL,Kirkland Lake Gold Ltd.
+KWAC-UN,Kingswood Acquisition Corp.
+JTA,Nuveen Tax-Advantaged Total Return Strategy Fund
+LB,"Bath & Body Works, Inc."
+KDMN,"Kadmon Holdings, Inc."
+WORK,"Slack Technologies, Inc."
+MDLA,"Medallia, Inc."
+MNR-PC,Monmouth Real Estate Investment Corporation
+MDLY,Medley Management Inc.
+MGP,MGM Growth Properties LLC
+MIE,"Cohen & Steers MLP Income and Energy Opportunity Fund, Inc."
+WRI,Weingarten Realty Investors
+MSGN,MSG Networks Inc.
+NAV,Navistar International Corporation
+NBA-WT,New Beginnings Acquisition Corp.
+PCI,PIMCO Dynamic Credit and Mortgage Income Fund
+NNN-PF,"National Retail Properties, Inc."
+NSH,"NavSight Holdings, Inc."
+NSH-UN,"NavSight Holdings, Inc."
+PBC,Prospect Capital Corporation 6.
+PIPP-WT,Pine Island Acquisition Corp. R
+PROS,"ProSight Global, Inc."
+RYB,"RYB Education, Inc."
+RICE,Rice Acquisition Corp.
+RICE-UN,Rice Acquisition Corp.
+IL,
+RDS-A,Shell plc
+RDS-B,Shell plc
+IAA,"IAA, Inc."
+ROT,Rotor Acquisition Corp.
+SOGO,Sogou Inc.
+SPFR-UN,Jaws Spitfire Acquisition Corporation
+APGB-WT,Apollo Strategic Growth Capital
+COTV,"Cotiviti Holdings, Inc."
+ACH,Aluminum Corporation of China Limited
+NBO,"Neuberger Berman New York Municipal Fund, Inc."
+NFNT,Infinite Acquisition Corp.
+ADF,Aldel Financial Inc.
+AHC,A. H. Belo Corporation
+ALUS,Alussa Energy Acquisition Corp.
+CSU,Capital Senior Living Corporation
+IIAC-UN,Zegna
+IO,ION Geophysical Corporation
+CSPR,Casper Sleep Inc.
+JE,Just Energy Group Inc.
+CFXA,Colfax Corporation
+JTD,Nuveen Tax-Advantaged Dividend Growth Fund
+ASAQ-UN,Atlantic Avenue Acquisition Corp
+LAIX,LAIX Inc.
+FSLF,First Eagle Senior Loan Fund
+FTSI,"FTS International, Inc."
+FSPR,Four Springs Capital Trust
+FTV-PA,Fortive Corporation
+AMH-PF,American Homes 4 Rent
+LNFA,L&F Acquisition Corp.
+TGR-WT,
+LNFA-UN,L&F Acquisition Corp.
+LOKM,Live Oak Mobility Acquisition Corp.
+NEW,Puxin Limited
+DWIN-UN,Delwinds Insurance Acquisition Corp.
+IPOF-UN,Social Capital Hedosophia Holdings Corp. VI
+WEI,Weidai Ltd.
+SOLN,Southern Company (The) 2019 Ser
+BGIO,BlackRock 2022 Global Income Opportunity Trust
+ASAQ,Atlantic Avenue Acquisition Corp
+APO-PB,"Apollo Global Management, Inc."
+EHT,Eaton Vance 2021 Target Term Trust
+LGF,1187995
+HIGA,H.I.G. Acquisition Corp.
+FTAI-PB,Fortress Transportation and Infrastructure Investors LLC
+FRX,Forest Road Acquisition Corp.
+FRX-UN,Forest Road Acquisition Corp.
+BWP,"Boardwalk Pipeline Partners, LP"
+IIAC,Zegna
+CVC,2393377
+NEFF,Neff Corporation
+STJ,2007840
+PACE,TPG Pace Tech Opportunities Corp.
+VLTA,Volta Inc.
+NRZ-PC,New Residential Investment Corp.
+PACE-UN,TPG Pace Tech Opportunities Corp.
+SPFR,Jaws Spitfire Acquisition Corporation
+NHF,NexPoint Strategic Opportunities Fund
+OFG-PD,OFG Bancorp
+PPR,Voya Prime Rate Trust
+NFH,New Frontier Health Corporation
+NWHM,The New Home Company Inc.
+SWM,"Schweitzer-Mauduit International, Inc."
+SNPR,Tortoise Acquisition Corp. II
+RJAC,Jackson Acquisition Company
+SEAH,Sports Entertainment Acquisition Corp.
+RFP,Resolute Forest Products Inc.
+SYX,Systemax Inc.
+SWBK,Switchback II Corporation
+TMAC-UN,The Music Acquisition Corporation
+UFS,Domtar Corporation
+VCRA,"Vocera Communications, Inc."
+VEDL,Vedanta Limited
+DWRE,"DEMANDWARE, INC."
+VMM,"Delaware Investments Minnesota Municipal Income Fund II, Inc."
+AAQC,Accelerate Acquisition Corp.
+AXAC-RI,AXIOS Sustainable Growth Acquis
+GSAH,GS Acquisition Holdings Corp II
+GSAH-UN,GS Acquisition Holdings Corp II
+GTT,"GTT Communications, Inc."
+ACII-UN,Atlas Crest Investment Corp. II
+JHB,Nuveen Corporate Income November 2021 Target Term Fund
+JMP,JMP Group LLC
+MOTV,Motive Capital Corp.
+MOTV-UN,Motive Capital Corp.
+ENLK,"EnLink Midstream Partners, LP"
+AMH-PE,American Homes 4 Rent
+VVNT,"Vivint Smart Home, Inc."
+VRS,Verso Corporation
+YSAC,Yellowstone Acquisition Company
+SBG,Sandbridge Acquisition Corporation
+TACA,Trepont Acquisition Corp I
+APSG-UN,Apollo Strategic Growth Capital
+TACA-UN,Trepont Acquisition Corp I
+DMYS-UN,"dMY Technology Group, Inc. VI"
+IRNT,"IronNet, Inc."
+FRC-PK,First Republic Bank
+NSTD-UN,Northern Star Investment Corp. IV
+NRDY-WT,
+ATC,Atotech Limited
+ESGC,Eros Media World Plc
+ADS,"Bread Financial Holdings, Inc."
+IBA,"Industrias Bachoco, S.A.B. de C.V."
+JP,Jupai Holdings Limited
+IACA,ION Acquisition Corp 1 Ltd.
+RXN,Zurn Water Solutions Corporation
+LOKB,Live Oak Acquisition Corp. II
+HFC,HF Sinclair Corporation
+VGAC,VG Acquisition Corp.
+RBAC,RedBall Acquisition Corp.
+RBAC-UN,RedBall Acquisition Corp.
+P,"Pandora Media, Inc."
+NRZ-PD,New Residential Investment Corp.
+TGP,Teekay LNG Partners L.P.
+ATHN,Athena Technology Acquisition Corp.
+APSG,Apollo Strategic Growth Capital
+MSP,Datto Holding Corp.
+ATH,Athene Holding Ltd.
+IVAN-UN,Ivanhoe Capital Acquisition Corp.
+AFI,"Armstrong Flooring, Inc."
+FLY,Fly Leasing Limited
+FMAC,FirstMark Horizon Acquisition Corp.
+FMAC-UN,FirstMark Horizon Acquisition Corp.
+GIG,"GigCapital4, Inc."
+GTS,Triple-S Management Corporation
+GSQD-WT,G Squared Ascend I Inc. Redeema
+ETH,Ethan Allen Interiors Inc.
+MNRL,"Brigham Minerals, Inc."
+CXP,"Columbia Property Trust, Inc."
+HGH,"The Hartford Financial Services Group, Inc. DEB FIX/FLT 42"
+FHS,"First High-School Education Group Co., Ltd."
+PEI-PB,Pennsylvania Real Estate Investment Trust
+ONE,Meta Data Limited
+BGSX,Build Acquisition Corp.
+BGSX-UN,Build Acquisition Corp.
+CBAH,"CBRE Acquisition Holdings, Inc."
+BPMP,BP Midstream Partners LP
+COG,Cabot Oil & Gas Corporation
+BSA,BrightSphere Investment Group plc
+SJIJ,"South Jersey Industries, Inc"
+Y,Alleghany Corporation
+MYJ,"BlackRock MuniYield New Jersey Fund, Inc."
+TWX,17007297
+ABB,ABB Ltd
+FVIV,Fortress Value Acquisition Corp. IV
+HNGR,"Hanger, Inc."
+HNP,"Huaneng Power International, Inc."
+HOME,At Home Group Inc.
+LINX,Linx S.A.
+CO,Global Cord Blood Corporation
+MTOR,"Meritor, Inc."
+ENIA,Enel Américas S.A.
+REV,"Revlon, Inc."
+KSU,Kansas City Southern
+SLAC-UN,Social Leverage Acquisition Corp I
+HOT,1659453
+FVI,First Trust Total US Market AlphaDEX ETF
+SPGS,"Simon Property Group Acquisition Holdings, Inc."
+SPGS-UN,"Simon Property Group Acquisition Holdings, Inc."
+AUS-UN,Austerlitz Acquisition Corporation I
+TWTR,"Twitter, Inc. (delisted)"
+ZME,Zhangmen Education Inc.
+ANAC-WT,Arctos NorthStar Acquisition Co
+CEAI,Creations Inc.
+RJF-PA,"Raymond James Financial, Inc."
+ASZ,Austerlitz Acquisition Corporation II
+TINV-UN,Tiga Acquisition Corp.
+SI,Silvergate Capital Corporation
+STRE-UN,"Supernova Partners Acquisition Company III, Ltd."
+TSPQ-UN,TCW Special Purpose Acquisition Corp.
+HUGS-UN,USHG Acquisition Corp.
+PDOT,Peridot Acquisition Corp. II
+PDOT-UN,Peridot Acquisition Corp. II
+STRY,"Starry Group Holdings, Inc."
+AXAC,AXIOS Sustainable Growth Acquisition Corporation
+FUSE-UN,Fusion Acquisition Corp.
+VYGG-UN,Vy Global Growth
+PSPC-UN,Post Holdings Partnering Corporation
+KSU-P,Kansas City Southern
+MDLQ,Medley LLC NT 24
+MEP,"Midcoast Energy Partners, L.P. "
+MFL,BlackRock MuniHoldings Investment Quality Fund
+TPGY,TPG Pace Beneficial Finance Corp.
+DS-PC,Drive Shack Inc.
+SJR,Shaw Communications Inc.
+HZON-UN,Horizon Acquisition Corporation II
+FRC-PL,First Republic Bank
+PING,Ping Identity Holding Corp.
+LGV,Longview Acquisition Corp. II
+XL,XL Fleet Corp.
+FVIV-UN,Fortress Value Acquisition Corp. IV
+IMS,12571
+ETP,"Energy Transfer Partners, L.P."
+SOV,1575450
+GSLD,"Global Ship Lease, Inc. 8.00% S"
+TTM,Tata Motors Limited
+INAQ-WT,
+IMPX,AEA-Bridges Impact Corp.
+KRA,Kraton Corporation
+NCR,NCR Corporation
+IPVA-UN,InterPrivate II Acquisition Corp.
+ACW,Accuride Corporation
+PCPC-UN,Periphas Capital Partnering Corporation
+DCUE,"Dominion Energy, Inc."
+STAR-PI,iStar Inc.
+IGZ,
+DPL,656032
+MDH-WT,MDH Acquisition Corp.
+MTVC-UN,Motive Capital Corp II
+MBT,Mobile TeleSystems Public Joint Stock Company
+VYGG,Vy Global Growth
+TMAC,The Music Acquisition Corporation
+SHLX,"Shell Midstream Partners, L.P."
+PMVC-WT,PMV Consumer Acquisition Corp. 
+TPGH-UN,"Accel Entertainment, Inc."
+PMVC-UN,PMV Consumer Acquisition Corp.
+MH-PD,"Maiden Holdings, Ltd."
+ESM,ESM Acquisition Corporation
+CCP,"Care Capital Properties, Inc."
+DEL,35268
+OG,Onion Global Limited
+SFG,188264
+GXP,312276
+NGC-UN,Northern Genesis Acquisition Corp. III
+DS-PD,Drive Shack Inc.
+PEI,Pennsylvania Real Estate Investment Trust
+BOAC,Bluescape Opportunities Acquisition Corp.
+EXAR,306458
+AJAX,Ajax I
+TPVY,TriplePoint Venture Growth BDC Corp.
+FVT-UN,Fortress Value Acquisition Corp. III
+AONE,one
+ARD,Ardagh Group S.A.
+ARES-PA,Ares Management Corporation
+GER,Goldman Sachs MLP and Energy Renaissance Fund
+MACC-WT,Mission Advancement Corp. Redee
+FLYA,SOAR Technology Acquisition Corp.
+PCPC-WT,Periphas Capital Partnering Cor
+PICC-UN,Pivotal Investment Corporation III
+HIL,"Hill International, Inc."
+FCB,"FCB Financial Holdings, Inc."
+PNTM-WT,Pontem Corporation
+ZNH,China Southern Airlines Company Limited
+AED,Aegon N.V. PERP CAP SECS
+DHR-PB,Danaher Corporation
+GFOR-WT,
+AVLR,"Avalara, Inc."
+CLNY,"Colony Capital, Inc."
+AUD,"Audacy, Inc."
+PKY,64050
+ACII,Atlas Crest Investment Corp. II
+CPTK-WT,Crown PropTech Acquisitions Red
+CRY,"Artivion, Inc."
+SWC,555025
+Q,11734365
+STAR-PD,iStar Inc.
+XOXO,XO Group Inc.
+NETC-WT,
+DEH,D8 Holdings Corp.
+AGAC-WT,African Gold Acquisition Corpor
+DHR-PA,Danaher Corporation
+DMYI,"dMY Technology Group, Inc. III"
+DNZ,D and Z Media Acquisition Corp.
+STAR-PG,iStar Inc.
+ZBK,Zions Bancorporation SUB NT FX/FLT 28
+ECCB,Eagle Point Credit Company Inc.
+AMBC-WT,"Ambac Financial Group, Inc."
+APCA-UN,AP Acquisition Corp.
+HZON-WT,Horizon Acquisition Corporation
+FPAC-WT,Far Peak Acquisition Corporatio
+ENR-PA,"Energizer Holdings, Inc."
+ANAC-UN,Arctos NorthStar Acquisition Corp.
+CLIM-UN,Climate Real Impact Solutions II Acquisition Corporation
+FBC,"Flagstar Bancorp, Inc."
+WMLP,"Westmoreland Resource Partners, LP"
+PRBM-UN,Parabellum Acquisition Corp.
+MTL,Mechel PAO
+MTL-P,Mechel PAO
+LOCC,Live Oak Crestview Climate Acquisition Corp.
+POND,Angel Pond Holdings Corporation
+POND-UN,Angel Pond Holdings Corporation
+LPI,"Laredo Petroleum, Inc."
+SWCH,"Switch, Inc."
+LGV-UN,Longview Acquisition Corp. II
+AENZ,Aenza S.A.A.
+CQH,"Cheniere Energy Partners LP Holdings, LLC"
+PV,Primavera Capital Acquisition Corporation
+BOAS,BOA Acquisition Corp.
+BOAS-WT,BOA Acquisition Corp. Redeemabl
+CEO,CNOOC Limited
+CIT,CIT Group Inc.
+CIT-PB,CIT Group Inc.
+CPLG,CorePoint Lodging Inc.
+PCPC,Periphas Capital Partnering Corporation
+CSLT,"Castlight Health, Inc."
+MIT-UN,"Mason Industrial Technology, Inc."
+ECCY,Eagle Point Credit Company Inc. 6.75% NT DE 2027
+ECOM,ChannelAdvisor Corporation
+ENPC-WT,Executive Network Partnering Co
+IPVA-WT,
+CLAS,Class Acceleration Corp.
+ATA-WT,Americas Technology Acquisition
+EQHA,EQ Health Acquisition Corp.
+OA,"Orbital ATK, Inc."
+RKLY,Rockley Photonics Holdings Limited
+AIW,Arlington Asset Investment Corp.
+ANTM,Elevance Health Inc.
+CDR,"Cedar Realty Trust, Inc."
+CLI,Mack-Cali Realty Corporation
+DMYS-WT,
+DMYI-UN,"dMY Technology Group, Inc. III"
+CRU-UN,Crucible Acquisition Corporation
+WALA,Western Alliance Bancorporation SUB DEBENTURS 56
+NSM,Nationstar Mortgage Holdings Inc.
+SWT,Stanley Black & Decker Inc
+FTCH,Farfetch Limited
+RIT,25932
+AHL,Aspen Insurance Holdings Limited
+CLC,151119
+NXR,Nuveen Select Tax-Free Income Portfolio 3
+PNY,216607
+ALL-PG,The Allstate Corporation
+FACA,Figure Acquisition Corp. I
+FACA-UN,Figure Acquisition Corp. I
+ABR-PB,"Arbor Realty Trust, Inc."
+AVYA,Avaya Holdings Corp.
+ABR-PC,"Arbor Realty Trust, Inc."
+BAMH,Brookfield Finance Inc. 4.625% 
+BCEI,"Civitas Resources, Inc."
+BANC-PE,"Banc of California, Inc."
+MBAC,M3-Brigade Acquisition II Corp.
+DSE,Duff & Phelps Select MLP and Midstream Energy Fund
+ENBL,"Enable Midstream Partners, LP"
+EQHA-WT,EQ Health Acquisition Corp. Red
+FCAX-WT,Fortress Capital Acquisition Co
+CND-WT,Concord Acquisition Corp.
+MDH-UN,MDH Acquisition Corp.
+STOR,STORE Capital Corporation
+HZN,Horizon Global Corporation
+ITCB,Itaú Corpbanca
+CBB,Cincinnati Bell Inc.
+ELVT,"Elevate Credit, Inc."
+PPS,210395
+CTK,CooTek (Cayman) Inc.
+ATEST-B,
+ATEST-C,
+ATEST-H,
+PNTM,Pontem Corporation
+DGNR,Dragoneer Growth Opportunities Corp.
+CIXX,CI Financial Corp.
+BRD-WT,
+EFF,Eaton Vance Floating-Rate Income Plus Fund
+CRU,Crucible Acquisition Corporation
+ENPC-UN,Executive Network Partnering Corporation
+SZC,NXG NextGen Infrastructure Income Fund
+HCXZ,"Hercules Capital, Inc."
+TSPQ-WT,
+DTLA-P,Brookfield DTLA Fund Office Trust Investor Inc.
+TWNI-UN,Tailwind International Acquisition Corp.
+NETC-UN,Nabors Energy Transition Corp.
+ACII-WT,Atlas Crest Investment Corp. II
+MCX,Medley Capital Corporation 6.50 NT 013021
+BIF,"SRH Total Return Fund, Inc."
+CAI,"CAI International, Inc."
+MJN,2789
+EQY,201347
+JOY,Joy Global Inc.
+AET,Aetna Inc.
+DCP-PB,"DCP Midstream, LP 7.875 CUM RED B"
+KKD,2409426
+MFGP,Micro Focus International plc
+DRUA,"Dominion Energy, Inc. ENHCD SUB NT16 A"
+RSPP,"RSP Permian, Inc."
+TWND-UN,Tailwind Acquisition Corp.
+INT,World Fuel Services Corporation
+GNE-PA,Genie Energy Ltd.
+PRBM,Parabellum Acquisition Corp.
+RKUS,"Ruckus Wireless, Inc."
+HIGA-UN,H.I.G. Acquisition Corp.
+GIMO,Gigamon Inc.
+MGN,53122
+SJIV,South Jersey Industries Inc
+SVU,SUPERVALU INC.
+UAM,Universal American Corporation 
+LGV-WT,
+FPAC,Far Peak Acquisition Corporation
+AFTR,AfterNext HealthTech Acquisition Corp.
+POM,574649
+RAAS,Cloopen Group Holding Limited
+OACB,Oaktree Acquisition Corp. II
+ATA-UN,Americas Technology Acquisition Corp.
+PEI-PD,Pennsylvania Real Estate Investment Trust
+RMO,"Romeo Power, Inc."
+RVI,Retail Value Inc.
+RNR-PE,RenaissanceRe Holdings Ltd.
+KKR-PC,KKR & Co. Inc.
+CAS,Cascade Acquisition Corp.
+CRHC-WT,Cohn Robbins Holdings Corp. Red
+CMO,Capstead Mortgage Corporation
+DWIN,Delwinds Insurance Acquisition Corp.
+WPZ,Williams Partners L.P.
+FRC-PN,First Republic Bank
+IPOD-UN,Social Capital Hedosophia Holdings Corp. IV
+IPOF,Social Capital Hedosophia Holdings Corp. VI
+DMYS,"dMY Technology Group, Inc. VI"
+TNH,55091
+PICC-WT,Pivotal Investment Corporation 
+ZGYH,Yunhong International
+AAQC-UN,Accelerate Acquisition Corp.
+AAQC-WT,
+FTAI-PC,Fortress Transportation and Infrastructure Investors LLC
+CLIM-WT,Climate Real Impact Solutions I
+CHAA-WT,Catcha Investment Corp. Redeema
+NXQ,Nuveen Select Tax-Free Income Portfolio 2
+KMPA,Kemper Corporation SUB NT 54
+CTAC-UN,Cerberus Telecom Acquisition Corp.
+GROV-WT,
+CRHC-UN,Cohn Robbins Holdings Corp.
+EFM,6037
+PSPC,Post Holdings Partnering Corporation
+HTAQ,Hunt Companies Acquisition Corp. I
+NRF,49917
+HTPA,Highland Transcend Partners I Corp.
+CAB,292838
+GSQB,G Squared Ascend II Inc.
+RSO,Resource Capital Corp. Resource
+ADGE,American DG Energy Inc.
+WNR,Western Refining Inc. Western R
+GFX,Golden Falcon Acquisition Corp.
+MTCN,ArcelorMittal 5.50% Mandatorily
+NEE-PQ,"NextEra Energy, Inc."
+SI-PA,Silvergate Capital Corporation
+ANAC,Arctos NorthStar Acquisition Corp.
+IPVA,InterPrivate II Acquisition Corp.
+BAMR,Brookfield Reinsurance Ltd.
+AVAN-UN,Avanti Acquisition Corp.
+DS,Drive Shack Inc.
+BLL,Ball Corporation
+SUAC-WT,
+ENPC,Executive Network Partnering Corporation
+ADRT-WT,Ault Disruptive Technologies Corporation
+PKO,PIMCO Income Opportunity Fund
+POND-WT,
+PRTY,Party City Holdco Inc.
+FGNA,FG New America Acquisition Corp.
+AMTG,"Apollo Residential Mortgage, In"
+FMD,771270
+EMWP,Eros Media World Plc
+CHAA-UN,Catcha Investment Corp
+PLAN,"Anaplan, Inc."
+BSMX,"Banco Santander México, S.A., Institución de Banca Múltiple, Grupo Financiero Santander México"
+SSU,SIGNA Sports United N.V.
+STRY-WT,
+PBB,Prospect Capital Corporation NT 061524
+WWE,"World Wrestling Entertainment, Inc."
+SPNV-UN,"Supernova Partners Acquisition Company, Inc."
+ESM-WT,
+CLAA,Colonnade Acquisition Corp. II
+ARG,386692
+TMAC-WT,The Music Acquisition Corporati
+IMPR,"Imprivata, Inc."
+CIR,"CIRCOR International, Inc."
+VMEM,"Violin Memory, Inc."
+CAM,1307688
+PEI-PC,Pennsylvania Real Estate Investment Trust
+ACDI,Ascendant Digital Acquisition Corp. III
+JATT-UN,JATT Acquisition Corp
+CLAS-UN,Class Acceleration Corp.
+CND-UN,Concord Acquisition Corp
+DSSI,Diamond S Shipping Inc.
+AGCB,Altimeter Growth Corp. 2
+GAPA-UN,G&P Acquisition Corp.
+IPVF,InterPrivate III Financial Partners Inc.
+DVD,"Dover Motorsports, Inc."
+ATEST-G,
+DRE,Duke Realty Corporation
+EEP,"Enbridge Energy Partners, L.P."
+ELAT,Elanco Animal Health Inc
+GI,202716
+NEE-PP,NextEra Energy Inc
+SLAC-WT,Social Leverage Acquisition Cor
+SJI,"South Jersey Industries, Inc."
+NTEST-L,
+NTEST-M,
+NTEST-Q,
+TWND,Tailwind Acquisition Corp.
+AMPI-UN,"Advanced Merger Partners, Inc"
+AMPI,"Advanced Merger Partners, Inc"
+AGAC,African Gold Acquisition Corporation
+MAXR,Maxar Technologies Inc.
+HCHC,"HC2 Holdings, Inc."
+HPX-UN,HPX Corp.
+MDLX,Medley LLC SR NT 26
+HTPA-WT,Highland Transcend Partners I C
+FACA-WT,Figure Acquisition Corp. I Rede
+OCIP,OCI Partners LP
+OACB-UN,Oaktree Acquisition Corp. II
+OCA,Omnichannel Acquisition Corp.
+OCA-UN,Omnichannel Acquisition Corp.
+IBER-UN,Ibere Pharmaceuticals
+ACDI-UN,Ascendant Digital Acquisition Corp. III
+PDAC,Peridot Acquisition Corp.
+PQG,PQ Group Holdings Inc.
+PCP,534994
+MER,4451613
+LQ,8095
+UCP,"UCP, Inc. Class A"
+KND,"Kindred Healthcare, Inc."
+KMG,"KMG Chemicals, Inc."
+PNX,329070
+MWO,42944
+LDR,16916
+HTS,Hatteras Financial Corp Hattera
+WPCA,Warburg Pincus Capital Corporation I-A
+WPCA-UN,Warburg Pincus Capital Corporation I-A
+FVT,Fortress Value Acquisition Corp. III
+FVT-WT,Fortress Value Acquisition Corp
+APTS,"Preferred Apartment Communities, Inc."
+OIBR-C,Oi S.A.
+AMOV,"América Móvil, S.A.B. de C.V."
+PSXP,Phillips 66 Partners LP
+MCG,Membership Collective Group Inc.
+MPG,262420
+LOKM-WT,
+MIC,"Macquarie Infrastructure Holdings, LLC"
+TEP,"Tallgrass Energy Partners, LP"
+PVG,Pretium Resources Inc.
+PSB,"PS Business Parks, Inc."
+SPGS-WT,Simon Property Group Acquisitio
+LOCK,"LifeLock, Inc."
+PPX,"PPL Capital Funding, Inc. JR SUB NT-B 73"
+CVA,Covanta Holding Corporation
+NRZ-PB,New Residential Investment Corp.
+POLY,"Plantronics, Inc."
+FTAI-PA,Fortress Transportation and Infrastructure Investors LLC
+CLAA-WT,
+CLIM,Climate Real Impact Solutions II Acquisition Corporation
+DS-PB,Drive Shack Inc.
+GAPA-WT,G&P Acquisition Corp.
+STET-WT,
+HTAQ-WT,
+HPX-WT,HPX Corp.
+CNDB-UN,Concord Acquisition Corp III
+IPOD,Social Capital Hedosophia Holdings Corp. IV
+SPNV,"Supernova Partners Acquisition Company, Inc."
+YAC,Yucaipa Acquisition Corporation
+GIA-UN,"GigCapital5, Inc."
+NRZ,New Residential Investment Corp.
+ALP-PQ,Alabama Power Company
+QNGY,"Quanergy Systems, Inc."
+RAI,775589
+GYC,Cabco Series 2004-102 Trust (sbc Communications Inc.) CTF FLT RATE
+HPY,"Heartland Payment Systems, Inc."
+CYS,"CYS Investments, Inc."
+WPCB-WT,
+GCP,GCP Applied Technologies Inc.
+INFO,IHS Markit Ltd.
+FST,FAST Acquisition Corp.
+EQGP,"EQGP Holdings, LP"
+ACF,1491944
+GPT,Gramercy Property Trust
+NTP,Nam Tai Property Inc.
+PHH,PHH Corporation
+FCAX-UN,Fortress Capital Acquisition Corp.
+FST-UN,FAST Acquisition Corp.
+NRZ-PA,New Residential Investment Corp.
+STL,Sterling Bancorp
+QFTA-WT,Quantum FinTech Acquisition Cor
+MACC-UN,Mission Advancement Corp.
+WPF,Foley Trasimene Acquisition Corp.
+WPG,Washington Prime Group Inc.
+NGC,Northern Genesis Acquisition Corp. III
+PEB-PD,Pebblebrook Hotel Trust
+STPC,Star Peak Corp II
+TDA,Telephone &amp; Data Systems Inc.
+AMPI-WT,"Advanced Merger Partners, Inc."
+CND,Concord Acquisition Corp
+EQHA-UN,EQ Health Acquisition Corp.
+WTRU,"Aqua America, Inc."
+ZGYHW,Yunhong International
+XPOA,"DPCM Capital, Inc."
+CKP,252283
+CCVI-UN,Churchill Capital Corp VI
+ZGYHR,Yunhong International
+EXTN,Exterran Corporation
+STZ-B,"Constellation Brands, Inc."
+NTEST-K,
+SRLP,Sprague Resources LP
+AJAX-UN,Ajax I
+EGN,Energen Corporation
+CAA,1152
+VVC,Vectren Corporation
+BGSX-WT,
+BACA-UN,Berenson Acquisition Corp. I
+WQGA-WT,
+TINV,Tiga Acquisition Corp.
+BACA-WT,
+NTEST-Y,
+SGFY,"Signify Health, Inc."
+GFLU,GFL Environmental Inc.
+PNTM-UN,Pontem Corporation
+ICNC-UN,Iconic Sports Acquisition Corp.
+EMQ,4031
+CAJ,Canon Inc.
+IACC,ION Acquisition Corp 3 Ltd.
+TRQ,Turquoise Hill Resources Ltd.
+EPWR,Empowerment & Inclusion Capital I Corp.
+WR,423940
+VRTV,Veritiv Corporation
+STRP,Straight Path Communications In
+KLDX,Klondex Mines Ltd.
+CSC,1056883
+HPX,HPX Corp.
+TSPQ,TCW Special Purpose Acquisition Corp.
+PV-WT,Primavera Capital Acquisition C
+WAVC,Waverley Capital Acquisition Corp. 1
+WRD,WildHorse Resource Development Corporation
+GSQD,G Squared Ascend I Inc.
+CPGX,"Columbia Pipeline Group, Inc."
+HMLP-PA,Höegh LNG Partners LP
+CLAS-WT,CLASS ACCELERATION CORP C/WTS 3
+VLP,Valero Energy Partners LP
+WRE,Elme Communities
+SBII,Sandbridge X2 Corp.
+NGC-WT,
+WQGA,World Quantum Growth Acquisition Corp.
+ATCO,Atlas Corp.
+HNR,411864
+FRC-PM,First Republic Bank
+TWNI,Tailwind International Acquisition Corp.
+CLAA-UN,Colonnade Acquisition Corp. II
+SEP,"Spectra Energy Partners, LP"
+LHC-WT,Leo Holdings Corp. II Redeemabl
+MIT,"Mason Industrial Technology, Inc."
+MIT-WT,"Mason Industrial Technology, In"
+DSAQ-WT,
+IBER,Ibere Pharmaceuticals
+PRBM-WT,Parabellum Acquisition Corp. Re
+FCAX,Fortress Capital Acquisition Corp.
+AUS,Austerlitz Acquisition Corporation I
+ZEN,"Zendesk, Inc."
+IS,ironSource Ltd.
+GSQB-UN,G Squared Ascend II Inc.
+MTAL-UN,Metals Acquisition Corp
+LVLT,5836511
+CRHC,Cohn Robbins Holdings Corp.
+RKTA,Rocket Internet Growth Opportunities Corp.
+APN,Apeiron Capital Investment Corp.
+GSQD-UN,G Squared Ascend I Inc.
+IVC,Invacare Corporation
+NSTC-WT,
+ZTEST,
+CLR,"Continental Resources, Inc."
+WEBR,Weber Inc.
+BAMI,Brookfield Finance Inc. 4.50% P
+AXH,"Industrial Human Capital, Inc."
+PSB-PX,"PS Business Parks, Inc."
+PSB-PY,"PS Business Parks, Inc."
+USER,"UserTesting, Inc."
+PSB-PZ,"PS Business Parks, Inc."
+NID,Nuveen Intermediate Duration Municipal Term Fund
+PNC-PP,"The PNC Financial Services Group, Inc."
+GLS,"Gelesis Holdings, Inc."
+ASZ-UN,Austerlitz Acquisition Corporation II
+MN,"Manning & Napier, Inc."
+STRE-WT,
+RJAC-WT,
+HTPA-UN,Highland Transcend Partners I Corp.
+PDOT-WT,
+SBII-UN,Sandbridge X2 Corp.
+STRE,"Supernova Partners Acquisition Company III, Ltd."
+FTEV,FinTech Evolution Acquisition Group
+FTEV-UN,FinTech Evolution Acquisition Group
+ATA,Americas Technology Acquisition Corp.
+SHAP-UN,Spree Acquisition Corp. 1 Limited
+ATEST-L,
+PIPP,Pine Island Acquisition Corp.
+PMVC,PMV Consumer Acquisition Corp.
+LCI,"Lannett Company, Inc."
+BOAC-UN,Bluescape Opportunities Acquisition Corp.
+ACRO,Acropolis Infrastructure Acquisition Corp.
+MH-PA,"Maiden Holdings, Ltd."
+FRC,First Republic Bank
+FRC-PI,First Republic Bank
+FLYA-UN,SOAR Technology Acquisition Corp.
+ATEST-A,
+STON,StoneMor Inc.
+GLS-WT,
+WQGA-UN,World Quantum Growth Acquisition Corp.
+RAD,Rite Aid Corporation
+DTP,DTE Energy Co
+NTEST-P,
+CEA,China Eastern Airlines Corporation Limited
+NLS,"Nautilus, Inc."
+RZA,"Reinsurance Group of America, Incorporated"
+PBFX,PBF Logistics LP
+BHIL-WT,
+HHC,The Howard Hughes Corporation
+AEB,Aegon N.V. PERP CAP FLTG RT
+NIQ,Nuveen Intermediate Duration Quality Municipal Term Fund
+FLYA-WT,
+IPVF-WT,InterPrivate III Financial Partners Inc.
+FTEV-WT,
+DMS-WT,"Digital Media Solutions, Inc."
+PKI,"PerkinElmer, Inc."
+APRN,"Blue Apron Holdings, Inc."
+TGR,Kimbell Tiger Acquisition Corporation
+TGR-UN,Kimbell Tiger Acquisition Corporation
+PYS,PPlus Trust Series RRD-1 RRD-1 CTF CL A
+MNTN-UN,Everest Consolidator Acquisition Corporation
+DEN,Denbury Inc.
+CCV-WT,Churchill Capital Corp V
+FEDU,Four Seasons Education (Cayman) Inc.
+INAQ-UN,Insight Acquisition Corp.
+TRTN,Triton International Limited
+TVPT,Travelport Worldwide Limited
+JPT,Nuveen Preferred and Income Fund
+NSTB-WT,Northern Star Investment Corp. 
+JUN,Juniper II Corp.
+MBSC,M3-Brigade Acquisition III Corp.
+MBSC-UN,M3-Brigade Acquisition III Corp.
+TRAQ,Trine II Acquisition Corp.
+TRAQ-UN,Trine II Acquisition Corp.
+HTFA,Horizon Technology Finance Corporation 6.25% NT 22
+KAHC-UN,KKR Acquisition Holdings I Corp.
+KAHC-WT,
+CCV,Churchill Capital Corp V
+GFX-UN,Golden Falcon Acquisition Corp.
+IFIN-UN,InFinT Acquisition Corporation
+BRD-UN,Beard Energy Transition Acquisition Corp.
+BSAQ,Black Spade Acquisition Co
+NFNT-UN,Infinite Acquisition Corp.
+HT-PE,Hersha Hospitality Trust
+ACRO-WT,
+LHC,Leo Holdings Corp. II
+ABC,AmerisourceBergen Corporation
+HT-PD,Hersha Hospitality Trust
+HT,Hersha Hospitality Trust
+SSWA,Seaspan Corporation 7.125% NT DUE 27
+ACAQ,Athena Consumer Acquisition Corp.
+FACT-WT,
+NETC,Nabors Energy Transition Corp.
+TCRZ,"THL Credit, Inc."
+LOCC-UN,Live Oak Crestview Climate Acquisition Corp.
+BFAC-UN,Battery Future Acquisition Corp.
+VCXB,10X Capital Venture Acquisition Corp. III
+NEWR,"New Relic, Inc."
+ELU,"Entergy Louisiana, LLC 1ST MTG BD"
+UBP,Urstadt Biddle Properties Inc.
+AAC-WT,Ares Acquisition Corporation Re
+AFTR-UN,AfterNext HealthTech Acquisition Corp.
+FRXB-UN,Forest Road Acquisition Corp. II
+BMAC,Black Mountain Acquisition Corp.
+MNP,Western Asset Municipal Partners Fund Inc.
+ZEV,"Lightning eMotors, Inc."
+AQUA,Evoqua Water Technologies Corp.
+SIRE,Sisecam Resources LP
+ATEST,
+LJIM,Northern Lights Fund Trust IV - Long Cramer Tracker ETF
+TRCA,Twin Ridge Capital Acquisition Corp.
+ATAQ,Altimar Acquisition Corp. III
+HT-PC,Hersha Hospitality Trust
+UP-WT,
+GSQB-WT,
+OPA-UN,Magnum Opus Acquisition Limited
+NM,Navios Maritime Holdings Inc.
+AAIC-PC,Arlington Asset Investment Corp.
+AAIC-PB,Arlington Asset Investment Corp.
+JMPD,JMP Group LLC 7.25% SR NT 27
+FORG,"ForgeRock, Inc."
+PRPC-WT,CC Neuberger Principal Holdings
+JATT,JATT Acquisition Corp
+GEHI,"Gravitas Education Holdings, Inc."
+KLR,"Kaleyra, Inc."
+ICNC,Iconic Sports Acquisition Corp.
+JUN-UN,Juniper II Corp.
+WE-WT,
+EOCW-WT,
+BDXB,"Becton, Dickinson and Company"
+BSX-PA,Boston Scientific Corporation
+AAC-UN,Ares Acquisition Corporation
+ARNC,Arconic Corporation
+EDI,Virtus Stone Harbor Emerging Markets Total Income Fund
+CTZ,Qwest Corp. NT
+RCA,Ready Capital Corporation 7.00%
+IVH,Ivy Funds - Delaware Ivy High Income Opportunities Fund
+SAB,Saratoga Investment Corp. NT 23
+FPAC-UN,Far Peak Acquisition Corporation
+MACC,Mission Advancement Corp.
+CXAC,C5 Acquisition Corporation
+WFC-PQ,Wells Fargo & Company
+ATCO-PI,Atlas Corp.
+WPCB,Warburg Pincus Capital Corporation I-B
+WPCB-UN,Warburg Pincus Capital Corporation I-B
+CIAN,Cian PLC
+APE,"AMC Entertainment Holdings, Inc."
+HUGS-WT,
+YTPG,TPG Pace Beneficial II Corp.
+TINV-WT,Tiga Acquisition Corp.
+TRAQ-WT,
+BRDS,"Bird Global, Inc."
+BOAC-WT,Bluescape Opportunities Acquisi
+EMPW,Emerge ETF Trust - Emerge EMPWR Unified Sustainable Equity ETF
+DUKH,Duke Energy Corporation JR SUB DEB 73
+BRMK,Broadmark Realty Capital Inc.
+PICC,Pivotal Investment Corporation III
+WMC,Western Asset Mortgage Capital Corporation
+DYFN,Angel Oak Dynamic Financial Strategies Income Term Trust
+UBA,Urstadt Biddle Properties Inc.
+APGB,Apollo Strategic Growth Capital II
+ALLY-PA,GMAC Capital Trust I GTD TR PFD-2
+PRPC-UN,CC Neuberger Principal Holdings III
+PIAI,Prime Impact Acquisition I
+BKI,"Black Knight, Inc."
+JSD,Nuveen Short Duration Credit Opportunities Fund
+CBO,CBO (Listing Market - NYSE - Ne
+IRNT-WT,
+FRXB-WT,
+SUAC-UN,ShoulderUp Technology Acquisition Corp.
+MYC,"Blackrock MuniYield California Fund, Inc."
+AAM-PB,"Apollo Global Management, Inc."
+AAM-PA,"Apollo Global Management, Inc."
+UBP-PK,Urstadt Biddle Properties Inc.
+ARGO,"Argo Group International Holdings, Ltd."
+C-PK,Citigroup Inc.
+ZTST,
+FMO,Fiduciary/Claymore Energy Infrastructure Fund
+GFOR,Graf Acquisition Corp. IV
+ESTE,"Earthstone Energy, Inc."
+SUNL,Sunlight Financial Holdings Inc.
+ZBZX,
+OFC,Corporate Office Properties Trust
+SOJB,The Southern Company JR SUB NT 76
+BODY-WT,
+NSR,Nomad Royalty Company Ltd.
+UPH,"UpHealth, Inc."
+FRXB,Forest Road Acquisition Corp. II
+CCV-UN,Churchill Capital Corp V
+VCXB-UN,10X Capital Venture Acquisition Corp. III
+CXAC-WT,
+SCU,"Sculptor Capital Management, Inc."
+SPIR-WT,
+TLGA-WT,TLG Acquisition One Corp.
+NEX,NexTier Oilfield Solutions Inc.
+FSNB-WT,
+QNGY-WT,
+WPCA-WT,
+CEQP,Crestwood Equity Partners LP
+CEQP-P,Crestwood Equity Partners LP
+TRCA-WT,
+TRCA-UN,Twin Ridge Capital Acquisition Corp.
+APGB-UN,Apollo Strategic Growth Capital II
+JHAA,Nuveen Corporate Income 2023 Target Term Fund
+PSPC-WT,
+KNSW-WT,KnightSwan Acquisition Corporation
+CEN,Center Coast Brookfield MLP & Energy Infrastructure Fund
+FZT,FAST Acquisition Corp. II
+FZT-UN,FAST Acquisition Corp. II
+PIAI-WT,Prime Impact Acquisition I
+FLAG,"First Light Acquisition Group, Inc."
+MTVC-WT,
+GS-PJ,"The Goldman Sachs Group, Inc."
+BOXD-WT,"Boxed, Inc."
+JATT-WT,
+MMP,"Magellan Midstream Partners, L.P."
+JRO,Nuveen Floating Rate Income Opportunity Fund
+AAC,Ares Acquisition Corporation
+GHL,"Greenhill & Co., Inc."
+VNTR,Venator Materials PLC
+MDP,Meredith Corporation
+FEO,First Trust/abrdn Emerging Opportunity Fund
+LCW-UN,Learn CW Investment Corporation
+UBP-PH,Urstadt Biddle Properties Inc.
+PBY,Prospect Capital Corporation
+UZB,United States Cellular Corporation SR NT 120163
+DCP-PC,"DCP Midstream, LP"
+JPS,Nuveen Preferred Securities Income Fund
+NIMC,NiSource Inc.
+HEP,"Holly Energy Partners, L.P."
+NFNT-WT,
+PACI,PROOF Acquisition Corp I
+SUAC,ShoulderUp Technology Acquisition Corp.
+CORR-PA,"CorEnergy Infrastructure Trust, Inc."
+CCVI,Churchill Capital Corp VI
+VMW,"VMware, Inc."
+DTJ,DTE Energy Company JR SUB DEB 76
+JUN-WT,
+FDEU,First Trust Dynamic Europe Equity Income Fund
+NRGX,PIMCO Energy and Tactical Credit Opportunities Fund
+PZN,"Pzena Investment Management, Inc."
+DEX,Delaware Enhanced Global Dividend and Income Fund
+MGU,Macquarie Global Infrastructure Total Return Fund Inc.
+CBX,
+RKLY-WT,
+JEMD,Nuveen Emerging Markets Debt 2022 Target Term Fund
+ACAQ-WT,Athena Consumer Acquisition Corp.
+GIA-WT,
+IBER-WT,
+IBO,
+VLTA-WT,
+HLGN-WT,
+EZT,"Entergy Texas, Inc."
+JBR,Corporate Backed Call Trust Certificates JCP 06-1CTF A1
+BDXA,"Becton, Dickinson and Company"
+IFIN-WT,
+BRD,Beard Energy Transition Acquisition Corp.
+CXAC-UN,C5 Acquisition Corporation
+QUOT,Quotient Technology Inc.
+CORS-UN,Corsair Partnering Corporation
+DCP,"DCP Midstream, LP"
+APTV-PA,Aptiv PLC
+AQNA,Algonquin Power & Utilities Cor
+CNVY,"Convey Health Solutions Holdings, Inc."
+KMF,"Kayne Anderson NextGen Energy & Infrastructure, Inc."
+BMAC-UN,Black Mountain Acquisition Corp.
+GFOR-UN,Graf Acquisition Corp. IV
+PIPP-UN,Pine Island Acquisition Corp.
+VCIF,Vertical Capital Income Fund
+HMA,Heartland Media Acquisition Corp.
+TLGA,TLG Acquisition One Corp.
+CPUH,Compute Health Acquisition Corp.
+TLGA-UN,TLG Acquisition One Corp.
+CPUH-UN,Compute Health Acquisition Corp.
+AJRD,"Aerojet Rocketdyne Holdings, Inc."
+LSI,"Life Storage, Inc."
+FACT,Freedom Acquisition I Corp.
+CHRA,"Charah Solutions, Inc."
+AGAC-UN,African Gold Acquisition Corporation
+RE,"Everest Re Group, Ltd."
+TNP-PD,Tsakos Energy Navigation Limited
+NEV,Nuveen Enhanced Municipal Value Fund
+BOAS-UN,BOA Acquisition Corp.
+TMX,"Terminix Global Holdings, Inc."
+NLSN,Nielsen Holdings plc
+TPGY-UN,TPG Pace Beneficial Finance Corp.
+CS,Credit Suisse Group AG
+RONI,Rice Acquisition Corp. II
+SCUA,Sculptor Acquisition Corp I
+RONI-UN,Rice Acquisition Corp. II
+MTVC,Motive Capital Corp II
+STET,ST Energy Transition I Ltd.
+FSNB,Fusion Acquisition Corp. II
+KNSW,KnightSwan Acquisition Corporation
+PIAI-UN,Prime Impact Acquisition I
+RY-PT,Royal Bank of Canada
+DOMA-WT,
+NKG,Nuveen Georgia Quality Municipal Income Fund
+NUO,Nuveen Ohio Quality Municipal Income Fund
+EXD,Eaton Vance Tax-Managed Buy-Write Strategy Fund
+IRL,"The New Ireland Fund, Inc."
+EFL,Eaton Vance Floating-Rate 2022 Target Term Trust
+SMM,Salient Midstream & MLP Fund
+JCO,Nuveen Credit Opportunities 2022 Target Term Fund
+MCA,"BlackRock MuniYield California Quality Fund, Inc."
+SAF,Saratoga Investment Corp 6.25% 
+SOJA,The Southern Company JR SUB NT 2015A
+LMHB,"Legg Mason, Inc. JR SUB NT 56"
+LMHA,"Legg Mason, Inc."
+SCA,Stellus Capital Investment Corporation 5.75% NT 2022
+UHN,United States Diesel-Heating Oil
+OSLE,Oaktree Specialty Lending Corpo
+SWH,"Stanley Black & Decker, Inc."
+VZA,"Verizon Communications, 5.9% 15 Feb 2054"
+ACAQ-UN,Athena Consumer Acquisition Corp.
+FLME-UN,Flame Acquisition Corp.
+FSNB-UN,Fusion Acquisition Corp. II
+GFX-WT,Golden Falcon Acquisition Corp.
+KORE-WT,
+PACI-UN,PROOF Acquisition Corp I
+TRTL-UN,TortoiseEcofin Acquisition Corp. III
+CPUH-WT,Compute Health Acquisition Corp
+NSL,Nuveen Senior Income Fund
+TDW-WTB,Tidewater Inc. Series B
+TDW-WTA,Tidewater Inc. Series A
+SATX-WTA,Satixfy Communications Ltd.
+CANO-WT,
+AAIC,Arlington Asset Investment Corp.
+MBSC-WT,
+UPH-WT,
+RONI-WT,
+ATIP-WT,
+FZT-WT,
+HSC,Harsco Corporation
+ACRO-UN,Acropolis Infrastructure Acquisition Corp.
+CTEST,
+IPVF-UN,InterPrivate III Financial Partners Inc.
+MBAC-UN,M3-Brigade Acquisition II Corp.
+SKIL-WT,
+ZVV,
+FACT-UN,Freedom Acquisition I Corp.
+GLOP,GasLog Partners LP
+AZRE,Azure Power Global Limited
+HWKZ,Hawks Acquisition Corp
+GOGN,GoGreen Investments Corporation
+ORCC,Owl Rock Capital Corporation
+SQZ,SQZ Biotechnologies Company
+CORS,Corsair Partnering Corporation
+GOGN-UN,GoGreen Investments Corporation
+EOCW,Elliott Opportunity II Corp.
+USX,"U.S. Xpress Enterprises, Inc."
+HWKZ-UN,Hawks Acquisition Corp
+BBLN,Babylon Holdings Limited
+RENN,Renren Inc.
+EOCW-UN,Elliott Opportunity II Corp.
+ATTO,Atento S.A.
+LHC-UN,Leo Holdings Corp. II
+KNSW-UN,KnightSwan Acquisition Corporation
+PACI-WT,PROOF Acquisition Corp I WT
+OSI-UN,Osiris Acquisition Corp.
+QFTA-UN,Quantum FinTech Acquisition Corporation
+BMAC-WT,
+BRDS-WT,
+GRNT-WT,
+ZEV-WT,
+OPAD-WT,
+HMA-UN,Heartland Media Acquisition Corp.
+CORS-WT,
+MBAC-WT,
+UNVR,Univar Solutions Inc.
+GOGN-WT,
+AFTR-WT,
