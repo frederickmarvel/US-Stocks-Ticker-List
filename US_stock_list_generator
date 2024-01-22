@@ -1,0 +1,40 @@
+import requests
+import pandas as pd
+
+fmp_api_token = "0110b54dbff2439d549b41a39d9790de"
+
+def request_get(url):
+    try:
+        response = requests.get(url)
+
+        if response.status_code == 200:
+            return response.json()
+        else:
+            print(f"Request failed with status code {response.status_code}")
+            return None
+
+    except requests.exceptions.RequestException as e:
+        print(f"An error occurred: {e}")
+        return None
+
+def get_stock_ticker_lists():
+    try:
+        url = f"https://financialmodelingprep.com/api/v3/stock/list?apikey={fmp_api_token}"
+        data = request_get(url)
+        return data
+    except Exception as e:
+        print(f"Error: {e}")
+        return None
+
+def get_specific_exchange(exchange_short):
+    data = get_stock_ticker_lists()  # Here, call the function with ()
+    if data:
+        df = pd.DataFrame(data)
+        get_data = df[df['exchangeShortName'] == exchange_short]
+        filtered_data = get_data[['symbol', 'name']]
+        filename = f"{exchange_short}_stocks_list.csv"
+        filtered_data.to_csv(filename, index=False)
+    else:
+        print("No data received")
+
+get_specific_exchange("NYSE")
