@@ -37,4 +37,4 @@ def get_specific_exchange(exchange_short):
     else:
         print("No data received")
 
-get_specific_exchange("NYSE")
+get_specific_exchange("NASDAQ")
